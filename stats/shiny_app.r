@@ -2,8 +2,9 @@
 # we need to prove theorems of statistics via graphs, let's go
 
 # setting up libraries
-install.packages("shiny")
-install.packages("ggplot2")
+# install these packages if you have not already
+# install.packages("shiny")
+# install.packages("ggplot2")
 
 library(shiny)
 library(ggplot2)
@@ -95,7 +96,7 @@ server <- function(input, output) {
 
     ggplot(data.frame(means), aes(x = means)) +
       geom_histogram(binwidth = 0.1, fill = "blue", alpha = 0.7) +
-      labs(title = "Central Limit Theorem", x = "Sample Mean", y = "Frequency") +
+      labs(title = "Central Limit Theorem", x = "Sample Mean", y = "Frequency") + # nolint
       theme_minimal()
   })
 }

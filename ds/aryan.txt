@@ -1,0 +1,26 @@
+SELECT * FROM Products;
+SELECT name, price FROM Products;
+SELECT name, price FROM Products WHERE price<=200;
+SELECT * FROM Products WHERE price<120 AND price>60;
+SELECT name, price*100 AS price_in_cent FROM Products;
+SELECT avg(price) as average_price from Products;
+SELECT avg(price) as average_price from Products WHERE manufacturer=2;
+SELECT COUNT(price) from Products WHERE price>=180;
+SELECT name, price FROM Products WHERE price>=180 ORDER BY price DESC, name;
+SELECT * FROM Products, Manufacturers WHERE Manufacturers.Code=Products.Manufacturer;
+SELECT Products.Name, Products.Price, Manufacturers.Name as Manufacturer FROM Products, Manufacturers WHERE Manufacturers.Code=Products.Manufacturer;
+SELECT Manufacturer, avg(price) FROM Products GROUP by Manufacturer;
+SELECT Products.Manufacturer, Manufacturers.Name, avg(price) FROM Products, Manufacturers WHERE Products.Manufacturer=Manufacturers.Code GROUP by Manufacturer;
+SELECT Products.Manufacturer, Manufacturers.Name FROM Products, Manufacturers WHERE Products.Manufacturer=Manufacturers.Code GROUP by Manufacturer  HAVING avg(price)>=150;
+SELECT name, price FROM Products WHERE  price=(SELECT min(price) FROM Products);
+INSERT INTO Products(name, price, Manufacturer) VALUES('Loudspeakers', 70, 2);
+UPDATE Products SET name='Laser Printer' WHERE code=8;
+SELECT code, name, price*0.9 as discounted_price, Manufacturer from Products;
+SELECT code, 
+       name, 
+       CASE 
+           WHEN price >= 120 THEN price * 0.9 
+           ELSE price 
+       END AS price, 
+       Manufacturer
+FROM Products;

@@ -9,8 +9,8 @@ library(ggplot2)
 
 # Define User Interface
 ui <- fluidPage(
-  titlePanel( # nolint
-    div(class = "title-panel", "DA241- Proving Statistical Theorems") # nolint
+  titlePanel(
+    div(class = "title-panel", "DA241- Proving Statistical Theorems")
   ),
   h4("~By Aryan Gupta", align = "center"),
   tags$head(tags$style(HTML("
@@ -57,8 +57,8 @@ ui <- fluidPage(
       div(
         class = "theorem-section",
         h3("Weak Law of Large Numbers"),
-        div(class = "theorem-description", "The Weak Law of Large Numbers (WLLN) states that as the sample size increases, the sample mean converges to the population mean. With small samples, the sample mean may fluctuate significantly from the population mean. However, as the sample size grows, these fluctuations diminish, and the sample mean stabilizes, providing a more accurate estimate of the population mean."), # nolint
-        sliderInput("n_wlln", "Sample Size (WLLN):", min = 10, max = 1000, value = 100), # nolint
+        div(class = "theorem-description", "The Weak Law of Large Numbers (WLLN) states that as the sample size increases, the sample mean converges to the population mean. With small samples, the sample mean may fluctuate significantly from the population mean. However, as the sample size grows, these fluctuations diminish, and the sample mean stabilizes, providing a more accurate estimate of the population mean."),
+        sliderInput("n_wlln", "Sample Size (WLLN):", min = 10, max = 1000, value = 100),
         plotOutput("wllnPlot")
       ),
       div(
@@ -66,7 +66,7 @@ ui <- fluidPage(
         h3("Central Limit Theorem"),
         div(
           class = "theorem-description",
-          "The Central Limit Theorem (CLT) states that the distribution of sample means approximates a normal distribution as the sample size increases, regardless of the population distribution. Increasing the sample size makes the histogram of sample means smoother and more normally distributed. More simulations provide a clearer, more accurate histogram, enhancing the visibility of the normal distribution." # nolint # nolint: line_length_linter.
+          "The Central Limit Theorem (CLT) states that the distribution of sample means approximates a normal distribution as the sample size increases, regardless of the population distribution. Increasing the sample size makes the histogram of sample means smoother and more normally distributed. More simulations provide a clearer, more accurate histogram, enhancing the visibility of the normal distribution."
         ),
         sliderInput("n_clt", "Sample Size (CLT):",
           min = 10, max = 1000, value = 100
@@ -79,6 +79,10 @@ ui <- fluidPage(
     )
   )
 )
+
+f <- function(z) {
+  return(exp((z**2) / (-2)) / sqrt(2 * pi))
+}
 
 # Define Server Logic
 server <- function(input, output) {

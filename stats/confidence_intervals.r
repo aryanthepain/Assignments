@@ -1,17 +1,12 @@
-# Install and load necessary packages
-# install.packages("shiny")
-# install.packages("ggplot2")
-
+# AUTHOR: aryanthepain
 library(shiny)
-library(ggplot2)
 
-# Define the UI (User  Interface)
 ui <- fluidPage(
-  titlePanel(
-    div(class = "title-panel", "Confidence Interval for Mean of Normal Distribution")
-  ),
-  h4("~By Aryan Gupta", align = "center"),
-  tags$head(tags$style(HTML("
+    titlePanel(
+        div(class = "title-panel", "Confidence Interval for Mean of Normal Distribution")
+    ),
+    h4("~By Aryan Gupta", align = "center"),
+    tags$head(tags$style(HTML("
     body {
       font-family: Arial, sans-serif;
       background-color: #f8f9fa;
@@ -49,147 +44,170 @@ ui <- fluidPage(
       gap: 30px;
       justify-content: space-around;
     }
-  "))),
-  fluidRow(
-    column(
-      12,
-      div(
-        class = "section",
-        h3("Confidence Interval Calculation"),
-        div(
-          class = "description",
-          "This app calculates and visualizes the confidence interval for the mean of a normal distribution, allowing you to specify whether the population standard deviation is known or unknown."
-        ),
-        h4("Inputs for Finding Confidence Intervals"),
-        div(
-          class = "section inputs",
-          numericInput("n", "Sample Size (n):", min = 2, max = 100, value = 30),
-          numericInput("mean", "Sample Mean (x̄):", min = -10, max = 10, value = 0),
-          numericInput("sigma", "Population Standard Deviation (σ):", min = 0.1, max = 10, value = 1),
-          numericInput("sd", "Sample Standard Deviation (s):", min = 0.1, max = 10, value = 1),
-          sliderInput("alpha", "Tail Probability (α):", min = 0.01, max = 0.20, value = 0.05),
-          selectInput("type", "Confidence Interval Type:", choices = c("Known σ", "Unknown σ")),
-          numericInput("x_lower", "Custom Lower Bound:", value = -1.96, max = 0),
-          numericInput("x_upper", "Calculated Upper Bound:", value = 0, readonly = TRUE)
-        ),
-        plotOutput("ciPlotSymmetric"),
-        plotOutput("ciPlotAsymmetric"),
-        verbatimTextOutput("ciText")
-      )
+    "))),
+    fluidRow(
+        column(
+            12,
+            div(
+                class = "section",
+                h3("Confidence Interval Calculation"),
+                div(
+                    class = "description",
+                    "Calculate and visualize the confidence interval for the mean of a standard normal distribution, allowing you to specify whether the population standard deviation is known or unknown. You can change the tail probabilities to get different confidence intervals. You can also prove that the smallest interval is symmetric about mean by changing one of the bounds."
+                ),
+                div(
+                    class = "section inputs",
+                    sliderInput("alpha", "Tail Probability (α):", min = 0.01, max = 0.2, value = 0.05),
+                    radioButtons("sigma_option", "Sample variance:",
+                        choices = list("Known" = "known", "Unknown" = "unknown"),
+                        selected = "known"
+                    ),
+                    numericInput("sample_size", "Sample Size (n, for unknown σ):", value = 30, min = 2),
+                    uiOutput("left_shift_slider"),
+                    helpText("Set α to adjust the confidence level. Choose between known or unknown sigma and observe the interval comparisons. Modify the lower bound to demonstrate that the shortest interval is symmetric around the mean.")
+                ),
+                h4("Interval Length Comparison"),
+                textOutput("ci_centered"),
+                textOutput("ci_shifted"),
+                textOutput("length_comparison"),
+                plotOutput("ci_plot")
+            )
+        )
     )
-  )
 )
 
+
 server <- function(input, output, session) {
-  observeEvent(input$x_lower, {
-    # Calculate the upper bound based on custom lower bound to achieve alpha probability
-    if (input$type == "Known σ") {
-      x_upper <- input$mean + input$sigma * qnorm(1 - input$alpha + pnorm((input$x_lower - input$mean) / input$sigma))
-    } else {
-      x_upper <- input$mean + input$sd * qt(1 - input$alpha + pt((input$x_lower - input$mean) / input$sd, df = input$n - 1), df = input$n - 1)
+    # Reactive calculation for critical value based on sigma option
+    critical_value <- reactive({
+        if (input$sigma_option == "known") {
+            qnorm(1 - input$alpha / 2)
+        } else {
+            qt(1 - input$alpha / 2, input$sample_size - 1)
+        }
+    })
+
+    # Update left endpoint slider based on critical value
+    output$left_shift_slider <- renderUI({
+        sliderInput("left_shift", "Lower bound:",
+            min = -4, max = -0.1, value = -critical_value(),
+        )
+    })
+
+    output$ci_centered <- renderText({
+        z_alpha <- critical_value()
+        ci_centered <- c(-z_alpha, z_alpha)
+        paste(
+            "Centered Confidence Interval:",
+            "[", round(ci_centered[1], 2), ", ", round(ci_centered[2], 2), "]",
+            "(Length:", round(diff(ci_centered), 2), ")"
+        )
+    })
+
+    output$ci_shifted <- renderText({
+        z_alpha <- critical_value()
+        centered_area <- if (input$sigma_option == "known") {
+            pnorm(z_alpha) - pnorm(-z_alpha)
+        } else {
+            pt(z_alpha, input$sample_size - 1) - pt(-z_alpha, input$sample_size - 1)
+        }
+
+        left_endpoint <- input$left_shift
+
+        if (input$sigma_option == "known") {
+            cumulative_prob <- pnorm(left_endpoint) + centered_area
+            if (cumulative_prob < 1) {
+                right_endpoint <- qnorm(cumulative_prob)
+                ci_shifted <- c(left_endpoint, right_endpoint)
+                paste(
+                    "Shifted Confidence Interval:",
+                    "[", round(ci_shifted[1], 2), ", ", round(ci_shifted[2], 2), "]",
+                    "(Length:", round(diff(ci_shifted), 2), ")"
+                )
+            } else {
+                "The shifted interval cannot be computed with these parameters. Please adjust the lower bound or alpha."
+            }
+        } else {
+            cumulative_prob <- pt(left_endpoint, input$sample_size - 1) + centered_area
+            if (cumulative_prob < 1) {
+                right_endpoint <- qt(cumulative_prob, input$sample_size - 1)
+                ci_shifted <- c(left_endpoint, right_endpoint)
+                paste(
+                    "Shifted Confidence Interval:",
+                    "[", round(ci_shifted[1], 2), ", ", round(ci_shifted[2], 2), "]",
+                    "(Length:", round(diff(ci_shifted), 2), ")"
+                )
+            } else {
+                "The shifted interval cannot be computed with these parameters. Please adjust the lower bound or alpha."
+            }
+        }
+    })
+
+    output$length_comparison <- renderText({
+        paste("(Centered interval is shorter)")
+    })
+
+    output$ci_plot <- renderPlot({
+        z_alpha <- critical_value()
+        centered_area <- if (input$sigma_option == "known") {
+            pnorm(z_alpha) - pnorm(-z_alpha)
+        } else {
+            pt(z_alpha, input$sample_size - 1) - pt(-z_alpha, input$sample_size - 1)
+        }
+
+        left_endpoint <- input$left_shift
+        if (input$sigma_option == "known") {
+            cumulative_prob <- pnorm(left_endpoint) + centered_area
+            if (cumulative_prob < 1) {
+                right_endpoint <- qnorm(cumulative_prob)
+                plot_interval(z_alpha, left_endpoint, right_endpoint, "Z")
+            } else {
+                plot.new()
+                text(0.5, 0.5, "The shifted interval cannot be computed with these parameters. Please adjust the lower bound or alpha.")
+            }
+        } else {
+            cumulative_prob <- pt(left_endpoint, input$sample_size - 1) + centered_area
+            if (cumulative_prob < 1) {
+                right_endpoint <- qt(cumulative_prob, input$sample_size - 1)
+                plot_interval(z_alpha, left_endpoint, right_endpoint, "t", input$sample_size - 1)
+            } else {
+                plot.new()
+                text(0.5, 0.5, "The shifted interval cannot be computed with these parameters. Please adjust the lower bound or alpha.")
+            }
+        }
+    })
+
+    plot_interval <- function(crit_value, left_endpoint, right_endpoint, dist_type, df = NULL) {
+        x_vals <- seq(-4, 4, length.out = 1000)
+        y_vals <- if (dist_type == "Z") dnorm(x_vals) else dt(x_vals, df)
+
+        ci_centered <- c(-crit_value, crit_value)
+        ci_shifted <- c(left_endpoint, right_endpoint)
+
+        plot(x_vals, y_vals,
+            type = "l", lwd = 2, col = "black",
+            xlab = "Z-score / t-score", ylab = "Density",
+            main = "Effect of Shifting Lower Bound on Interval Length"
+        )
+
+        polygon(c(ci_centered[1], seq(ci_centered[1], ci_centered[2], length.out = 100), ci_centered[2]),
+            c(0, dnorm(seq(ci_centered[1], ci_centered[2], length.out = 100)), 0),
+            col = rgb(0, 1, 1, 0.2), border = NA
+        )
+
+        polygon(c(ci_shifted[1], seq(ci_shifted[1], ci_shifted[2], length.out = 100), ci_shifted[2]),
+            c(0, dnorm(seq(ci_shifted[1], ci_shifted[2], length.out = 100)), 0),
+            col = rgb(1, 1, 0, 0.2), border = NA
+        )
+
+        abline(v = ci_centered, col = rgb(0, 1, 1), lty = 2, lwd = 2)
+        abline(v = ci_shifted, col = rgb(1, 1, 0), lty = 2, lwd = 2)
+
+        legend("topright",
+            legend = c("Centered Interval", "Shifted Interval"),
+            col = c(rgb(1, 1, 0), rgb(0, 1, 1)), lwd = 2, lty = 2, bty = "n"
+        )
     }
-    updateNumericInput(session, "x_upper", value = x_upper)
-  })
-
-  output$ciPlotSymmetric <- renderPlot({
-    alpha <- input$alpha
-    n <- input$n
-    mean <- input$mean
-    sigma <- input$sigma
-    sd <- input$sd
-    type <- input$type
-
-    # Symmetric interval calculation
-    if (type == "Known σ") {
-      se <- sigma / sqrt(n)
-      z_value <- qnorm(1 - alpha / 2)
-      lower <- mean - z_value * se
-      upper <- mean + z_value * se
-    } else {
-      se <- sd / sqrt(n)
-      t_value <- qt(1 - alpha / 2, df = n - 1)
-      lower <- mean - t_value * se
-      upper <- mean + t_value * se
-    }
-
-    # Create normal distribution data for the plot
-    x <- seq(mean - 4 * sigma, mean + 4 * sigma, length = 100)
-    y <- dnorm(x, mean, sigma)
-
-    ggplot(data.frame(x = x, y = y), aes(x = x, y = y)) +
-      geom_line() +
-      geom_ribbon(data = subset(data.frame(x, y), x >= lower & x <= upper), aes(ymin = 0, ymax = y), fill = "blue", alpha = 0.2) +
-      geom_vline(xintercept = c(lower, upper), linetype = "dashed", color = "blue") +
-      labs(title = "Symmetric Confidence Interval for Mean", x = "Value", y = "Density") +
-      theme_minimal() +
-      xlim(min(x), max(x))
-  })
-
-  output$ciPlotAsymmetric <- renderPlot({
-    alpha <- input$alpha
-    mean <- input$mean
-    sigma <- input$sigma
-    sd <- input$sd
-    x_lower <- input$x_lower
-    type <- input$type
-
-    # Calculate upper bound based on custom lower bound to achieve alpha probability
-    if (type == "Known σ") {
-      x_upper <- mean + sigma * qnorm(1 - alpha + pnorm((x_lower - mean) / sigma))
-    } else {
-      x_upper <- mean + sd * qt(1 - alpha + pt((x_lower - mean) / sd, df = input$n - 1), df = n - 1)
-    }
-
-    # Create normal distribution data for the plot
-    x <- seq(mean - 4 * sigma, mean + 4 * sigma, length = 100)
-    y <- dnorm(x, mean, sigma)
-
-    ggplot(data.frame(x = x, y = y), aes(x = x, y = y)) +
-      geom_line() +
-      geom_ribbon(data = subset(data.frame(x, y), x >= x_lower & x <= x_upper), aes(ymin = 0, ymax = y), fill = "red", alpha = 0.2) +
-      geom_vline(xintercept = c(x_lower, x_upper), linetype = "dashed", color = "red") +
-      labs(title = "Asymmetric Confidence Interval for Mean", x = "Value", y = "Density") +
-      theme_minimal() +
-      xlim(min(x), max(x))
-  })
-
-  output$ciText <- renderPrint({
-    alpha <- input$alpha
-    n <- input$n
-    mean <- input$mean
-    sigma <- input$sigma
-    sd <- input$sd
-    type <- input$type
-
-    # Symmetric interval
-    if (type == "Known σ") {
-      se <- sigma / sqrt(n)
-      z_value <- qnorm(1 - alpha / 2)
-      lower <- mean - z_value * se
-      upper <- mean + z_value * se
-    } else {
-      se <- sd / sqrt(n)
-      t_value <- qt(1 - alpha / 2, df = n - 1)
-      lower <- mean - t_value * se
-      upper <- mean + t_value * se
-    }
-
-    # Asymmetric interval
-    x_lower <- input$x_lower
-    if (type == "Known σ") {
-      x_upper <- mean + sigma * qnorm(1 - alpha + pnorm((x_lower - mean) / sigma))
-    } else {
-      x_upper <- mean + sd * qt(1 - alpha + pt((x_lower - mean) / sd, df = n - 1), df = n - 1)
-    }
-
-    cat("Symmetric Confidence Interval:\n")
-    cat("Lower Bound:", lower, "\n")
-    cat("Upper Bound:", upper, "\n\n")
-    cat("Asymmetric Confidence Interval:\n")
-    cat("Lower Bound:", x_lower, "\n")
-    cat("Upper Bound:", x_upper, "\n")
-  })
 }
 
-# Run the application
 shinyApp(ui = ui, server = server)

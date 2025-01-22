@@ -1,0 +1,20 @@
+<div class="alert alert-danger" role="alert"><h1>Error</h1><p><strong>SQL query:</strong>  <a href="#" class="copyQueryBtn" data-text="SELECT
+    *
+FROM
+    Employees WHERE () OR () ORDER BY
+    Salary DESC">Copy</a>
+<a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F8.0%2Fen%2Fselect.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help"></a><a href="index.php?route=/table/sql&sql_query=SELECT%0D%0A++++%2A%0D%0AFROM%0D%0A++++Employees+WHERE+%28%29+OR+%28%29+ORDER+BY%0D%0A++++Salary+DESC&show_query=1&db=lab3_employee&table=Employees"><span class="text-nowrap"><img src="themes/dot.gif" title="Edit" alt="Edit" class="icon ic_b_edit">&nbsp;Edit</span></a>    </p>
+<p>
+<code class="sql"><pre>
+SELECT
+    *
+FROM
+    Employees WHERE () OR () ORDER BY
+    Salary DESC
+</pre></code>
+</p>
+<p>
+    <strong>MySQL said: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F8.0%2Fen%2Fserver-error-reference.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help"></a>
+</p>
+<code>#1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;) OR () ORDER BY<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Salary DESC&#039; at line 4</code><br></div>

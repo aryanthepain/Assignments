@@ -19,4 +19,4 @@ FROM
 WHERE
     o.CustomerID = customer_id;
 
-END $$ DELIMITER;
+END $$ DELIMITER;;

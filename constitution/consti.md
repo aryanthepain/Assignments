@@ -1418,3 +1418,357 @@ Cadence shall operate in accordance with the following provisions:
 5. Unresolved disputes shall be escalated to the Cultural Board Council for final resolution.
 
 Cadence shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### LitSoc – Literary Club
+
+#### Article I – Purpose
+
+LitSoc is the official Literary Club of IIT Guwahati and shall function under the authority and guidance of the Cultural Board.
+
+The purpose of LitSoc shall be:
+
+1. To serve as the primary literary body of IIT Guwahati, organizing diverse literary activities including writing sessions, open mics, poetry gatherings, word games, quizzes, and author discussions.
+2. To promote literary culture through activities such as Scrabble, Cryptic Crosswords, multilingual events, and literary collaborations.
+3. To provide a platform for students to express themselves through poetry, prose, storytelling, and other forms of literary expression.
+4. To organize and conduct Aakhar, the annual literary festival of IIT Guwahati, including competitions, workshops, word games, and literary performances.
+5. To publish literary works and maintain an annual anthology titled S.A.L.S.A.
+6. To maintain a literary repository and promote reading, writing, and literary engagement within the student community.
+7. To represent IIT Guwahati in literary competitions, including the Inter-IIT Cultural Meet and other inter-institutional events.
+8. To maintain official media presence through social media platforms and digital publications to showcase student literary work.
+
+---
+
+#### Article II – Organizational Structure
+
+LitSoc shall consist of the following office bearers and members:
+
+1. Secretary
+2. Aakhar Convenor
+3. Content and Writing Head
+4. Events Head
+5. Design Head
+6. Word Games Heads
+7. Media Head
+8. Core Team Members
+9. Club Members
+10. Inter-IIT Cup Mentor
+
+All office bearers and members shall function under the authority of the Cultural Board Council and in accordance with this Constitution.
+
+---
+
+#### Article III – Selection Procedure
+
+Selection procedures shall be as follows:
+
+**1. Secretary**
+
+1. Selection shall be conducted through interviews of prospective candidates.
+2. Final selection shall include an interview conducted with the Cultural Board Secretary or authorized Cultural Board representatives.
+3. Candidates shall submit a collection of agenda proposals outlining their vision, plans, and proposed initiatives for LitSoc.
+
+---
+
+**2. Heads and Core Team**
+
+The following positions shall be selected through interviews conducted by the current leadership and authorized Cultural Board representatives:
+
+1. Aakhar Convenor
+2. Content and Writing Head
+3. Events Head
+4. Design Head
+5. Word Games Heads
+6. Media Head
+7. Core Team Members
+
+Selection shall be based on merit, competence, leadership ability, and commitment to the club.
+
+---
+
+**3. Club Members**
+
+Club Members shall be inducted based on participation, demonstrated interest, contribution, and performance in club activities.
+
+---
+
+#### Article IV – Roles and Responsibilities
+
+**1. Secretary**
+
+The Secretary shall:
+
+1. Coordinate with the Cultural Board and Students’ Gymkhana Council for administrative and operational matters.
+2. Represent LitSoc at the Cultural Board and Gymkhana level.
+3. Obtain approvals, manage finances, and oversee venue bookings for club activities.
+4. Lead and coordinate all club operations and initiatives.
+5. Ensure smooth functioning and fulfillment of the club’s objectives.
+
+---
+
+**2. Aakhar Convenor**
+
+The Aakhar Convenor shall:
+
+1. Lead the planning, execution, and coordination of all events under Aakhar, the annual literary festival.
+2. Coordinate with artists, judges, and participants.
+3. Oversee branding, publicity, and event execution.
+4. Work with the Secretary to finalize budgets and logistics.
+
+---
+
+**3. Content and Writing Head**
+
+The Content and Writing Head shall:
+
+1. Ensure quality and relevance of literary content published by the club.
+2. Manage writing initiatives, literary publications, and creative content.
+3. Encourage writing culture within the club and student community.
+
+---
+
+**4. Events Head**
+
+The Events Head shall:
+
+1. Plan and execute club events and literary competitions.
+2. Coordinate logistical and operational requirements.
+3. Ensure effective event execution.
+
+---
+
+**5. Design Head**
+
+The Design Head shall:
+
+1. Maintain the club’s visual identity and branding.
+2. Create promotional materials, posters, and visual content.
+3. Coordinate with the Cultural Board Design Coordinator.
+
+---
+
+**6. Media Head**
+
+The Media Head shall:
+
+1. Manage club media presence and social media platforms.
+2. Ensure proper coverage of club activities and events.
+3. Coordinate with the Cultural Board Media Head.
+
+---
+
+**7. Word Games Heads**
+
+The Word Games Heads shall:
+
+1. Lead word games initiatives including Scrabble, Cryptic Crosswords, and other literary games.
+2. Organize practice sessions, competitions, and events.
+3. Promote word games participation within the student community.
+
+---
+
+**8. Core Team Members**
+
+Core Team Members shall:
+
+1. Assist in planning and executing club activities.
+2. Support leadership and administrative functions.
+3. Contribute to club initiatives and development.
+
+---
+
+**9. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Guide and train members preparing for Inter-IIT Cultural Meet.
+2. Provide mentorship, experience, and preparation guidance.
+3. Assist in preparing participants for competitions.
+4. Ensure continuity and performance standards in institutional representation.
+
+---
+
+#### Article V – General Provisions
+
+1. LitSoc shall operate under the authority of the Cultural Board.
+2. All official communication shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. LitSoc shall comply with Cultural Board directives and Institute regulations.
+5. LitSoc shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### Lumiere – Film Club
+
+#### Article I – Club Purpose
+
+Lumiere is the official Film Club of IIT Guwahati and shall function under the authority and guidance of the Cultural Board.
+
+The purpose of Lumiere shall be:
+
+1. To provide a platform for storytellers, cinephiles, and creators to explore cinema as an artistic and technical discipline.
+2. To promote film appreciation through screenings, discussions, and critical analysis of cinema.
+3. To foster creative filmmaking through hands-on projects, workshops, and collaborative productions.
+4. To operate through dedicated Film Appreciation and Filmmaking wings to encourage both theoretical understanding and practical creation.
+5. To organize film-related events, competitions, and festivals.
+6. To represent IIT Guwahati in filmmaking competitions, including the Inter-IIT Cultural Meet and other institutional and inter-institutional events.
+
+---
+
+#### Article II – Organizational Structure
+
+Lumiere shall consist of the following official roles:
+
+1. Secretary
+2. Overall Coordinator
+3. Inter-IIT Cup Mentor
+4. Events Head
+5. Media Head
+6. Design Head
+7. Convener, Chalchitra
+8. Core Team Members
+9. Club Members
+
+All office bearers and members shall function under the authority and supervision of the Cultural Board Council and in accordance with this Constitution.
+
+---
+
+#### Article III – Selection Procedure
+
+Selection procedures shall be as follows:
+
+**1. Members**
+
+1. Membership shall be open to all students interested in club activities.
+2. Membership in the Inter-IIT Film Crew shall require interviews and performance evaluations based on technical ability, creativity, and commitment.
+
+---
+
+**2. Secretary, Heads, and Core Team**
+
+1. Selection shall involve submission of detailed application forms, agendas, and proposals.
+2. Candidates shall undergo personal interviews to evaluate leadership ability, commitment, technical competence, and alignment with the club’s vision.
+3. Final selection shall be conducted by the existing leadership in coordination with Cultural Board authorities.
+
+---
+
+#### Article IV – Eligibility
+
+**1. Secretary**
+
+The Secretary must satisfy the following eligibility criteria:
+
+1. Must have no academic backlog.
+2. Must maintain a minimum CPI of 7.0.
+3. Must not hold any concurrent Position of Responsibility within:
+   - Students’ Gymkhana Council,
+   - Hostel Management Council, or
+   - Other clubs or institutional bodies.
+
+---
+
+**2. Core Team Members**
+
+Core Team Members must:
+
+1. Be existing club members.
+2. Demonstrate active participation in club activities, filmmaking projects, or competitions.
+
+---
+
+**3. Club Members**
+
+Club membership shall be open to all students without specific eligibility requirements.
+
+---
+
+#### Article V – Roles and Responsibilities
+
+**1. Secretary**
+
+The Secretary shall:
+
+1. Manage administrative and operational functions of the club.
+2. Coordinate with the Cultural Board, Students’ Gymkhana Council, and Student Affairs.
+3. Represent Lumiere at the Cultural Board and Gymkhana level.
+4. Obtain approvals, manage budgets, and oversee administrative tasks.
+5. Ensure coordination among club heads and members.
+6. Provide leadership and resources necessary for club functioning.
+
+---
+
+**2. Overall Coordinator**
+
+The Overall Coordinator shall:
+
+1. Assist the Secretary in club administration and event execution.
+2. Coordinate with club heads and ensure adherence to timelines.
+3. Organize fresher interaction and routine club activities.
+4. Maintain accountability, teamwork, transparency, and quality standards.
+
+---
+
+**3. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Guide the Inter-IIT Film Crew in preparation for competitions.
+2. Provide technical, artistic, and strategic guidance.
+3. Ensure compliance with competition requirements and timelines.
+4. Coordinate with Inter-IIT organizing bodies and Cultural Board authorities.
+5. Assist in proposing judges, drafting rulebooks, and managing competition logistics.
+6. Ensure effective representation of IIT Guwahati in the Filmmaking Arts Cup.
+
+---
+
+**4. Events Head**
+
+The Events Head shall:
+
+1. Plan and organize film screenings, workshops, competitions, and festivals.
+2. Coordinate logistics, collaborators, and promotional activities.
+3. Maintain event documentation and conduct post-event evaluations.
+4. Contribute to future planning based on event outcomes and feedback.
+
+---
+
+**5. Media Head**
+
+The Media Head shall:
+
+1. Manage visual and digital content across media platforms.
+2. Document club activities through photography and videography.
+3. Maintain social media presence and promotional outreach.
+4. Ensure consistent branding and effective communication.
+
+---
+
+**6. Design Head**
+
+The Design Head shall:
+
+1. Manage all club design requirements.
+2. Create promotional material, posters, and banners.
+3. Maintain club branding and visual identity.
+4. Oversee merchandise design and visual assets.
+5. Guide and supervise club design team members.
+
+---
+
+**7. Convener, Chalchitra**
+
+The Convener, Chalchitra shall:
+
+1. Lead planning and execution of Chalchitra, the club’s flagship event.
+2. Form and manage the event organizing team.
+3. Coordinate with the Secretary and Overall Coordinator.
+4. Ensure smooth execution and successful completion of the event.
+
+---
+
+#### Article VI – General Provisions
+
+1. Lumiere shall operate under the authority of the Cultural Board.
+2. All official communication with Institute authorities shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. Internal disputes shall be resolved by club leadership.
+5. Unresolved disputes shall be escalated to the Cultural Board Council.
+
+Lumiere shall remain subject to this Constitution and Cultural Board governance at all times.

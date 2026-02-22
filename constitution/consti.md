@@ -205,3 +205,114 @@ It shall be the responsibility of every member of the Cultural Community to:
 1. Embrace and preserve the diverse cultural heritage that enriches our collective identity.
 1. Protect and nurture the natural environment within the campus, demonstrating compassion for all living beings.
 1. Safeguard Cultural Board and SAC property, and eschew violence in all thoughts, words, and actions.
+
+# CHAPTER III – CULTURAL BOARD COUNCIL
+
+## SECTION I – INTRODUCTION
+
+### Article I – Authority of the Cultural Board Council
+
+The Cultural Board Council shall serve as the principal executive and administrative body of the Cultural Board.  
+It shall be responsible for the governance, coordination, and supervision of Cultural Clubs, Cultural Events, Cultural Fests, and all other bodies functioning under the Cultural Board, in accordance with this Constitution and Institute regulations.
+
+### Article II – Powers of the Cultural Board Council
+
+The Cultural Board Council shall have the authority to:
+
+1. Formulate and implement policies, directives, and operational procedures for the Cultural Board;
+2. Oversee recruitment, appointment, and removal of office bearers within Cultural Clubs and Cultural Board bodies as specified in this Constitution;
+3. Authorize budgets, financial allocations, and the utilization of Cultural Board resources in consultation with the Finance and Marketing Head and Institute financial authorities;
+4. Establish working groups, committees, and ad-hoc task forces to address specific cultural initiatives, events, or governance issues; and
+5. Take such other actions as may be necessary to ensure effective governance, continuity, and institutional compliance.
+
+All such powers shall be exercised consistent with the provisions of this Constitution and subject to oversight by the Chairperson and Institute regulations.
+
+### Article III – Types of Directives
+
+The Cultural Board Council is empowered to establish, amend, and rescind regulations and policies governing the activities and affairs of the Cultural Board. In exercising this authority, the Council may issue the following types of directives:
+
+#### A. Operational Directives
+
+Operational Directives are directives proposed and enacted by the Cultural Board Council to provide specific guidance or instructions for the functioning and administration of the Cultural Board.
+
+These directives shall govern operational matters including, but not limited to:
+
+- Cultural Club operations;
+- Cultural Event execution;
+- Cultural Fest coordination;
+- Administrative procedures; and
+- Resource utilization and logistical management.
+
+All Cultural Clubs, Events, Fests, and subordinate Cultural Board bodies shall be responsible for ensuring the proper and timely implementation of Operational Directives issued by the Cultural Board Council.
+
+#### B. Policy Directives and Recommendations
+
+The Cultural Board Council may issue Policy Directives and official Recommendations to guide governance, recruitment, financial policy, constitutional interpretation, and institutional priorities within the Cultural Board.
+
+Such directives and recommendations shall reflect the collective intent and governance authority of the Cultural Board Council and shall serve as guiding instruments for Cultural Board bodies.
+
+Directives issued by the Cultural Board Council shall be binding on all subordinate Cultural Board bodies unless otherwise specified or superseded by this Constitution or by higher institutional authority.
+
+#### C. Constitutional Amendments
+
+Any proposal seeking to modify, add, repeal, or otherwise alter any provision of this Constitution shall be classified as a Constitutional Amendment.
+
+All Constitutional Amendments shall be considered and adopted only in accordance with the procedures specified in Chapter IX – Amendments of this Constitution.
+
+No Constitutional Amendment shall be valid or enforceable unless adopted in full compliance with the amendment procedures defined therein.
+
+### Article IV – Powers and Responsibilities of the Cultural Board Council
+
+When convened with the required quorum (more than fifty percent of total Council members) the Cultural Board Council is entrusted with the following powers and responsibilities. All powers shall be exercised in accordance with this Constitution and subject to oversight by the Chairperson and Institute regulations.
+
+**1. Strategic Direction**  
+To provide strategic direction and guidance for cultural initiatives, long-term planning, and innovation across the Cultural Community, ensuring that policies and programs align with institutional objectives and student welfare.
+
+**2. Resource Management**  
+To manage, allocate, and monitor funding and resources effectively to support Cultural endeavours, projects, and initiatives. Resource allocation shall be transparent, documented, and consistent with the budgetary framework and Institute financial regulations, in coordination with the Finance and Marketing Head.
+
+**3. Club Recognition and Support**  
+To recognise, review, and support Cultural Clubs. This includes facilitating access to funding, venues, mentorship, and institutional resources necessary for clubs to conduct activities and represent the Institute, and initiating review or derecognition proceedings where clubs breach this Constitution or Institute regulations.
+
+**4. Coordination and Oversight**  
+To coordinate and oversee Cultural activities, events, and projects across campus cultural domains, ensuring effective execution, avoiding scheduling conflicts, and promoting collaboration among Clubs, Event Teams, and Fest Committees. The Council shall monitor progress and may issue directives to ensure compliance with approved plans.
+
+**5. Advocacy and Representation**  
+To advocate for the interests and welfare of members of the Cultural Community before the Institute administration and external stakeholders, and to represent student cultural concerns in institutional decision-making forums.
+
+**6. Collaboration and Partnerships**  
+To foster collaborations and partnerships with external organisations, industry partners, and other educational institutions to enhance cultural learning opportunities, secure sponsorships and resources, and broaden student exposure, subject to Institute policies on external engagements.
+
+**7. Capacity Building**  
+To facilitate capacity-building initiatives such as workshops, seminars, training programs, and knowledge-sharing activities that empower students with the skills required for cultural leadership, event management, and artistic development.
+
+**8. Ancillary Powers**  
+To establish committees, working groups, and ad-hoc task forces; to approve event proposals and budgets within the Council’s remit; and to take any other actions necessary for the effective governance and continuity of Cultural Board functions, consistent with this Constitution.
+
+### Article V – Prohibitions
+
+The Cultural Board Council shall exercise its authority in a manner consistent with this Constitution, Institute regulations, and the principles of fairness, transparency, and institutional integrity. In particular, the Cultural Board Council shall refrain from the following:
+
+1. **Violation of the Constitution**  
+   The Cultural Board Council shall not enact, enforce, or implement any directive, policy, or decision that contravenes or is inconsistent with the provisions of this Constitution or Institute regulations.
+2. **Abuse of Authority**  
+   The Cultural Board Council shall not misuse its authority for personal gain, preferential treatment, discrimination, or any purpose inconsistent with the welfare of the Cultural Community.
+
+3. **Arbitrary Removal or Appointment**  
+   The Cultural Board Council shall not arbitrarily appoint, remove, or interfere with Positions of Responsibility without following the procedures, eligibility criteria, and due process established under this Constitution.
+4. **Misappropriation or Mismanagement of Funds**  
+   The Cultural Board Council shall not mismanage, misappropriate, or authorize improper use of funds allocated for Cultural purposes. All financial decisions shall be conducted with transparency, accountability, and in accordance with Institute financial regulations and approved budgeting procedures.
+
+5. **Exclusionary or Discriminatory Practices**  
+   The Cultural Board Council shall not engage in or permit discrimination against any Cultural Club, society, organisation, or individual in matters of recognition, funding, resource allocation, or institutional support based on artistic discipline, genre, style of expression, hostel affiliation, or any arbitrary or unconstitutional factor.
+
+6. **Undermining Institutional Collaboration**  
+   The Cultural Board Council shall not obstruct, discourage, or undermine collaboration and cooperation among Cultural Clubs, societies, Event Teams, Fest Committees, or other Cultural Board bodies. The Council shall instead promote coordination and effective utilization of resources to support joint initiatives and collective Cultural development.
+
+7. **Suppression of Innovation and Creative Expression**  
+   The Cultural Board Council shall not take actions that unnecessarily restrict, suppress, or discourage innovation, artistic experimentation, or creative initiatives within the Cultural Community. The Council shall ensure that Cultural Clubs and members are provided fair access to opportunities, funding, and institutional support to pursue creative projects and initiatives.
+
+8. **Unauthorized Exercise of Power**  
+   The Cultural Board Council shall not exercise powers beyond those expressly granted under this Constitution or delegated by Institute authority.
+
+Any action taken in violation of these prohibitions shall be subject to review and corrective action in accordance with this Constitution and Institute regulations.

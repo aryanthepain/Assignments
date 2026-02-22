@@ -625,3 +625,118 @@ Responsibilities:
 1. Cover, record, and archive Cultural Board events including, but not limited to, Manthan, Inter-IIT Cultural Meet, and Qala.
 2. Coordinate with PR Coordinator and Design Coordinator for media and publicity requirements.
 3. Collaborate with Media teams of Cultural Clubs, Events, and Fests to ensure complete media coverage and documentation.
+
+## SECTION VI – RECRUITMENT PROCEDURE
+
+### Article I – Recruitment Procedure
+
+The recruitment process for Positions of Responsibility (PoR) within the Cultural Board Council shall follow a structured and transparent procedure overseen by the incumbent Cultural Board Council, ensuring fairness, merit-based selection, and institutional continuity.
+
+The recruitment process shall comprise the following steps:
+
+1. Announcement of Vacancies  
+   Vacancies for Positions of Responsibility shall be formally announced through official Cultural Board communication channels. The announcement shall specify the available positions, eligibility criteria, responsibilities, and application deadlines.
+
+2. Application Submission  
+   Eligible candidates shall submit their applications in accordance with the prescribed format, procedures, and deadlines. Applications shall include relevant information necessary to evaluate the candidate’s suitability for the position.
+
+3. Shortlisting of Candidates  
+   The incumbent Cultural Board Council shall review all applications and shortlist candidates based on predefined eligibility criteria, merit, experience, and suitability for the position.
+
+4. Interview and Evaluation  
+   Shortlisted candidates shall undergo interviews conducted by the Chairperson and members of the incumbent or previous Cultural Board Council. The interview process shall assess candidates’ leadership ability, competence, institutional knowledge, commitment, and suitability for the role.
+
+5. Selection and Decision-Making  
+   The Cultural Board Council shall deliberate on the performance and qualifications of candidates and make final selection decisions through a fair, impartial, and merit-based process. Decisions shall reflect the collective judgment of the Council and shall be consistent with the provisions of this Constitution.
+
+6. Orientation and Handover  
+   Newly appointed office bearers shall undergo orientation to familiarize themselves with their roles, responsibilities, and governance procedures. Outgoing office bearers shall ensure a proper and complete handover of responsibilities, records, and institutional knowledge to ensure continuity.
+
+### Article II – Eligibility Criteria
+
+Candidates applying for Positions of Responsibility within the Cultural Board Council must satisfy the following eligibility requirements:
+
+1. The candidate must be a currently enrolled student of the Indian Institute of Technology Guwahati.
+
+2. The candidate must not be subject to any active disciplinary proceedings or penalties imposed by the Institute or Student Disciplinary Committee.
+
+3. The candidate must not have any active academic backlog at the time of application, unless explicitly permitted under Institute regulations.
+
+4. The candidate must have completed the minimum academic duration required as follows:
+   - At least four (4) academic semesters for undergraduate students;
+   - At least two (2) academic semesters for postgraduate and doctoral students;
+   - For the positions of Design Coordinator and Media Head, a minimum of two (2) completed semesters shall be required.
+
+5. Candidates applying for Positions of Responsibility within the Cultural Board Council must have at least one (1) more academic year of hostel residency on the IIT Guwahati campus by the virtue of their academic program.
+
+6. Candidates applying for the position of Inter-IIT Contingent Leader shall preferably have prior participation or experience in Inter-IIT Cultural Meet or equivalent institutional representation.
+
+7. All appointments shall be based on merit, demonstrated competence, institutional commitment, leadership ability, and suitability for the position, and shall not be influenced by favoritism, bias, or arbitrary considerations.
+
+8. All eligible members of the Cultural Community shall be provided equal opportunity to apply for Positions of Responsibility without discrimination, in accordance with this Constitution and Institute regulations.
+
+## SECTION VII – RESIGNATION PROCEDURE
+
+### Article I – Resignation of Council Member
+
+Any holder of a Position of Responsibility within the Cultural Board Council who wishes to resign from their position shall submit a formal written resignation to the Cultural Board Secretary.
+
+The resignation shall include:
+
+1. A clear statement of intent to resign from the position;
+2. The reasons for resignation; and
+3. Transfer of access credentials, including passwords and administrative access to official Cultural Board communication channels, where applicable, in accordance with institutional security policies.
+
+Upon receipt of the resignation, the Cultural Board Secretary shall review the request and consult with the Chairperson of the Cultural Board before granting formal acceptance.
+
+Resignation shall take effect only after:
+
+1. Formal acceptance by the Cultural Board Secretary, with the approval of the Chairperson where required; and
+2. Completion of proper handover of responsibilities, records, assets, and institutional information to the designated successor or authorized Cultural Board representative.
+
+### Article II – Resignation of Other Office Bearers
+
+Any other Cultural Board office bearer, including Domain Heads, Coordinators, and other members holding Positions of Responsibility, may submit their resignation to the Cultural Board Secretary.
+
+The Cultural Board Secretary shall review the resignation and may consult with the Chairperson and relevant Council members before granting approval.
+
+Resignation shall take effect upon:
+
+1. Formal acceptance by the Cultural Board Secretary; and
+2. Completion of all required handover procedures to ensure continuity of Cultural Board operations.
+
+Failure to complete proper handover responsibilities may result in administrative review under the provisions of this Constitution and applicable Institute regulations.
+
+## SECTION VIII – VACANCY AND INTERIM APPOINTMENT
+
+### Article I – Vacancy in Office
+
+A vacancy in any Position of Responsibility within the Cultural Board Council may arise under the following circumstances:
+
+1. Resignation of the office bearer in accordance with the resignation procedure defined in this Constitution.
+2. Removal of the office bearer under the provisions of this Constitution.
+3. Completion of tenure without immediate appointment of a successor.
+4. Loss of eligibility under Institute regulations or this Constitution.
+5. Any other circumstance that renders the office bearer unable to continue performing their duties.
+
+Upon occurrence of a vacancy, the Cultural Board Council shall take appropriate measures to ensure continuity of governance and operations.
+
+### Article II – Interim Appointment
+
+In the event of a vacancy in any Position of Responsibility, the Cultural Board Secretary may appoint an interim office bearer to discharge the duties of the vacant position.
+
+The interim appointment shall:
+
+1. Be made in consultation with the Cultural Board Council and subject to the approval of the Chairperson where required.
+2. Remain temporary in nature and shall not confer permanent tenure.
+3. Continue only until a permanent appointment is made in accordance with the recruitment procedures defined in this Constitution.
+
+The interim office bearer shall exercise only those powers necessary to ensure continuity of Cultural Board functions and shall remain accountable to the Cultural Board Council and Chairperson.
+
+### Article III – Continuity of Operations
+
+All Cultural Board bodies, Domain Heads, and office bearers shall cooperate to ensure uninterrupted functioning during any period of vacancy.
+
+Outgoing office bearers shall ensure proper handover of records, credentials, financial information, and operational responsibilities to the interim or permanent successor.
+
+Failure to ensure proper handover may be subject to review under this Constitution and Institute regulations.

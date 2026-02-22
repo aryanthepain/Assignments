@@ -740,3 +740,447 @@ All Cultural Board bodies, Domain Heads, and office bearers shall cooperate to e
 Outgoing office bearers shall ensure proper handover of records, credentials, financial information, and operational responsibilities to the interim or permanent successor.
 
 Failure to ensure proper handover may be subject to review under this Constitution and Institute regulations.
+
+# CHAPTER IV – CULTURAL CLUBS
+
+## SECTION I – PURPOSE, AUTHORITY, AND GOVERNANCE
+
+### Article I – Purpose of Cultural Clubs
+
+Cultural Clubs shall serve as the primary institutional bodies responsible for promoting artistic expression, cultural engagement, and creative development within the Cultural Community of IIT Guwahati.
+
+The objectives of Cultural Clubs shall include:
+
+1. Providing structured platforms for students to develop artistic, literary, and creative skills.
+2. Facilitating participation in Cultural Events, Cultural Fests, Inter-IIT Cultural Meet, and other institutional and inter-institutional competitions.
+3. Promoting collaboration, innovation, and interdisciplinary engagement across artistic domains.
+4. Contributing to the Cultural development, institutional identity, and student life of IIT Guwahati.
+5. Representing IIT Guwahati in Cultural competitions and public cultural platforms.
+
+All Cultural Clubs shall operate under the authority, supervision, and governance of the Cultural Board Council.
+
+### Article II – Authority and Recognition of Cultural Clubs
+
+The Cultural Board Council shall have the authority to:
+
+1. Grant official recognition to Cultural Clubs.
+2. Define operational guidelines, governance structures, and reporting requirements for Cultural Clubs.
+3. Review the functioning, performance, and compliance status of Cultural Clubs.
+4. Suspend or revoke recognition of Cultural Clubs in cases of inactivity, misconduct, financial irregularities, or violation of this Constitution or Institute regulations.
+
+No Cultural Club shall operate as an official Cultural Board entity without formal recognition from the Cultural Board Council.
+
+### Article III – Accountability and Reporting
+
+All Cultural Clubs shall be accountable to the Cultural Board Council and shall:
+
+1. Operate in accordance with this Constitution and directives issued by the Cultural Board Council.
+2. Submit periodic reports of activities, financial utilization, and operational status as required.
+3. Maintain accurate records of meetings, events, finances, assets, and institutional communications.
+4. Provide information and documentation requested by the Cultural Board Council for governance, audit, or institutional review purposes.
+5. Comply with lawful directives issued by the Cultural Board Secretary, Chairperson, and Domain Heads.
+
+Failure to comply may result in review, corrective action, or derecognition.
+
+### Article IV – Financial Governance and Resource Management
+
+Financial planning, allocation, and utilization for Cultural Clubs shall be conducted under the supervision of:
+
+1. The Cultural Board Secretary;
+2. The Finance and Marketing Head; and
+3. The Cultural Club Secretary.
+
+Cultural Clubs shall:
+
+1. Use allocated funds solely for approved Cultural purposes.
+2. Maintain transparent financial records and supporting documentation.
+3. Submit financial reports as required by the Cultural Board Council.
+4. Comply with Institute financial regulations and Cultural Board financial policies.
+
+Unauthorized financial activity shall constitute a violation of this Constitution.
+
+### Article V – Ownership and Custody of Assets
+
+All equipment, instruments, funds, digital assets, and other resources allocated to Cultural Clubs shall remain the property of IIT Guwahati.
+
+No individual member shall claim personal ownership of Cultural Club or Cultural Board assets.
+
+The Cultural Club Secretary shall serve as custodian of club assets and shall:
+
+1. Maintain an updated inventory of all assets.
+2. Ensure proper maintenance, storage, and security of club property.
+3. Regulate authorized usage of equipment.
+4. Ensure proper transfer of assets during handover.
+
+Members shall be responsible for safe return of borrowed equipment.
+
+Loss, misuse, or damage to Institute property may result in disciplinary action.
+
+### Article VI – Media, Communication, and Institutional Representation
+
+Cultural Clubs shall ensure that all official communications, publications, and media releases:
+
+1. Comply with Institute regulations and Cultural Board directives.
+2. Maintain institutional integrity and reputation.
+3. Accurately represent Cultural Board activities.
+4. Are coordinated, where necessary, with the Media Head, PR Coordinator, Cultural Board Secretary, or Chairperson.
+
+Cultural Clubs shall not publish or disseminate misleading, defamatory, or unauthorized content representing IIT Guwahati.
+
+## SECTION II – ORGANIZATION OF CULTURAL CLUBS
+
+### Article I – Composition of Cultural Clubs
+
+Each Cultural Club shall consist of the following office bearers:
+
+1. Cultural Club Secretary
+2. Overall Coordinator
+3. Domain Heads and Core Team Members
+4. Inter-IIT Cup Mentor
+
+These office bearers shall collectively govern the operations, administration, and development of the Cultural Club.
+
+Cultural Club office bearers shall function under the authority and supervision of the Cultural Board Council.
+
+### Article II – Authority and Responsibilities of Cultural Club Leadership
+
+Cultural Club office bearers shall be responsible for:
+
+1. Managing club operations, activities, and institutional coordination.
+2. Organizing Cultural Events, workshops, and competitions.
+3. Preparing club members for Inter-IIT and institutional representation.
+4. Managing club assets, finances, and records.
+5. Ensuring compliance with Cultural Board directives and this Constitution.
+6. Ensuring continuity through proper handover and documentation.
+
+Cultural Club leadership shall remain accountable to the Cultural Board Council.
+
+## SECTION III – TENURE, REMOVAL, AND CONTINUITY OF CULTURAL CLUB OFFICE BEARERS
+
+### Article I – Tenure of Cultural Club Office Bearers
+
+The tenure of all Cultural Club office bearers shall be one academic year, unless otherwise specified under Cultural Board policies or Institute regulations.
+
+The official tenure period shall align with the Cultural Board administrative cycle, typically extending from the first day of April to the thirty-first day of March of the following calendar year.
+
+Office bearers shall exercise their authority only during their defined tenure period and shall remain accountable to the Cultural Board Council throughout their term.
+
+Outgoing office bearers shall continue to perform their duties until their successors are formally appointed and handover procedures are completed.
+
+### Article II – Removal of Cultural Club Office Bearers
+
+A Cultural Club office bearer may be removed from their Position of Responsibility on the grounds of:
+
+1. Misconduct;
+2. Negligence of duties or failure to perform assigned responsibilities;
+3. Abuse or misuse of authority;
+4. Financial misconduct or mismanagement of Cultural Board or Institute resources;
+5. Violation of this Constitution or Institute regulations; or
+6. Actions detrimental to the functioning, integrity, or reputation of the Cultural Board or Institute.
+
+Removal proceedings shall follow due process and shall include:
+
+1. Prior written notice outlining the grounds for review;
+2. Opportunity for the concerned individual to present an explanation or defense;
+3. Formal review by the Cultural Board Council; and
+4. Approval of the Chairperson of the Cultural Board.
+
+Removal shall take effect upon formal approval and completion of transitional arrangements.
+
+### Article III – Mandatory Handover
+
+All outgoing Cultural Club office bearers shall ensure complete and orderly transfer of responsibilities to their successors.
+
+The handover process shall include:
+
+1. Transfer of all physical assets, equipment, and inventory;
+2. Transfer of financial records and documentation;
+3. Transfer of digital access credentials, official accounts, and institutional communication channels;
+4. Transfer of operational documentation, event records, and institutional knowledge.
+
+Failure to complete proper handover may result in administrative review and appropriate action under this Constitution and Institute regulations.
+
+### Article IV – Continuity of Club Operations
+
+Cultural Clubs shall ensure continuity of operations during transitions in leadership.
+
+In the event of a vacancy, interim responsibilities may be assigned by the Cultural Board Secretary in consultation with the Cultural Board Council until a permanent office bearer is appointed in accordance with recruitment procedures.
+
+All Cultural Club members and office bearers shall cooperate to ensure uninterrupted functioning of Cultural Club activities.
+
+## SECTION IV – COMMON GOVERNANCE FRAMEWORK FOR ALL CULTURAL CLUBS
+
+### Article I – Applicability
+
+The provisions in this Section shall apply uniformly to all Cultural Clubs operating under the Cultural Board of IIT Guwahati.
+
+Each Cultural Club shall additionally be governed by its club-specific constitution, which shall define the artistic scope, operational structure, and internal procedures unique to that club.
+
+In the event of any conflict between a club-specific constitution and this Constitution, this Constitution shall prevail.
+
+### Article II – Standard Organizational Structure
+
+Each Cultural Club shall maintain the following minimum organizational structure:
+
+1. Cultural Club Secretary
+2. Overall Coordinator
+3. Domain Heads and Core Team Members
+4. Inter-IIT Cup Mentor
+5. General Body Members
+
+The Cultural Club Secretary shall serve as the chief executive authority of the Cultural Club and shall remain accountable to the Cultural Board Council.
+
+Domain Heads and Core Team Members shall assist in the administration, coordination, and execution of club activities.
+
+### Article III – Authority and Accountability
+
+All Cultural Clubs shall operate under the authority and supervision of the Cultural Board Council.
+
+Cultural Clubs shall:
+
+1. Comply with this Constitution and Cultural Board directives.
+2. Maintain institutional discipline and operational accountability.
+3. Submit reports, financial records, and operational updates when required.
+4. Participate in Cultural Board meetings when instructed.
+5. Cooperate with Cultural Board governance, recruitment, and audit procedures.
+
+The Cultural Board Council shall have the authority to review club functioning and issue directives as necessary.
+
+### Article IV – Recruitment and Membership
+
+Recruitment of Cultural Club office bearers and members shall be conducted in accordance with Cultural Board recruitment procedures.
+
+Recruitment shall:
+
+1. Be merit-based, transparent, and fair.
+2. Provide equal opportunity to all eligible members of the Cultural Community.
+3. Follow eligibility criteria defined in this Constitution and Cultural Board recruitment policies.
+4. Be subject to oversight by the Cultural Board Council.
+
+No club shall conduct recruitment procedures that violate Cultural Board recruitment guidelines.
+
+### Article V – Financial Governance
+
+All Cultural Clubs shall operate under Cultural Board financial governance.
+
+Cultural Clubs shall:
+
+1. Use funds solely for approved Cultural purposes.
+2. Maintain complete financial records and documentation.
+3. Submit financial reports when required.
+4. Comply with Institute financial regulations and Cultural Board financial policies.
+
+The Finance and Marketing Head and Cultural Board Secretary shall supervise club financial governance.
+
+### Article VI – Asset Ownership and Custody
+
+All Cultural Club equipment, resources, digital assets, and funds shall remain the property of IIT Guwahati.
+
+The Cultural Club Secretary shall serve as custodian of club assets and shall:
+
+1. Maintain inventory records.
+2. Ensure proper maintenance and storage.
+3. Regulate authorized usage.
+4. Ensure proper transfer during handover.
+
+Members shall not claim personal ownership of Cultural Club assets.
+
+### Article VII – Inter-IIT Representation
+
+All Cultural Clubs shall coordinate with the Cultural Board Council, Inter-IIT Contingent Leader, and Inter-IIT Coordinator for institutional representation.
+
+Clubs shall:
+
+1. Prepare teams for Inter-IIT Cultural Meet.
+2. Cooperate with selection procedures.
+3. Participate in practice sessions and institutional preparation.
+
+Selection authority shall remain with the Cultural Board Council and Inter-IIT Contingent Leader.
+
+### Article VIII – Reporting and Governance Compliance
+
+Cultural Clubs shall submit periodic reports including:
+
+1. Activity reports
+2. Financial reports
+3. Event reports
+4. Asset inventory records
+
+Failure to comply may result in corrective action or derecognition.
+
+### Article IX – Recognition and Derecognition
+
+The Cultural Board Council shall have the authority to:
+
+1. Grant recognition to Cultural Clubs
+2. Review club performance and compliance
+3. Suspend or derecognize clubs for misconduct, inactivity, or constitutional violations
+
+Derecognition shall require Council review and Chairperson approval.
+
+### Article X – Continuity and Institutional Stability
+
+All Cultural Clubs shall ensure continuity of governance through proper recruitment, handover, and documentation.
+
+Outgoing office bearers shall ensure complete transfer of responsibilities and records.
+
+Failure to ensure continuity may result in administrative review.
+
+### Article XI – Supremacy of Cultural Board Authority
+
+No Cultural Club shall operate independently of the authority of the Cultural Board.
+
+All Cultural Clubs shall function as subordinate bodies under the Cultural Board Council and shall remain subject to its governance, directives, and oversight.
+
+No Cultural Club shall establish governance structures, policies, recruitment procedures, or operational practices that are inconsistent with this Constitution, Cultural Board directives, or Institute regulations.
+
+Any such inconsistent action may be subject to review, corrective action, or derecognition by the Cultural Board Council.
+
+### Article XII – Ownership and Transfer of Digital Assets
+
+All official digital assets of Cultural Clubs shall remain the institutional property of IIT Guwahati.
+
+Such assets shall include, but not be limited to:
+
+1. Official club email accounts;
+2. Cloud storage accounts, drives, and repositories;
+3. Social media accounts and communication channels;
+4. Websites, databases, and digital platforms; and
+5. Any digital resource created using Cultural Board or Institute resources.
+
+Cultural Club office bearers shall serve only as custodians of these digital assets during their tenure.
+
+Upon completion of tenure, resignation, or removal, outgoing office bearers shall ensure complete and secure transfer of all digital assets, credentials, and access permissions to their successors or authorized Cultural Board representatives.
+
+Failure to transfer institutional digital assets shall constitute a violation of this Constitution and may result in disciplinary or administrative action.
+
+## SECTION V – CULTURAL CLUB CONSTITUTIONS
+
+### Montage – Photography Club
+
+#### Article I – Purpose
+
+Montage is the official Photography Club of IIT Guwahati and shall function under the authority of the Cultural Board.
+
+The purpose of Montage shall be:
+
+1. To provide a platform where photography serves as a medium for artistic expression, storytelling, and technical skill development.
+2. To document and capture significant events, activities, and institutional life at IIT Guwahati.
+3. To promote photography as an artistic discipline within the Cultural Community.
+4. To organize workshops, competitions, exhibitions, and training sessions to develop photographic skills.
+5. To represent IIT Guwahati in photography competitions, including the Inter-IIT Cultural Meet and other inter-institutional events.
+
+#### Article II – Organizational Structure
+
+In addition to the common governance structure defined in this Constitution, Montage shall include the following club-specific leadership roles:
+
+1. Secretary
+2. Overall Coordinator
+3. Design Head
+4. Media Head
+5. Inter-IIT Cup Mentor
+6. Core Team Members
+7. General Members
+
+All office bearers shall operate under the authority of the Cultural Board Council and in accordance with this Constitution.
+
+#### Article III – Eligibility
+
+Eligibility criteria for holding office in Montage shall include:
+
+1. The candidate must be a currently enrolled student of IIT Guwahati.
+2. Candidates applying for the position of Secretary shall have no academic backlog.
+3. Candidates applying for the position of Secretary shall have a minimum CPI of 7.0 or equivalent academic standing, unless otherwise approved under Cultural Board recruitment provisions.
+4. Candidates shall not hold conflicting Positions of Responsibility that would interfere with the execution of their duties.
+5. Candidates for Core Team and leadership positions must demonstrate active participation and commitment to club activities.
+
+All eligibility criteria shall remain subject to Cultural Board recruitment policies.
+
+#### Article IV – Recruitment Procedure
+
+Recruitment for Montage leadership and Core Team positions shall be conducted in accordance with Cultural Board recruitment procedures and shall include:
+
+1. Submission of applications by eligible candidates.
+2. Evaluation of candidates based on merit, experience, and contribution to club activities.
+3. Interviews conducted by current club leadership, former leadership, and authorized Cultural Board representatives.
+4. Final selection based on competence, institutional commitment, and suitability for the role.
+
+All recruitment decisions shall remain subject to Cultural Board oversight.
+
+#### Article V – Roles and Responsibilities
+
+The roles and responsibilities of Montage office bearers shall include:
+
+**1. Secretary**
+
+The Secretary shall:
+
+1. Serve as the chief executive officer of Montage.
+2. Manage administrative functions, documentation, and institutional coordination.
+3. Coordinate with the Cultural Board Council and Institute administration.
+4. Oversee execution of club activities, events, and competitions.
+5. Ensure compliance with Cultural Board directives and this Constitution.
+
+**2. Overall Coordinator**
+
+The Overall Coordinator shall:
+
+1. Assist the Secretary in operational and administrative responsibilities.
+2. Coordinate club activities and ensure smooth execution of events.
+3. Facilitate communication between club leadership, members, and Cultural Board authorities.
+
+**3. Design Head**
+
+The Design Head shall:
+
+1. Develop and maintain the visual identity of Montage.
+2. Create promotional materials, posters, and digital design content.
+3. Ensure consistency and quality of the club’s visual representation.
+
+**4. Media Head**
+
+The Media Head shall:
+
+1. Manage the club’s official media platforms and digital presence.
+2. Oversee content creation, publication, and archival of photographic work.
+3. Train and guide members in media production and digital tools.
+
+**5. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Guide and train club members for Inter-IIT Cultural Meet and external competitions.
+2. Assist in preparation, selection, and development of competition entries.
+3. Provide mentorship and technical guidance to ensure competitive performance.
+4. Coordinate with the Cultural Board Council and Inter-IIT Contingent Leader.
+
+**6. Core Team Members**
+
+Core Team Members shall:
+
+1. Assist in organizing events, workshops, and club activities.
+2. Contribute to documentation, photography coverage, and creative initiatives.
+3. Mentor junior members and support club development.
+4. Ensure operational continuity and institutional knowledge transfer.
+
+#### Article VI – Institutional Representation and Documentation
+
+Montage shall serve as the official photography body responsible for documenting Cultural Board activities and institutional Cultural events.
+
+The club shall:
+
+1. Provide photography coverage for Cultural Board events when required.
+2. Maintain archival records of photographic work representing institutional history.
+3. Coordinate with the Media Head of the Cultural Board and other Cultural Clubs for institutional documentation.
+
+All institutional photography assets shall remain the property of IIT Guwahati.
+
+#### Article VII – Governance and Compliance
+
+Montage shall operate in accordance with:
+
+1. This Constitution;
+2. Cultural Board directives; and
+3. Institute regulations.
+
+In case of conflict between club-specific provisions and this Constitution, this Constitution shall prevail.

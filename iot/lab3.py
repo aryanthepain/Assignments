@@ -1,8 +1,15 @@
-import network 
+import network
+import os
 
-# wifi params
-wifi_ssid = 'Password nahi dunga'        # Replace with your WiFi SSID 
-wifi_password = 'qqqqqqqq' # Replace with your WiFi Password
+# Load WiFi credentials from an untracked `secrets.py` module or
+# from environment variables `WIFI_SSID` / `WIFI_PASSWORD`.
+try:
+    from secrets import wifi_ssid, wifi_password
+except Exception:
+    wifi_ssid = os.getenv("WIFI_SSID") if hasattr(os, "getenv") else None
+    wifi_password = os.getenv("WIFI_PASSWORD") if hasattr(os, "getenv") else None
+    if not wifi_ssid or not wifi_password:
+        raise RuntimeError("WiFi credentials not found. Create iot/secrets.py or set WIFI_SSID/WIFI_PASSWORD environment variables.")
 
 def connect_to_wifi(ssid, password): 
     # Configure WiFi using Station Interface 
@@ -94,11 +101,10 @@ test_size = 0.2
 
 x = np.random.rand(size) * math.pi
 np.random.shuffle(x)
-train_size = (1-test_size) * size
+train_size = int((1 - test_size) * size)
 
 x_train = x[:train_size]
 x_test = x[train_size:]
-
 y_train = [math.sin(x_val) for x_val in x_train]
 y_test = [math.sin(x_val) for x_val in x_test]
 
@@ -118,8 +124,7 @@ for i in range(len(x_test)):
     
     predicted = mlp.Predict(x_mlp_test[i])[0].AsFloat
     actual = y_test[i]
-    print(f"  - sin({x[i]}) = {predicted} (actual: {actual})")
-    
+    print(f"  - sin({x_test[i]}) = {predicted} (actual: {actual})")    
     mse += (predicted - actual) ** 2
     
 mse /= len(x_test)

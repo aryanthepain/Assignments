@@ -6,9 +6,9 @@ import random
 import machine 
  
  
-SSID = 'Password nahi dunga'
-PASSWORD = 'qqqqqqqq'
-SERVER = "10.203.27.82" 
+SSID = 'ssid'
+PASSWORD = 'pass'
+SERVER = "ip address of your MQTT broker" 
 CLIENT_ID = ubinascii.hexlify(machine.unique_id()) 
 PUBLISH_TOPIC = b"iot/loc0/temperature" 
 SUBSCRIBE_TOPIC = b"iot/loc0/server" 

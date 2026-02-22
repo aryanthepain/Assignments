@@ -204,8 +204,8 @@ from M5 import Widgets
  
 title0 = None 
 timeLabel = None 
-wifi_ssid = 'Password nahi dunga'        # Replace with your WiFi SSID 
-wifi_password = 'qqqqqqqq' # Replace with your WiFi Password
+wifi_ssid = ''        # Replace with your WiFi SSID 
+wifi_password = '' # Replace with your WiFi Password
  
 def getInternetTime(): 
     ntptime.timeout=30      # NTP server timeout 

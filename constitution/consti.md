@@ -1058,255 +1058,363 @@ Failure to transfer institutional digital assets shall constitute a violation of
 
 ### Montage – Photography Club
 
-#### Article I – Purpose
+#### Article I – Club Purpose
 
-Montage is the official Photography Club of IIT Guwahati and shall function under the authority of the Cultural Board.
+Montage is the official Photography Club of IIT Guwahati, operating under the authority and guidance of the Cultural Board.
 
 The purpose of Montage shall be:
 
-1. To provide a platform where photography serves as a medium for artistic expression, storytelling, and technical skill development.
-2. To document and capture significant events, activities, and institutional life at IIT Guwahati.
-3. To promote photography as an artistic discipline within the Cultural Community.
-4. To organize workshops, competitions, exhibitions, and training sessions to develop photographic skills.
-5. To represent IIT Guwahati in photography competitions, including the Inter-IIT Cultural Meet and other inter-institutional events.
+1. To promote photography as a medium of artistic expression, storytelling, and documentation.
+2. To capture and document institutional events, cultural activities, and campus life.
+3. To develop photography skills among members through workshops, practice, and mentorship.
+4. To represent IIT Guwahati in photography competitions, including the Inter-IIT Cultural Meet and other external events.
 
-#### Article II – Organizational Structure
+#### Article II – Membership and Roles
 
-In addition to the common governance structure defined in this Constitution, Montage shall include the following club-specific leadership roles:
+Montage shall consist of the following official roles:
 
-1. Secretary
-2. Overall Coordinator
-3. Design Head
-4. Media Head
-5. Inter-IIT Cup Mentor
-6. Core Team Members
-7. General Members
+1. Secretaries
+2. Inter-IIT Cup Mentor
+3. Media Head
+4. Design Head
+5. Core Team Members
+6. Members
 
-All office bearers shall operate under the authority of the Cultural Board Council and in accordance with this Constitution.
+All office bearers and members shall operate under the authority of the Cultural Board Council and in accordance with this Constitution.
 
-#### Article III – Eligibility
+#### Article III – Roles and Responsibilities
 
-Eligibility criteria for holding office in Montage shall include:
+**1. Secretaries**
 
-1. The candidate must be a currently enrolled student of IIT Guwahati.
-2. Candidates applying for the position of Secretary shall have no academic backlog.
-3. Candidates applying for the position of Secretary shall have a minimum CPI of 7.0 or equivalent academic standing, unless otherwise approved under Cultural Board recruitment provisions.
-4. Candidates shall not hold conflicting Positions of Responsibility that would interfere with the execution of their duties.
-5. Candidates for Core Team and leadership positions must demonstrate active participation and commitment to club activities.
+The Secretaries shall:
 
-All eligibility criteria shall remain subject to Cultural Board recruitment policies.
+1. Oversee the overall functioning and administration of the club.
+2. Coordinate club activities, events, and institutional coverage.
+3. Represent the club in Cultural Board and institutional matters.
+4. Maintain records, documentation, and continuity of operations.
+5. Ensure compliance with Cultural Board directives and Institute regulations.
 
-#### Article IV – Recruitment Procedure
-
-Recruitment for Montage leadership and Core Team positions shall be conducted in accordance with Cultural Board recruitment procedures and shall include:
-
-1. Submission of applications by eligible candidates.
-2. Evaluation of candidates based on merit, experience, and contribution to club activities.
-3. Interviews conducted by current club leadership, former leadership, and authorized Cultural Board representatives.
-4. Final selection based on competence, institutional commitment, and suitability for the role.
-
-All recruitment decisions shall remain subject to Cultural Board oversight.
-
-#### Article V – Roles and Responsibilities
-
-The roles and responsibilities of Montage office bearers shall include:
-
-**1. Secretary**
-
-The Secretary shall:
-
-1. Serve as the chief executive officer of Montage.
-2. Manage administrative functions, documentation, and institutional coordination.
-3. Coordinate with the Cultural Board Council and Institute administration.
-4. Oversee execution of club activities, events, and competitions.
-5. Ensure compliance with Cultural Board directives and this Constitution.
-
-**2. Overall Coordinator**
-
-The Overall Coordinator shall:
-
-1. Assist the Secretary in operational and administrative responsibilities.
-2. Coordinate club activities and ensure smooth execution of events.
-3. Facilitate communication between club leadership, members, and Cultural Board authorities.
-
-**3. Design Head**
-
-The Design Head shall:
-
-1. Develop and maintain the visual identity of Montage.
-2. Create promotional materials, posters, and digital design content.
-3. Ensure consistency and quality of the club’s visual representation.
-
-**4. Media Head**
-
-The Media Head shall:
-
-1. Manage the club’s official media platforms and digital presence.
-2. Oversee content creation, publication, and archival of photographic work.
-3. Train and guide members in media production and digital tools.
-
-**5. Inter-IIT Cup Mentor**
+**2. Inter-IIT Cup Mentor**
 
 The Inter-IIT Cup Mentor shall:
 
-1. Guide and train club members for Inter-IIT Cultural Meet and external competitions.
-2. Assist in preparation, selection, and development of competition entries.
-3. Provide mentorship and technical guidance to ensure competitive performance.
-4. Coordinate with the Cultural Board Council and Inter-IIT Contingent Leader.
-
-**6. Core Team Members**
-
-Core Team Members shall:
-
-1. Assist in organizing events, workshops, and club activities.
-2. Contribute to documentation, photography coverage, and creative initiatives.
-3. Mentor junior members and support club development.
-4. Ensure operational continuity and institutional knowledge transfer.
-
-#### Article VI – Institutional Representation and Documentation
-
-Montage shall serve as the official photography body responsible for documenting Cultural Board activities and institutional Cultural events.
-
-The club shall:
-
-1. Provide photography coverage for Cultural Board events when required.
-2. Maintain archival records of photographic work representing institutional history.
-3. Coordinate with the Media Head of the Cultural Board and other Cultural Clubs for institutional documentation.
-
-All institutional photography assets shall remain the property of IIT Guwahati.
-
-#### Article VII – Governance and Compliance
-
-Montage shall operate in accordance with:
-
-1. This Constitution;
-2. Cultural Board directives; and
-3. Institute regulations.
-
-In case of conflict between club-specific provisions and this Constitution, this Constitution shall prevail.
-
-### Xpressions – Dramatics Club
-
-#### Article I – Purpose
-
-Xpressions is the official Dramatics Club of IIT Guwahati and shall function under the authority of the Cultural Board.
-
-The purpose of Xpressions shall be:
-
-1. To provide a platform for students to engage in theatre and dramatic arts, including stage plays, street plays, mono acts, mimes, skits, and experimental theatre.
-2. To promote creative expression through acting, directing, scriptwriting, stage production, and performance.
-3. To organize dramatics workshops, performances, competitions, and training sessions.
-4. To foster artistic excellence, collaboration, and innovation in theatre arts.
-5. To represent IIT Guwahati in dramatics competitions, including the Inter-IIT Cultural Meet and other inter-institutional events.
-
-#### Article II – Organizational Structure
-
-In addition to the common Cultural Club governance structure, Xpressions shall include the following leadership roles:
-
-1. Secretary
-2. Overall Coordinator
-3. Media Head
-4. Design Head
-5. Inter-IIT Cup Mentor
-6. Core Team Members
-7. General Members
-
-All office bearers shall function under the authority and supervision of the Cultural Board Council.
-
-#### Article III – Eligibility
-
-Eligibility criteria for holding office in Xpressions shall include:
-
-1. The candidate must be a currently enrolled student of IIT Guwahati.
-2. Candidates for leadership roles must demonstrate active participation in club activities, performances, and training.
-3. Candidates must possess the necessary artistic competence, leadership ability, and institutional commitment required for the position.
-4. Candidates must satisfy Cultural Board eligibility criteria defined under recruitment procedures.
-
-Final eligibility shall remain subject to Cultural Board recruitment policies.
-
-#### Article IV – Recruitment Procedure
-
-Recruitment of Xpressions leadership and Core Team members shall be conducted in accordance with Cultural Board recruitment procedures and shall include:
-
-1. Submission of applications or auditions by eligible candidates.
-2. Evaluation of candidates based on artistic performance, competence, leadership ability, and contribution to club activities.
-3. Interviews conducted by current club leadership, former leadership, and authorized Cultural Board representatives.
-4. Final selection based on merit, institutional commitment, and suitability for the role.
-
-All recruitment decisions shall remain subject to Cultural Board oversight.
-
-#### Article V – Roles and Responsibilities
-
-**1. Secretary**
-
-The Secretary shall:
-
-1. Serve as the chief executive authority of Xpressions.
-2. Oversee administrative, operational, and institutional coordination functions.
-3. Coordinate with the Cultural Board Council and Institute authorities.
-4. Plan and supervise dramatics events, productions, and training programs.
-5. Ensure compliance with this Constitution and Cultural Board directives.
-
-**2. Overall Coordinator**
-
-The Overall Coordinator shall:
-
-1. Assist the Secretary in managing club operations.
-2. Coordinate rehearsals, productions, and event execution.
-3. Ensure effective communication and collaboration among members.
+1. Guide and train members preparing for Inter-IIT Cultural Meet and photography competitions.
+2. Assist in selection, preparation, and mentoring of competition participants.
+3. Ensure continuity and performance standards in inter-institutional competitions.
+4. Coordinate with Cultural Board authorities for Inter-IIT preparation.
 
 **3. Media Head**
 
 The Media Head shall:
 
-1. Manage publicity, documentation, and media presence of the club.
-2. Maintain archival records of performances, scripts, and productions.
-3. Coordinate with Cultural Board Media Head for institutional documentation.
+1. Manage the club’s social media presence and publicity.
+2. Handle photography, videography, and digital content creation.
+3. Maintain archival records of club work and institutional documentation.
+4. Coordinate publicity and media-related activities.
 
 **4. Design Head**
 
 The Design Head shall:
 
-1. Develop promotional materials, posters, and visual content.
-2. Support stage design, set design, and creative visual elements.
-3. Maintain consistency in club branding and artistic presentation.
+1. Develop visual identity and creative materials for club activities.
+2. Create posters, banners, and digital promotional content.
+3. Ensure visual consistency across club communication and branding.
+4. Support publicity and institutional documentation.
 
-**5. Inter-IIT Cup Mentor**
-
-The Inter-IIT Cup Mentor shall:
-
-1. Train and guide club members preparing for dramatics competitions.
-2. Assist in performance selection, rehearsal preparation, and artistic development.
-3. Coordinate with the Inter-IIT Contingent Leader and Cultural Board Council.
-4. Support IIT Guwahati representation in Inter-IIT Cultural Meet dramatics events.
-
-**6. Core Team Members**
+**5. Core Team Members**
 
 Core Team Members shall:
 
-1. Assist in organizing dramatics productions, rehearsals, and workshops.
-2. Support leadership in administrative and operational tasks.
-3. Mentor junior members and contribute to creative development.
-4. Ensure continuity of club knowledge and institutional standards.
+1. Assist in execution of club activities, events, and institutional documentation.
+2. Provide technical and operational support to leadership.
+3. Mentor junior members and ensure continuity of institutional knowledge.
+4. Support event coverage and creative initiatives.
 
-#### Article VI – Institutional Representation and Performance
+**6. Members**
 
-Xpressions shall serve as the official dramatics body representing IIT Guwahati.
+Members shall:
 
-The club shall:
+1. Participate in club activities, events, and institutional documentation.
+2. Assist in photography projects, creative work, and event coverage.
+3. Contribute to club initiatives and collaborative projects.
+4. Support the growth and development of the club.
 
-1. Organize dramatics productions and Cultural performances.
-2. Represent IIT Guwahati in institutional and external dramatics competitions.
-3. Promote theatre culture within the Institute.
+#### Article IV – Eligibility
 
-All institutional performances shall remain subject to Cultural Board authority.
+Eligibility criteria shall include:
 
-#### Article VII – Governance and Compliance
+1. Membership shall be open to students of IIT Guwahati.
+2. Students under disciplinary probation or with severe academic backlog may not be considered for leadership roles.
+3. A student may hold only one official leadership position at a time.
+4. Alumni may participate as mentors or trainers but shall not hold official Positions of Responsibility.
 
-Xpressions shall operate in accordance with:
+#### Article V – Selection Procedure
 
-1. This Constitution;
-2. Cultural Board directives; and
-3. Institute regulations.
+Selection procedures shall include:
 
-In case of conflict between club-specific provisions and this Constitution, this Constitution shall prevail.
+**1. Secretaries**
+
+Selection shall be conducted through interviews conducted by current Secretaries and former Secretaries.
+
+**2. Inter-IIT Cup Mentor, Media Head, Design Head, and Core Team**
+
+Selection shall be conducted through interviews conducted by Secretaries and former leadership.
+
+**3. Members**
+
+Members shall be inducted based on participation, skill, interest, and contribution to club activities.
+
+#### Article VI – General Provisions
+
+Montage shall operate under the following provisions:
+
+1. The club shall function under the authority of the Cultural Board.
+2. All official communication with Institute administration shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. Internal disputes shall be resolved by Secretaries and Core Team.
+5. Unresolved matters shall be escalated to the Cultural Board Council.
+
+Montage shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### Xpressions – Dramatics Club
+
+#### Article I – Club Purpose
+
+Xpressions is the official Dramatics Club of IIT Guwahati, operating under the authority and guidance of the Cultural Board.
+
+The purpose of Xpressions shall be:
+
+1. To promote theatre, dramatics, and stage performance within the Cultural Community.
+2. To provide a platform for acting, directing, scriptwriting, and stage production.
+3. To organize dramatics performances, workshops, and competitions.
+4. To represent IIT Guwahati in dramatics competitions, including the Inter-IIT Cultural Meet and external events.
+
+#### Article II – Membership and Roles
+
+Xpressions shall consist of the following official roles:
+
+1. Secretaries
+2. Inter-IIT Cup Mentor
+3. Media Head
+4. Design Head
+5. Core Team Members
+6. Members
+
+All office bearers and members shall operate under the authority of the Cultural Board Council and this Constitution.
+
+#### Article III – Roles and Responsibilities
+
+**1. Secretaries**
+
+The Secretaries shall:
+
+1. Lead and manage the club’s operations and administration.
+2. Coordinate club activities, rehearsals, and performances.
+3. Represent the club in Cultural Board and institutional matters.
+4. Maintain club records and operational continuity.
+5. Ensure compliance with Cultural Board directives.
+
+**2. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Guide and train members preparing for dramatics competitions.
+2. Assist in performance preparation and mentoring.
+3. Support institutional representation in competitions.
+4. Maintain continuity of performance standards.
+
+**3. Media Head**
+
+The Media Head shall:
+
+1. Manage publicity, documentation, and media presence.
+2. Maintain archival records of club activities.
+3. Handle social media and digital content creation.
+4. Support institutional documentation.
+
+**4. Design Head**
+
+The Design Head shall:
+
+1. Create promotional materials and publicity content.
+2. Maintain the club’s visual identity.
+3. Support creative and publicity initiatives.
+4. Ensure consistency in club branding.
+
+**5. Core Team Members**
+
+Core Team Members shall:
+
+1. Assist in club activities, rehearsals, and productions.
+2. Support leadership and operational functions.
+3. Mentor junior members.
+4. Ensure continuity of club operations.
+
+**6. Members**
+
+Members shall:
+
+1. Participate in dramatics activities, rehearsals, and performances.
+2. Support club events and productions.
+3. Contribute to creative and organizational initiatives.
+4. Assist in institutional representation.
+
+#### Article IV – Eligibility
+
+Eligibility shall include:
+
+1. Membership shall be open to students of IIT Guwahati.
+2. Students under disciplinary probation or severe academic backlog may not be considered for leadership roles.
+3. A student may hold only one official leadership position at a time.
+
+#### Article V – Selection Procedure
+
+Selection procedures shall include:
+
+**1. Secretaries**
+
+Selection shall be conducted through interviews by current and former leadership.
+
+**2. Other Leadership Roles**
+
+Selection shall be conducted through interviews and performance evaluation.
+
+**3. Members**
+
+Members shall be inducted based on auditions, participation, and demonstrated interest.
+
+#### Article VI – General Provisions
+
+Xpressions shall operate under the following provisions:
+
+1. The club shall function under the Cultural Board.
+2. Official communication shall be routed through the Cultural Board.
+3. Tenure of office bearers shall be one academic year.
+4. Disputes shall be resolved internally or escalated to the Cultural Board.
+
+Xpressions shall remain subject to this Constitution.
+
+### Cadence – Dance and Choreography Club
+
+#### Article I – Club Purpose
+
+Cadence is the official Dance and Choreography Club of IIT Guwahati, operating under the authority and guidance of the Cultural Board.
+
+The purpose of Cadence shall be:
+
+1. To foster a strong dance culture within the IIT Guwahati campus.
+2. To represent IIT Guwahati at the Inter-IIT Cultural Meet and other external cultural festivals, competitions, and institutional events.
+3. To create and sustain a community of dancers who collaborate, learn, and grow together through training, rehearsals, and performances.
+
+#### Article II – Membership and Roles
+
+Cadence shall consist of the following official roles:
+
+1. Secretaries
+2. Inter-IIT Cup Mentors
+3. Media Head
+4. Design Head
+5. Core Team Members
+6. Associates
+
+All office bearers and members shall operate under the supervision of the Cultural Board Council and in accordance with this Constitution.
+
+#### Article III – Roles and Responsibilities
+
+**1. Secretaries**
+
+The Secretaries shall serve as the primary student leaders of Cadence and shall:
+
+1. Coordinate club operations, planning, and administration.
+2. Plan and execute club events, workshops, rehearsals, and performances.
+3. Coordinate with the Cultural Board and Institute authorities.
+4. Maintain official records, communications, and operational continuity.
+5. Ensure compliance with Cultural Board directives and institutional regulations.
+
+**2. Inter-IIT Cup Mentors**
+
+The Inter-IIT Cup Mentors shall:
+
+1. Guide and train students for Inter-IIT Cultural Meet and external competitions.
+2. Assist in choreography development, performance preparation, and mentoring.
+3. Propose judges and assist in drafting and amending rulebooks where applicable.
+4. Oversee external competition-related activities and preparation.
+5. Ensure effective representation of IIT Guwahati in the Dance Arts Cup.
+
+**3. Media Head**
+
+The Media Head shall:
+
+1. Manage photography, videography, and digital documentation of club activities.
+2. Handle social media presence, publicity, and content creation.
+3. Maintain archival records of performances and media content.
+4. Support club publicity and institutional documentation.
+
+**4. Design Head**
+
+The Design Head shall:
+
+1. Create posters, banners, and publicity material for club events.
+2. Develop and maintain the visual identity of the club.
+3. Support promotional activities and digital content creation.
+4. Ensure consistency in club branding and visual communication.
+
+**5. Core Team Members**
+
+Core Team Members shall:
+
+1. Actively participate in club activities, performances, and events.
+2. Assist in choreography development, rehearsals, and workshops.
+3. Support club management, coordination, and execution of activities.
+4. Mentor junior members and ensure continuity of club standards.
+
+**6. Associates**
+
+Associates shall:
+
+1. Serve as primary performers representing Cadence in competitions and events.
+2. Participate in Inter-IIT Cultural Meet and external dance competitions.
+3. Actively participate in rehearsals, training, and performances.
+4. Contribute to maintaining the performance standards of the club.
+
+#### Article IV – Eligibility
+
+Eligibility criteria for Cadence shall include:
+
+1. Membership shall be open to all full-time undergraduate students of IIT Guwahati.
+2. A student may hold only one official leadership position (Secretary, Cup Mentor, Media Head, or Design Head) at any given time.
+3. Students under disciplinary probation or with severe academic backlogs may not be considered for leadership roles.
+4. Alumni may be invited for mentorship, training, or workshops but shall not hold official Positions of Responsibility.
+
+#### Article V – Selection Procedure
+
+Selection procedures shall be as follows:
+
+**1. Secretaries**
+
+Selection shall include two rounds of interviews:
+
+1. Interview conducted by current Secretaries and Core Team Members.
+2. Interview conducted by former Secretaries and Core Team Members.
+
+**2. Inter-IIT Cup Mentors, Media Head, Design Head, and Core Team**
+
+Selection shall be conducted through interviews conducted by current Secretaries and former Secretaries.
+
+**3. Associates**
+
+Associates shall be selected through auditions conducted by the Secretaries.
+
+Selection shall be based on performance ability, commitment, and suitability.
+
+#### Article VI – General Provisions
+
+Cadence shall operate in accordance with the following provisions:
+
+1. Cadence shall function under the authority and guidance of the Cultural Board.
+2. All official communication with the Institute administration shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. Internal disputes shall be resolved by the Secretaries and Core Team.
+5. Unresolved disputes shall be escalated to the Cultural Board Council for final resolution.
+
+Cadence shall remain subject to this Constitution and Cultural Board governance at all times.

@@ -1184,3 +1184,129 @@ Montage shall operate in accordance with:
 3. Institute regulations.
 
 In case of conflict between club-specific provisions and this Constitution, this Constitution shall prevail.
+
+### Xpressions – Dramatics Club
+
+#### Article I – Purpose
+
+Xpressions is the official Dramatics Club of IIT Guwahati and shall function under the authority of the Cultural Board.
+
+The purpose of Xpressions shall be:
+
+1. To provide a platform for students to engage in theatre and dramatic arts, including stage plays, street plays, mono acts, mimes, skits, and experimental theatre.
+2. To promote creative expression through acting, directing, scriptwriting, stage production, and performance.
+3. To organize dramatics workshops, performances, competitions, and training sessions.
+4. To foster artistic excellence, collaboration, and innovation in theatre arts.
+5. To represent IIT Guwahati in dramatics competitions, including the Inter-IIT Cultural Meet and other inter-institutional events.
+
+#### Article II – Organizational Structure
+
+In addition to the common Cultural Club governance structure, Xpressions shall include the following leadership roles:
+
+1. Secretary
+2. Overall Coordinator
+3. Media Head
+4. Design Head
+5. Inter-IIT Cup Mentor
+6. Core Team Members
+7. General Members
+
+All office bearers shall function under the authority and supervision of the Cultural Board Council.
+
+#### Article III – Eligibility
+
+Eligibility criteria for holding office in Xpressions shall include:
+
+1. The candidate must be a currently enrolled student of IIT Guwahati.
+2. Candidates for leadership roles must demonstrate active participation in club activities, performances, and training.
+3. Candidates must possess the necessary artistic competence, leadership ability, and institutional commitment required for the position.
+4. Candidates must satisfy Cultural Board eligibility criteria defined under recruitment procedures.
+
+Final eligibility shall remain subject to Cultural Board recruitment policies.
+
+#### Article IV – Recruitment Procedure
+
+Recruitment of Xpressions leadership and Core Team members shall be conducted in accordance with Cultural Board recruitment procedures and shall include:
+
+1. Submission of applications or auditions by eligible candidates.
+2. Evaluation of candidates based on artistic performance, competence, leadership ability, and contribution to club activities.
+3. Interviews conducted by current club leadership, former leadership, and authorized Cultural Board representatives.
+4. Final selection based on merit, institutional commitment, and suitability for the role.
+
+All recruitment decisions shall remain subject to Cultural Board oversight.
+
+#### Article V – Roles and Responsibilities
+
+**1. Secretary**
+
+The Secretary shall:
+
+1. Serve as the chief executive authority of Xpressions.
+2. Oversee administrative, operational, and institutional coordination functions.
+3. Coordinate with the Cultural Board Council and Institute authorities.
+4. Plan and supervise dramatics events, productions, and training programs.
+5. Ensure compliance with this Constitution and Cultural Board directives.
+
+**2. Overall Coordinator**
+
+The Overall Coordinator shall:
+
+1. Assist the Secretary in managing club operations.
+2. Coordinate rehearsals, productions, and event execution.
+3. Ensure effective communication and collaboration among members.
+
+**3. Media Head**
+
+The Media Head shall:
+
+1. Manage publicity, documentation, and media presence of the club.
+2. Maintain archival records of performances, scripts, and productions.
+3. Coordinate with Cultural Board Media Head for institutional documentation.
+
+**4. Design Head**
+
+The Design Head shall:
+
+1. Develop promotional materials, posters, and visual content.
+2. Support stage design, set design, and creative visual elements.
+3. Maintain consistency in club branding and artistic presentation.
+
+**5. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Train and guide club members preparing for dramatics competitions.
+2. Assist in performance selection, rehearsal preparation, and artistic development.
+3. Coordinate with the Inter-IIT Contingent Leader and Cultural Board Council.
+4. Support IIT Guwahati representation in Inter-IIT Cultural Meet dramatics events.
+
+**6. Core Team Members**
+
+Core Team Members shall:
+
+1. Assist in organizing dramatics productions, rehearsals, and workshops.
+2. Support leadership in administrative and operational tasks.
+3. Mentor junior members and contribute to creative development.
+4. Ensure continuity of club knowledge and institutional standards.
+
+#### Article VI – Institutional Representation and Performance
+
+Xpressions shall serve as the official dramatics body representing IIT Guwahati.
+
+The club shall:
+
+1. Organize dramatics productions and Cultural performances.
+2. Represent IIT Guwahati in institutional and external dramatics competitions.
+3. Promote theatre culture within the Institute.
+
+All institutional performances shall remain subject to Cultural Board authority.
+
+#### Article VII – Governance and Compliance
+
+Xpressions shall operate in accordance with:
+
+1. This Constitution;
+2. Cultural Board directives; and
+3. Institute regulations.
+
+In case of conflict between club-specific provisions and this Constitution, this Constitution shall prevail.

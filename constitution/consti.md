@@ -420,3 +420,102 @@ The Cultural Board Council shall have the authority to:
 Emergency decisions shall remain provisional in nature and shall cease to remain in effect if not reviewed and ratified by the Cultural Board Council within fourteen (14) days of their issuance.
 
 Failure to obtain ratification within the prescribed period shall render the emergency decision null and void, unless otherwise extended under exceptional institutional authority.
+
+## SECTION III – CHAIRPERSON OF THE CULTURAL BOARD
+
+### Article I – Role and Authority
+
+The Chairperson of the Cultural Board shall be the highest institutional authority overseeing the Cultural Board. The Chairperson shall ensure that all Cultural Board activities are conducted in accordance with this Constitution and Institute regulations, and shall provide institutional supervision, administrative guidance, and oversight to ensure proper functioning, accountability, and continuity of Cultural Board operations.
+
+### Article II – Responsibilities of the Chairperson
+
+The Chairperson shall have the following responsibilities:
+
+1. Convene, conduct, and moderate meetings of the Cultural Board Council in an impartial manner.
+1. Ensure the smooth functioning of the Cultural Board Council and its subordinate committees and bodies.
+1. Call for agenda points from Secretaries and other relevant office-bearers prior to each official meeting of the Cultural Board Council.
+1. Serve as a non-voting institutional member of the Cultural Board Council, facilitating coordination between the Council and Cultural Clubs.
+1. Represent the views of the Cultural Board, the Council, and Cultural Clubs to the Institute administration.
+1. Act as the primary point of contact for official communications between the Cultural Board and the Institute administration.
+
+### Article III – Advisory and Arbitration Authority
+
+The Chairperson shall act as the final institutional advisor and arbiter in matters involving:
+
+- Interpretation of this Constitution;
+- Administrative disputes within the Cultural Board;
+- Conflicts between Cultural Board bodies, Cultural Clubs, Event Teams, or Fest Committees; and
+- Matters requiring institutional clarification or oversight.
+
+Decisions of the Chairperson shall be binding, subject to Institute regulations and applicable administrative review.
+
+### Article IV – Delegation and Interim Measures
+
+In the temporary absence or unavailability of the Chairperson, designated responsibilities may be delegated to an authorised Institute official in accordance with Institute administrative procedures. Such delegation shall not alter the authority structure established under this Constitution.
+
+### Article V – Removal
+
+The Chairperson may be removed, replaced, or reassigned only in accordance with Institute regulations and administrative authority. Any such action shall follow Institute procedures and shall not be initiated by the Cultural Board Council except as permitted by Institute rules.
+
+## SECTION IV – CULTURAL BOARD GENERAL SECRETARY
+
+### Article I – Election of Cultural Secretary
+
+1. The Cultural Secretary shall be elected by an independent Election Commission constituted by the Institute administration.
+2. Any student who satisfies the eligibility criteria prescribed by the Election Commission may be nominated for the office of Cultural Secretary.
+3. Election procedures, timelines, and dispute resolution for the Secretary’s election shall follow the rules issued by the Election Commission and any applicable Institute regulations.
+
+### Article II – Powers and Responsibilities of the Cultural Secretary
+
+1. Attend and participate in every official meeting of the Cultural Board Council.
+2. Represent the interests of the Cultural Board and the Cultural Community before the Institute administration and other external bodies.
+3. Maintain active personal engagement with members and groups of the Cultural Community to accurately represent their views and concerns to the Cultural Board.
+4. Be thoroughly familiar with this Constitution and the operational procedures of the Cultural Board.
+5. Oversee and coordinate the implementation of Council decisions and Operational Directives.
+6. Facilitate communication between Domain Heads, Club Secretaries, Fest Convenors, and the Chairperson to ensure administrative continuity.
+7. Ensure timely preparation and presentation of meeting agendas in consultation with the Chairperson and relevant Secretaries.
+
+### Article III – Financial Oversight
+
+1. Supervise Cultural Board financial management in coordination with the Finance and Marketing Head and Institute financial authorities.
+2. Approve expenditures that are within the authority vested in the Cultural Board and ensure that all disbursements are supported by proper documentation.
+3. Ensure compliance with Institute financial regulations and procurement policies.
+
+### Article IV – Appointment and Recommendation Authority
+
+1. Recommend appointments to Positions of Responsibility within the Cultural Board and Cultural Clubs, where appropriate, subject to Council oversight and Chairperson approval as required.
+2. Facilitate recruitment processes, interviews, and selection panels in accordance with the recruitment procedures defined in this Constitution.
+
+### Article V – Emergency Executive Authority
+
+1. In extraordinary and time-sensitive circumstances, the Cultural Secretary may exercise provisional executive powers to ensure continuity of Cultural Board operations.
+2. Any emergency action taken by the Secretary shall be documented in writing and reported to the Cultural Board Council and Chairperson at the earliest practicable opportunity.
+3. Emergency actions shall remain provisional and shall be subject to review, modification, or ratification by the Cultural Board Council within fourteen (14) days of their issuance.
+
+### Article VI – Reporting Responsibility
+
+2. Ensure that minutes of meetings, financial statements, activity reports, and other official records are maintained and made available to authorized reviewers.
+
+### Article VII – Executive Coordination Authority
+
+1. Coordinate administrative directives, schedules, and inter-domain activities required for the effective functioning of the Cultural Board.
+2. Issue administrative instructions necessary for day-to-day operations, provided such instructions are consistent with this Constitution and Council decisions.
+
+### Article VIII – Limitation of Executive Authority
+
+1. The Cultural Secretary shall not exercise executive authority in a manner that contravenes this Constitution, Cultural Board Council decisions, or Institute regulations.
+2. All executive actions of the Secretary shall be subject to review by the Cultural Board Council and the Chairperson.
+
+### Article IX – Good Faith Execution
+
+1. No action taken by the Cultural Secretary in good faith, in the interest of the Cultural Board, and in compliance with this Constitution shall be deemed invalid solely due to procedural irregularities, provided such action is reviewed and ratified by the Cultural Board Council where required.
+
+### Article X – Duty of Due Diligence
+
+1. The Cultural Secretary shall exercise executive authority with due diligence, reasonable care, and responsibility, ensuring that decisions are made in the best interests of the Cultural Community and in compliance with this Constitution and Institute regulations.
+
+### Article XI – Removal of the Cultural Secretary
+
+1. The Cultural Secretary may be removed from office on grounds of misconduct, negligence, abuse of authority, or violation of this Constitution.
+2. Removal shall require a fair and documented review process and shall require the approval of the Chairperson of the Cultural Board, subject to Institute regulations.
+3. The Cultural Secretary shall be afforded prior written notice of allegations and an opportunity to be heard before any final action is taken.

@@ -519,3 +519,109 @@ The Chairperson may be removed, replaced, or reassigned only in accordance with 
 1. The Cultural Secretary may be removed from office on grounds of misconduct, negligence, abuse of authority, or violation of this Constitution.
 2. Removal shall require a fair and documented review process and shall require the approval of the Chairperson of the Cultural Board, subject to Institute regulations.
 3. The Cultural Secretary shall be afforded prior written notice of allegations and an opportunity to be heard before any final action is taken.
+
+## SECTION V – COUNCIL, OVERALL COORDINATOR, AND DOMAIN HEADS
+
+### Article I – Responsibilities of the Cultural Board Council
+
+The Cultural Board Council shall be responsible for the following:
+
+1. Improving the efficiency, economy, performance, and effectiveness of Cultural Board operations and activities.
+2. Detecting and preventing poor execution, abuse, arbitrary conduct, or unconstitutional or improper administrative behaviour within Cultural Board bodies.
+3. Ensuring that executive policies reflect the interests of the Cultural Community by collecting input and feedback from Cultural Board members.
+4. Gathering information necessary to develop new policy proposals or amend existing Cultural Board regulations and procedures.
+5. Ensuring compliance of executive actions with the intent and provisions of this Constitution.
+6. Preventing interference with the lawful authority, autonomy, and governance structure established under this Constitution.
+7. Reviewing and examining policy proposals, administrative plans, and operational initiatives requiring detailed scrutiny.
+8. Ensuring that Cultural Board governance remains focused on long-term policy objectives, institutional development, and Cultural growth.
+9. Providing forums and institutional mechanisms to utilize the experience, expertise, and abilities of Cultural Community members.
+10. Enabling members of the Cultural Community to participate meaningfully in governance and decision-making processes affecting Cultural Board operations.
+
+### Article II – Overall Coordinator
+
+The Overall Coordinator shall serve as the primary administrative support officer to the Cultural Board Secretary and shall assist in coordination and operational implementation.
+
+The Overall Coordinator shall have the following responsibilities:
+
+1. Assist the Cultural Board Secretary in the execution of Cultural Board administrative functions and proceedings.
+2. Coordinate with Cultural Clubs and the Events Head to ensure the smooth conduct of Club events and Cultural Board activities.
+3. Handle event proposals, invitations, and coordination requirements in collaboration with the Events Head and Cultural Board Secretary.
+4. Facilitate communication and coordination with other colleges, institutions, and Cultural organizations regarding competitions and collaborative opportunities.
+
+### Article III – Official Term of the Cultural Board Council
+
+1. The official working term of the Cultural Board Council shall extend from the first day of April to the thirty-first day of March of the following calendar year.
+2. This period shall constitute the official tenure of Cultural Board student office bearers, unless otherwise specified by Institute regulations.
+3. All administrative, financial, and governance responsibilities shall be exercised within this defined tenure period.
+
+### Article IV – Domain Heads
+
+Domain Heads shall serve as executive members of the Cultural Board Council and shall exercise governance, coordination, and administrative authority within their respective domains.
+
+Domain Heads shall have the authority to convene meetings on behalf of the Cultural Board Council. Cultural Clubs shall be obligated to attend such meetings and provide necessary information as requested. Cultural Clubs shall also comply with lawful directives, operational instructions, and governance procedures issued by the Cultural Board Council.
+
+The Cultural Board Council shall include the following Domain Heads, each entrusted with specific responsibilities:
+
+#### 1. Inter-IIT Contingent Leader
+
+Responsibilities:
+
+1. Select Cup Mentors and Team Members for the Inter-IIT Cultural Meet and other institutional competitions.
+2. Monitor and track preparation progress across Cultural Clubs participating in Inter-IIT events.
+3. Propose rulebook modifications, event strategies, and judge recommendations where applicable.
+4. Maintain communication and institutional relations with Contingent Leaders of other IITs.
+
+#### 2. Inter-IIT Coordinator
+
+Responsibilities:
+
+1. Arrange and coordinate practice sessions for all Inter-IIT Cultural Meet events.
+2. Assist the Inter-IIT Contingent Leader in managing logistical and operational arrangements.
+3. Coordinate logistical requirements of Cultural Clubs during Inter-IIT preparation and participation.
+4. Obtain necessary permissions, approvals, and administrative clearances from Institute authorities.
+
+#### 3. Events Head
+
+Responsibilities:
+
+1. Coordinate venue bookings with Cultural Club Secretaries and relevant authorities.
+2. Coordinate with Cultural Clubs and the Overall Coordinator for smooth execution of Cultural Board and Club events.
+3. Handle event proposals, invitations, scheduling, and operational planning.
+4. Provide administrative and logistical support to Cultural Fest and Event organizing teams.
+5. Monitor Cultural Club event progress and maintain periodic operational reports.
+
+#### 4. PR Coordinator
+
+Responsibilities:
+
+1. Manage publicity and outreach for Cultural Board activities and events.
+2. Develop and implement strategies to improve participation and engagement within the Cultural Community.
+3. Manage official Cultural Board communication channels, including social media platforms.
+4. Maintain and improve the public image and institutional brand of the Cultural Board.
+
+#### 5. Design Coordinator
+
+Responsibilities:
+
+1. Manage design and visual communication requirements of the Cultural Board.
+2. Create promotional materials including posters, banners, digital media, and event branding.
+3. Coordinate with the PR Coordinator and Media Head to improve engagement and outreach.
+4. Collaborate with Design Heads of Cultural Clubs, Events, and Fests to fulfill design requirements.
+
+#### 6. Finance and Marketing Head
+
+Responsibilities:
+
+1. Maintain accurate financial records and documentation of Cultural Board transactions.
+2. Oversee financial processing, reimbursements, and payment procedures.
+3. Develop and manage Cultural Board budgets and financial plans for the tenure.
+4. Coordinate with vendors, service providers, and institutional partners for logistical requirements.
+5. Secure sponsorships, partnerships, and financial support for Cultural Board initiatives.
+
+#### 7. Media Head
+
+Responsibilities:
+
+1. Cover, record, and archive Cultural Board events including, but not limited to, Manthan, Inter-IIT Cultural Meet, and Qala.
+2. Coordinate with PR Coordinator and Design Coordinator for media and publicity requirements.
+3. Collaborate with Media teams of Cultural Clubs, Events, and Fests to ensure complete media coverage and documentation.

@@ -316,3 +316,107 @@ The Cultural Board Council shall exercise its authority in a manner consistent w
    The Cultural Board Council shall not exercise powers beyond those expressly granted under this Constitution or delegated by Institute authority.
 
 Any action taken in violation of these prohibitions shall be subject to review and corrective action in accordance with this Constitution and Institute regulations.
+
+## SECTION II – ORGANIZATION
+
+### Article I – Composition
+
+The composition of the Cultural Board Council shall be as follows:
+
+A. The Chairperson of the Cultural Board  
+B. The Cultural Board Secretary (General Secretary of the Cultural Board)  
+C. The Overall Coordinator of the Cultural Board  
+D. The Domain Heads of the Cultural Board
+
+The above members shall collectively constitute the Cultural Board Council and shall be responsible for governance, coordination, and administration of Cultural Board affairs in accordance with this Constitution.
+
+The Chairperson shall serve as the institutional authority and supervisory head of the Cultural Board and shall exercise approval, advisory, and oversight powers as defined elsewhere in this Constitution.
+
+The Cultural Board Secretary, Overall Coordinator, and Domain Heads shall serve as the executive and operational members of the Council and shall exercise administrative and governance authority as defined under this Constitution.
+
+### Article II – Voting Rights
+
+Each executive member of the Cultural Board Council shall possess one vote in Council deliberations and decisions.
+
+Executive members shall include:
+
+- The Cultural Board Secretary
+- The Overall Coordinator
+- The Domain Heads of the Cultural Board
+
+The Chairperson of the Cultural Board shall serve in a supervisory and advisory capacity and shall not ordinarily exercise voting rights, except where required under Institute regulations or where specifically authorized.
+
+Decisions of the Cultural Board Council shall be passed by a simple majority of members present and voting, unless otherwise specified in this Constitution.
+
+In the event of a tie, the Cultural Board Secretary shall exercise the casting vote.
+
+### Article III – Quorum
+
+The quorum required for any official meeting of the Cultural Board Council shall be more than fifty percent (50%) of its total executive membership.
+
+No official decision, resolution, directive, or policy shall be adopted in the absence of quorum.
+
+If quorum is not met, the meeting may proceed for purposes of discussion only, and any formal decision shall be deferred until quorum is satisfied.
+
+The quorum requirement ensures legitimacy, representation, and accountability in Cultural Board Council decision-making.
+
+### Article IV – Tenure of Council Members
+
+All members of the Cultural Board Council shall serve for the duration of their officially defined tenure, as determined by the Cultural Board election cycle, appointment procedures, and Institute regulations.
+
+A Council member shall remain in office until the earliest of the following:
+
+1. Completion of the officially designated tenure period;
+1. Submission and acceptance of a formal resignation in accordance with the resignation procedure defined under this Constitution;
+1. Removal from office in accordance with the provisions of this Constitution; or
+1. Becoming ineligible to hold office under Institute regulations or disciplinary provisions.
+
+Outgoing Council members shall ensure proper handover of responsibilities, records, financial information, and operational continuity to their successors.
+
+### Article V – Removal of Council Members
+
+A member of the Cultural Board Council may be removed from their Position of Responsibility on the grounds of:
+
+- Misconduct;
+- Negligence of assigned duties;
+- Abuse or misuse of authority;
+- Violation of the provisions of this Constitution; or
+- Actions detrimental to the interests, integrity, or functioning of the Cultural Board.
+
+Removal proceedings shall adhere to the principles of fairness and due process and shall include:
+
+1. Prior written notice to the concerned member outlining the grounds for review;
+1. An opportunity for the concerned member to present their explanation or defense; and
+1. Formal review by the Cultural Board Council, followed by approval by the Chairperson of the Cultural Board.
+
+Any removal decision shall be documented and recorded as part of Cultural Board records.
+
+Removal shall take effect upon formal approval by the Chairperson and completion of necessary transitional arrangements.
+
+### Article VI – Emergency Powers
+
+In extraordinary circumstances requiring immediate action to protect the interests, continuity, or operational integrity of the Cultural Board, the Cultural Board Secretary shall be authorized to exercise provisional executive authority.
+
+Such emergency powers may be exercised only when:
+
+- Immediate action is necessary to prevent disruption of Cultural Board activities;
+- Delay would adversely affect Cultural Clubs, Cultural Events, Cultural Fests, or institutional representation; or
+- Convening the Cultural Board Council within a reasonable timeframe is not feasible.
+
+Emergency decisions shall be limited in scope to addressing the urgent matter at hand and shall not be used to permanently alter governance structures, constitutional provisions, or long-term institutional policy without Council approval.
+
+All emergency actions taken shall be documented in writing and recorded as part of official Cultural Board records.
+
+### Article VII – Ratification and Validity of Emergency Decisions
+
+All emergency decisions taken by the Cultural Board Secretary shall be presented before the Cultural Board Council at the earliest possible official meeting for review.
+
+The Cultural Board Council shall have the authority to:
+
+- Ratify the emergency decision, thereby granting it full institutional validity;
+- Modify the decision, where necessary, to align with Cultural Board policies and constitutional provisions; or
+- Revoke the decision if it is deemed inconsistent with the interests of the Cultural Board or this Constitution.
+
+Emergency decisions shall remain provisional in nature and shall cease to remain in effect if not reviewed and ratified by the Cultural Board Council within fourteen (14) days of their issuance.
+
+Failure to obtain ratification within the prescribed period shall render the emergency decision null and void, unless otherwise extended under exceptional institutional authority.

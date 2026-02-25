@@ -2618,11 +2618,11 @@ to their designated successor or to the Cultural Board Council, as directed.
 
 Failure to comply with handover obligations shall constitute a violation of this Constitution and may result in appropriate administrative action in accordance with Institute regulations.
 
-## CHAPTER V – EVENTS
+# CHAPTER V – EVENTS
 
-### SECTION I – INTRODUCTION
+## SECTION I – INTRODUCTION
 
-#### Article I – Cultural Board Events
+### Article I – Cultural Board Events
 
 The Cultural Board of IIT Guwahati shall oversee and organize major institutional cultural events during its tenure. These events shall serve to foster artistic expression, creative excellence, leadership, and collaboration within the Cultural Community.
 
@@ -2634,7 +2634,7 @@ The principal Cultural Board events shall include:
 
 These events shall be conducted in accordance with this Constitution, Cultural Board policies, and Institute regulations.
 
-#### Article II – QALA (Performing Arts Festival)
+### Article II – QALA (Performing Arts Festival)
 
 QALA shall serve as the annual performing arts festival of IIT Guwahati and the Cultural Board.
 
@@ -2647,7 +2647,7 @@ The purpose of QALA shall be:
 
 QALA shall be conducted under the supervision of the Cultural Board Council, with operational responsibility delegated to designated event leadership.
 
-#### Article III – Manthan
+### Article III – Manthan
 
 Manthan shall be the official inter-hostel cultural competition of IIT Guwahati, organized under the authority of the Cultural Board.
 
@@ -2660,7 +2660,7 @@ The purpose of Manthan shall be:
 
 Manthan shall be governed by the Cultural Board Constitution and the officially published Manthan Rulebook.
 
-#### Article IV – Clubs Showcase
+### Article IV – Clubs Showcase
 
 The Clubs Showcase shall serve as an official Cultural Board event to showcase the artistic capabilities of Cultural Clubs.
 
@@ -2681,7 +2681,7 @@ The event may include performances and showcases in:
 7. Fashion and Fine Arts
 8. Photography and Content Creation
 
-#### Article V – Authority of the Events Head
+### Article V – Authority of the Events Head
 
 The Events Head of the Cultural Board shall serve as the primary executive authority responsible for event coordination and execution.
 
@@ -2695,7 +2695,7 @@ The Events Head shall:
 
 All Cultural Clubs and organizers shall cooperate with the Events Head to ensure proper execution of Cultural Board events.
 
-#### Article VI – Event Budget and Financial Governance
+### Article VI – Event Budget and Financial Governance
 
 The Cultural Board Secretary, Finance and Marketing Head, and relevant Cultural Club Secretaries shall jointly prepare budgets for Cultural Board events.
 
@@ -2707,7 +2707,7 @@ Budget preparation shall include:
 
 All financial activities shall maintain transparency, accountability, and proper documentation.
 
-#### Article VII – Memorandum of Understanding (MoU)
+### Article VII – Memorandum of Understanding (MoU)
 
 Any engagement involving external parties and financial transactions, including sponsorships, honorariums, or workshop fees, shall require a formal Memorandum of Understanding (MoU).
 
@@ -2719,7 +2719,7 @@ The MoU shall:
 
 No external financial engagement shall be considered valid without an approved MoU.
 
-#### Article VIII – Financial Documentation and Payments
+### Article VIII – Financial Documentation and Payments
 
 All financial transactions related to Cultural Board events shall comply with Institute procedures.
 
@@ -2731,7 +2731,7 @@ The following shall apply:
 
 Failure to comply may result in financial review or administrative action.
 
-#### Article IX – Media and External Communication
+### Article IX – Media and External Communication
 
 All external communication relating to Cultural Board events shall comply with Institute media policies.
 
@@ -2742,7 +2742,7 @@ The following shall apply:
 3. No defamatory or harmful content shall be published.
 4. Institutional integrity and reputation shall be preserved at all times.
 
-#### Article X – Event Expenditure Compliance
+### Article X – Event Expenditure Compliance
 
 All event expenditures shall comply with Cultural Board financial regulations and Institute expenditure procedures.
 
@@ -2754,11 +2754,11 @@ Expenditure shall:
 
 Improper financial conduct shall be subject to review and disciplinary procedures.
 
-### SECTION II – EVENT ORGANIZATION
+## SECTION II – EVENT ORGANIZATION
 
-#### Article XI – QALA (Performing Arts Festival)
+### Article XI – QALA (Performing Arts Festival)
 
-##### Purpose
+#### Purpose
 
 QALA shall serve as the official annual performing arts showcase of IIT Guwahati.
 
@@ -2768,7 +2768,7 @@ The event shall:
 2. Promote artistic collaboration and institutional cultural excellence.
 3. Celebrate the artistic contributions of Cultural Board members.
 
-##### Event Structure
+#### Event Structure
 
 QALA shall be conducted as a Cultural Board-supervised performing arts event and may include:
 
@@ -2779,9 +2779,9 @@ QALA shall be conducted as a Cultural Board-supervised performing arts event and
 
 Event structure shall be determined by the Cultural Board Council.
 
-#### Article XII – Manthan (Inter-Hostel Cultural Competition)
+### Article XII – Manthan (Inter-Hostel Cultural Competition)
 
-##### Governance and Authority
+#### Governance and Authority
 
 Manthan shall be governed by the Cultural Board Council.
 
@@ -2793,7 +2793,7 @@ The Convener shall:
 2. Ensure fairness, transparency, and compliance.
 3. Coordinate with Hostel Cultural Secretaries.
 
-##### Organizing Committee
+#### Organizing Committee
 
 The Organizing Committee shall consist of:
 
@@ -2804,7 +2804,7 @@ The Organizing Committee shall consist of:
 
 Committee members shall maintain impartiality and comply with the Constitution.
 
-##### Module Structure
+#### Module Structure
 
 Manthan shall consist of modules including:
 
@@ -2825,7 +2825,7 @@ Each module shall:
 2. Follow standardized judging procedures.
 3. Contribute to overall hostel scores.
 
-##### Adjudication and Scoring
+#### Adjudication and Scoring
 
 Judging shall:
 
@@ -2835,7 +2835,7 @@ Judging shall:
 
 Penalty procedures and appeal procedures shall be defined in the Manthan Rulebook.
 
-##### Institutional Integrity and Fairness
+#### Institutional Integrity and Fairness
 
 Organizing Committee members shall not:
 
@@ -2845,244 +2845,7 @@ Organizing Committee members shall not:
 
 Violations may result in removal and disciplinary review.
 
-##### Closure and Reporting
-
-Upon completion of Manthan:
-
-1. Results shall be officially published.
-2. Scorecards shall be documented.
-3. Feedback shall be collected.
-
-Records shall be maintained by the Cultural Board.
-
-## CHAPTER V – EVENTS
-
-### SECTION I – INTRODUCTION
-
-#### Article I – Cultural Board Events
-
-The Cultural Board of IIT Guwahati shall oversee and organize major institutional cultural events during its tenure. These events shall serve to foster artistic expression, creative excellence, leadership, and collaboration within the Cultural Community.
-
-The principal Cultural Board events shall include:
-
-1. QALA (Performing Arts Festival)
-2. Manthan (Inter-Hostel Cultural Competition)
-3. Clubs Showcase
-
-These events shall be conducted in accordance with this Constitution, Cultural Board policies, and Institute regulations.
-
-#### Article II – QALA (Performing Arts Festival)
-
-QALA shall serve as the annual performing arts festival of IIT Guwahati and the Cultural Board.
-
-The purpose of QALA shall be:
-
-1. To provide a platform for graduating students to perform and showcase their artistic contributions.
-2. To celebrate the artistic journey and achievements of Cultural Board members and Cultural Clubs.
-3. To promote collaboration between Cultural Clubs and performers.
-4. To provide a formal cultural closure to the academic year.
-
-QALA shall be conducted under the supervision of the Cultural Board Council, with operational responsibility delegated to designated event leadership.
-
-#### Article III – Manthan
-
-Manthan shall be the official inter-hostel cultural competition of IIT Guwahati, organized under the authority of the Cultural Board.
-
-The purpose of Manthan shall be:
-
-1. To promote excellence in performing arts, visual arts, literary arts, cinematic arts, content creation, and oratory.
-2. To provide a structured platform for hostels to showcase talent.
-3. To foster leadership, teamwork, and cultural engagement among students.
-4. To promote healthy competition and cultural exchange within the Institute.
-
-Manthan shall be governed by the Cultural Board Constitution and the officially published Manthan Rulebook.
-
-#### Article IV – Clubs Showcase
-
-The Clubs Showcase shall serve as an official Cultural Board event to showcase the artistic capabilities of Cultural Clubs.
-
-The purpose of Clubs Showcase shall be:
-
-1. To provide Cultural Clubs a platform to present their artistic work.
-2. To promote inter-club collaboration and artistic exposure.
-3. To highlight the diversity of cultural expression within IIT Guwahati.
-
-The event may include performances and showcases in:
-
-1. Music
-2. Dance
-3. Dramatics
-4. Film
-5. Literary Arts
-6. Comedy and Stand-up
-7. Fashion and Fine Arts
-8. Photography and Content Creation
-
-#### Article V – Authority of the Events Head
-
-The Events Head of the Cultural Board shall serve as the primary executive authority responsible for event coordination and execution.
-
-The Events Head shall:
-
-1. Coordinate planning and execution of Cultural Board events.
-2. Manage venue booking, scheduling, and logistics.
-3. Serve as the official point of contact for event-related coordination.
-4. Ensure compliance with Cultural Board policies and Institute regulations.
-5. Coordinate with Cultural Clubs, organizers, and stakeholders.
-
-All Cultural Clubs and organizers shall cooperate with the Events Head to ensure proper execution of Cultural Board events.
-
-#### Article VI – Event Budget and Financial Governance
-
-The Cultural Board Secretary, Finance and Marketing Head, and relevant Cultural Club Secretaries shall jointly prepare budgets for Cultural Board events.
-
-Budget preparation shall include:
-
-1. Estimation of expenses and resource requirements.
-2. Submission for approval prior to event execution.
-3. Compliance with Institute financial regulations.
-
-All financial activities shall maintain transparency, accountability, and proper documentation.
-
-#### Article VII – Memorandum of Understanding (MoU)
-
-Any engagement involving external parties and financial transactions, including sponsorships, honorariums, or workshop fees, shall require a formal Memorandum of Understanding (MoU).
-
-The MoU shall:
-
-1. Define terms and conditions of engagement.
-2. Be signed by the Cultural Board Secretary and the Chairperson of the Cultural Board.
-3. Be approved in accordance with Institute policies.
-
-No external financial engagement shall be considered valid without an approved MoU.
-
-#### Article VIII – Financial Documentation and Payments
-
-All financial transactions related to Cultural Board events shall comply with Institute procedures.
-
-The following shall apply:
-
-1. Bills must be submitted within thirty (30) days of event completion.
-2. Advance payment requests must be submitted at least thirty (30) days prior to the event.
-3. Utilization certificates shall be submitted in the prescribed format.
-
-Failure to comply may result in financial review or administrative action.
-
-#### Article IX – Media and External Communication
-
-All external communication relating to Cultural Board events shall comply with Institute media policies.
-
-The following shall apply:
-
-1. All external media content shall be reviewed where required by Institute authorities.
-2. Official communication shall be reported to the Cultural Board Secretary and Chairperson.
-3. No defamatory or harmful content shall be published.
-4. Institutional integrity and reputation shall be preserved at all times.
-
-#### Article X – Event Expenditure Compliance
-
-All event expenditures shall comply with Cultural Board financial regulations and Institute expenditure procedures.
-
-Expenditure shall:
-
-1. Be within approved budgets.
-2. Be properly documented.
-3. Comply with financial accountability standards.
-
-Improper financial conduct shall be subject to review and disciplinary procedures.
-
-### SECTION II – EVENT ORGANIZATION
-
-#### Article XI – QALA (Performing Arts Festival)
-
-##### Purpose
-
-QALA shall serve as the official annual performing arts showcase of IIT Guwahati.
-
-The event shall:
-
-1. Provide Cultural Clubs a platform to present performances developed throughout the academic year.
-2. Promote artistic collaboration and institutional cultural excellence.
-3. Celebrate the artistic contributions of Cultural Board members.
-
-##### Event Structure
-
-QALA shall be conducted as a Cultural Board-supervised performing arts event and may include:
-
-1. Cultural performances by official Cultural Clubs.
-2. Showcase of original artistic productions.
-3. Performances by graduating members.
-4. Guest performances, where applicable.
-
-Event structure shall be determined by the Cultural Board Council.
-
-#### Article XII – Manthan (Inter-Hostel Cultural Competition)
-
-##### Governance and Authority
-
-Manthan shall be governed by the Cultural Board Council.
-
-The Events Head shall serve as Convener of Manthan.
-
-The Convener shall:
-
-1. Oversee planning and execution.
-2. Ensure fairness, transparency, and compliance.
-3. Coordinate with Hostel Cultural Secretaries.
-
-##### Organizing Committee
-
-The Organizing Committee shall consist of:
-
-1. Events Head (Convener)
-2. Cultural Club Secretaries serving as Module Conveners
-3. Cultural Board members and appointed student organizers
-4. Judges and adjudicators
-
-Committee members shall maintain impartiality and comply with the Constitution.
-
-##### Module Structure
-
-Manthan shall consist of modules including:
-
-1. Dance Module
-2. Music Module
-3. Content Creation Module
-4. Photography Module
-5. Literary Module
-6. Dramatics Module
-7. Film Module
-8. Fine Arts Module
-9. Debating Module
-10. Culinary Module
-
-Each module shall:
-
-1. Have designated Module Conveners.
-2. Follow standardized judging procedures.
-3. Contribute to overall hostel scores.
-
-##### Adjudication and Scoring
-
-Judging shall:
-
-1. Be conducted by qualified adjudicators.
-2. Follow predefined evaluation criteria.
-3. Use standardized scorecards.
-
-Penalty procedures and appeal procedures shall be defined in the Manthan Rulebook.
-
-##### Institutional Integrity and Fairness
-
-Organizing Committee members shall not:
-
-1. Provide unfair advantage to any hostel.
-2. Participate in events they organize.
-3. Violate impartiality requirements.
-
-Violations may result in removal and disciplinary review.
-
-##### Closure and Reporting
+#### Closure and Reporting
 
 Upon completion of Manthan:
 
@@ -3111,3 +2874,363 @@ Participation in the Clubs Showcase shall be mandatory for all officially recogn
 Failure of a Cultural Club to participate, without prior written approval or valid justification accepted by the Cultural Board Council, shall constitute a breach of institutional responsibility.
 
 Such failure may be subject to formal review by the Cultural Board Council, and appropriate administrative action may be taken in accordance with this Constitution and Institute regulations.
+
+# CHAPTER VI – FESTS
+
+## SECTION I – ALCHERINGA
+
+### Article 1 – Purpose and Institutional Status
+
+Alcheringa is the annual cultural festival of IIT Guwahati and serves as the Institute’s flagship cultural extravaganza. It represents a celebration of youth, creativity, artistic excellence, and cultural diversity, and stands as the largest cultural festival in Northeast India.
+
+Alcheringa provides a national and international platform for students to showcase their artistic talents, participate in competitions, engage with renowned artists, and contribute to a vibrant cultural ecosystem. The festival fosters creativity, collaboration, leadership development, and institutional pride.
+
+The festival is typically conducted annually during the month of January and spans multiple days of performances, competitions, exhibitions, workshops, and outreach initiatives.
+
+Alcheringa shall function under the authority of the Cultural Board, IIT Guwahati, and shall operate in accordance with this Constitution and Institute regulations.
+
+### Article 2 – Authority and Governance
+
+Alcheringa shall function under the authority, supervision, and administrative control of:
+
+1. The Chairperson, Cultural Board, IIT Guwahati
+2. The Cultural Board Secretary, IIT Guwahati
+
+The Cultural Board Council shall not exercise direct executive, administrative, or financial authority over Alcheringa, unless explicitly delegated by the Chairperson or Cultural Board Secretary.
+
+The Organising Committee of Alcheringa shall be accountable to the Cultural Board Secretary and Chairperson and shall operate in accordance with this Constitution and Institute regulations.
+
+All major decisions, including financial approvals, appointments to senior Positions of Responsibility, external partnerships, and institutional commitments, shall require approval from the Cultural Board Secretary and, where applicable, the Chairperson.
+
+## The Organising Committee shall be responsible for the planning, execution, coordination, and operational management of the festival, subject to oversight by the Chairperson and Cultural Board Secretary.
+
+### Article 3 – Composition of the Organising Committee
+
+The Organising Committee of Alcheringa shall consist of the following office bearers:
+
+1. Convener
+2. Finance Head
+3. Corporate Relations and Marketing (CRM) Heads
+4. Public Relations Head
+5. Media and Outreach Head
+6. Events Head
+7. Pronites Head
+8. Campaigns Head
+9. Director-General (MUN)
+10. Secretary-General (MUN)
+11. Creatives Head
+12. Digital Media Head
+13. Web Design Head
+14. Web Operations Head
+15. App Development / App Operations Head
+16. Executives
+17. Associates
+
+Additional Positions of Responsibility may be created, modified, merged, or removed as required, subject to approval by the Cultural Board.
+
+### Article 4 – Convener
+
+The Convener shall serve as the chief executive authority of Alcheringa and shall be responsible for:
+
+1. Providing overall leadership, direction, and governance of the festival.
+2. Making strategic decisions and approving major operational and financial actions.
+3. Coordinating between organizing teams, Cultural Board authorities, and Institute administration.
+4. Ensuring compliance with Institute policies, financial regulations, and this Constitution.
+5. Resolving disputes, conflicts, or escalations arising within organizing teams.
+
+The Convener shall be accountable to the Cultural Board General Secretary and Chairperson.
+
+### Article 5 – Finance Head
+
+The Finance Head shall be responsible for the financial management of Alcheringa and shall:
+
+1. Prepare and maintain the festival budget.
+2. Monitor cash flow, expenditures, reimbursements, and financial planning.
+3. Maintain financial records, invoices, and documentation.
+4. Coordinate with vendors, sponsors, and Institute authorities for financial transactions.
+5. Ensure financial transparency, accountability, and compliance with Institute regulations.
+
+All financial decisions shall remain subject to approval by the Convener and Cultural Board authorities where required.
+
+### Article 6 – Corporate Relations and Marketing (CRM) Heads
+
+The Corporate Relations and Marketing (CRM) Heads shall be responsible for sponsor outreach, partner relations, and revenue generation for Alcheringa. Their duties shall include:
+
+1. Securing sponsorships and partnerships from corporates, public sector undertakings, government bodies, and other organizations.
+2. Negotiating sponsorship agreements and ensuring fulfilment of contractual obligations.
+3. Maintaining proper documentation of sponsor agreements, communications, and financial commitments.
+4. Coordinating sponsor onboarding, branding integration, and fulfilment of sponsorship deliverables.
+5. Ensuring continuity of sponsor relationships across successive tenures.
+6. Coordinating with the Finance Head and Convener to ensure proper financial accounting and compliance.
+
+### Article 7 – Public Relations Head
+
+The Public Relations Head shall be responsible for managing participant outreach and institutional relations. Duties shall include:
+
+1. Contacting schools, colleges, and institutions to encourage participation.
+2. Managing participant registration, communication, and engagement.
+3. Coordinating campus ambassador programs and outreach campaigns.
+4. Assisting in participant logistics, reimbursements, and coordination.
+5. Ensuring professional communication and maintaining institutional reputation.
+
+### Article 8 – Media and Outreach Head
+
+The Media and Outreach Head shall be responsible for external publicity and press coordination. Responsibilities shall include:
+
+1. Managing relationships with media houses and press agencies.
+2. Issuing press releases and coordinating media coverage.
+3. Organizing publicity campaigns and external promotional events.
+4. Coordinating with Digital Media and Creatives teams for unified messaging.
+5. Ensuring accurate dissemination of official information.
+
+### Article 9 – Events Head
+
+The Events Head shall oversee planning and execution of competitions, workshops, and performances. Responsibilities shall include:
+
+1. Preparing event schedules, formats, and operational plans.
+2. Coordinating venue booking, logistics, and technical arrangements.
+3. Managing judges, adjudication procedures, and event compliance.
+4. Supervising event execution and ensuring smooth operations.
+5. Maintaining event documentation and operational records.
+
+### Article 10 – Pronites Head
+
+The Pronites Head shall be responsible for headline performances and pro-show execution. Duties shall include:
+
+1. Identifying and coordinating with artists and artist management agencies.
+2. Negotiating artist agreements and contractual obligations.
+3. Managing artist logistics, hospitality, and technical requirements.
+4. Coordinating production requirements including stage, sound, and lighting.
+5. Ensuring smooth execution of headline events.
+
+### Article 11 – Campaigns Head
+
+The Campaigns Head shall be responsible for social initiatives and outreach campaigns. Responsibilities shall include:
+
+1. Planning and executing social awareness initiatives under the festival banner.
+2. Coordinating with PR, Creatives, and Media teams.
+3. Managing campaign timelines, outreach, and impact assessment.
+4. Ensuring alignment with institutional values and objectives.
+
+### Article 12 – Director-General (Model United Nations)
+
+The Director-General shall oversee the Model United Nations vertical and shall be responsible for:
+
+1. Defining committee structures and agendas.
+2. Supervising academic and procedural integrity.
+3. Coordinating overall execution of MUN activities.
+
+### Article 13 – Secretary-General (Model United Nations)
+
+The Secretary-General shall assist the Director-General and shall be responsible for:
+
+1. Managing administrative and logistical aspects of MUN.
+2. Coordinating delegates, chairs, and committee operations.
+3. Ensuring proper documentation and execution.
+
+### Article 14 – Creatives Head
+
+The Creatives Head shall be responsible for the visual identity and creative direction of Alcheringa. Duties shall include:
+
+1. Designing promotional materials, installations, and visual assets.
+2. Managing stage aesthetics and festival branding.
+3. Coordinating with Digital Media and Web teams.
+4. Maintaining institutional design archives.
+
+### Article 15 – Digital Media Head
+
+The Digital Media Head shall manage official digital platforms. Responsibilities shall include:
+
+1. Managing social media accounts and content publication.
+2. Coordinating digital marketing and engagement strategies.
+3. Maintaining digital content archives and analytics.
+
+### Article 16 – Web Design Head
+
+The Web Design Head shall be responsible for design and user experience of digital platforms. Duties shall include:
+
+1. Designing user interfaces for website and mobile applications.
+2. Ensuring accessibility, usability, and branding consistency.
+
+### Article 17 – Web Operations Head
+
+The Web Operations Head shall be responsible for technical management of digital platforms. Responsibilities shall include:
+
+1. Maintaining website functionality and uptime.
+2. Managing backend systems and technical integrations.
+3. Providing technical support and troubleshooting.
+
+### Article 18 – App Development and App Operations Head
+
+The App Operations Head shall manage the festival mobile application. Responsibilities shall include:
+
+1. Maintaining application functionality and updates.
+2. Coordinating development and technical improvements.
+3. Ensuring operational readiness of mobile platforms.
+
+### Article 19 – Executives
+
+Executives shall assist Heads in operational execution and shall be responsible for:
+
+1. Supporting planning and execution of events and initiatives.
+2. Supervising Associates.
+3. Managing operational tasks and responsibilities.
+
+### Article 20 – Associates
+
+Associates shall assist Executives and Heads and shall be responsible for:
+
+1. Supporting event execution and operations.
+2. Performing assigned operational and logistical tasks.
+3. Assisting in planning, preparation, and execution activities.
+
+### Article 21 – Positions of Responsibility (PORs) — General Provision
+
+The Positions of Responsibility listed above are indicative. Based on organizational needs, roles may be added, modified, merged, or removed subject to approval by the Cultural Board Secretary and Chairperson.
+
+All senior appointments shall require formal approval from the Cultural Board Secretary and Chairperson.
+
+### Article 22 – Ownership and Handover of Digital Assets
+
+All digital assets created, maintained, or used for Alcheringa shall be the institutional property of IIT Guwahati.
+
+Digital assets shall include, but shall not be limited to:
+
+1. Official email accounts and mailing lists
+2. Cloud storage drives and shared folders
+3. Social media accounts and credentials
+4. Websites, domains, and mobile applications
+5. Raw media, photographs, videos, design files, and audiovisual content
+6. Databases, records, and operational documents
+
+No office bearer shall claim personal ownership over any official digital asset.
+
+Upon completion of tenure, resignation, or removal, all office bearers shall:
+
+1. Transfer full administrative access and credentials to their successors or Cultural Board authorities.
+2. Provide complete documentation and access required for institutional continuity.
+3. Not retain or misuse institutional data.
+
+Failure to comply shall constitute a violation of this Constitution and may result in disciplinary action and disqualification from future Positions of Responsibility.
+
+The Cultural Board Secretary and Chairperson shall retain ultimate authority over all official Alcheringa digital assets.
+
+### Article 23 – Recruitment Procedure
+
+The recruitment process for Positions of Responsibility within the Alcheringa Organising Committee shall be conducted through a structured, transparent, and merit-based process under the supervision of the Cultural Board Secretary and Chairperson.
+
+The recruitment process shall include the following stages:
+
+1. Announcement of Positions  
+   Official announcements shall be made through Institute communication channels specifying roles, responsibilities, eligibility criteria, and timelines.
+
+2. Submission of Applications  
+   Applicants shall submit required documentation, including personal details, prior experience, and agenda or vision for the role.
+
+3. Shortlisting of Candidates  
+   Candidates shall be shortlisted based on merit, experience, leadership potential, and suitability for the role.
+
+4. Interview and Evaluation  
+   Shortlisted candidates shall undergo interviews conducted by designated selection panels, including outgoing office bearers, mentors, and Cultural Board authorities where applicable.
+
+5. Final Approval  
+   Final appointments shall be made subject to approval by the Cultural Board Secretary and Chairperson.
+
+6. Handover and Onboarding  
+   Newly appointed office bearers shall undergo formal handover procedures and orientation.
+
+### Article 24 – Recruitment of Executives
+
+Executives shall be recruited after the appointment of Heads and senior office bearers.
+
+The recruitment process shall include:
+
+1. Release of application forms specifying required skill sets.
+2. Evaluation and interviews conducted by respective Heads.
+3. Selection based on merit, skill, commitment, and organizational requirements.
+4. Formal onboarding and assignment of responsibilities.
+
+### Article 25 – Recruitment of Associates
+
+Associates shall be recruited through open calls and shall serve as operational members of the Organising Committee.
+
+Selection shall be based on:
+
+1. Application evaluation
+2. Interviews or group assessments where required
+3. Operational requirements and candidate suitability
+
+Associates shall function under the supervision of Executives and Heads.
+
+### Article 26 – Major Festival Events
+
+Alcheringa shall consist of multiple flagship events and festival verticals designed to promote artistic expression and cultural excellence.
+
+Major festival verticals shall include, but shall not be limited to:
+
+1. Pronites  
+   Headline performances featuring professional artists and large-scale stage productions.
+
+2. Proshows  
+   Professional performances and cultural showcases across multiple disciplines.
+
+3. Creators Camp  
+   Workshops, masterclasses, and skill development sessions.
+
+4. Critical Damage  
+   Gaming, esports, and technology-based competitions and showcases.
+
+5. Flickeringa  
+   Festival fair including food stalls, exhibitions, and experiential installations.
+
+Additional festival verticals may be introduced subject to approval by the Cultural Board Secretary and Chairperson.
+
+### Article 27 – Competitions
+
+Alcheringa shall conduct competitions across various artistic and cultural disciplines including, but not limited to:
+
+1. Dance Competitions
+2. Music Competitions
+3. Fashion and Design Competitions
+4. Literary Competitions
+5. Film Competitions
+6. Personality and Cosplay Competitions
+7. Digital and Creative Competitions
+
+The Organising Committee shall define specific formats, rules, eligibility criteria, and judging procedures for each competition.
+
+### Article 28 – Kartavya: Social Responsibility Initiative
+
+Kartavya shall serve as the social responsibility and outreach initiative of Alcheringa.
+
+Kartavya shall conduct campaigns and initiatives focused on:
+
+1. Education and mentorship
+2. Social awareness
+3. Environmental sustainability
+4. Public health awareness
+5. Cultural preservation
+6. Community outreach
+
+Kartavya initiatives shall be conducted in coordination with the Organising Committee and Cultural Board authorities.
+
+### Article 29 – Financial and Administrative Compliance
+
+All financial and administrative activities of Alcheringa shall comply with Institute regulations and Cultural Board policies.
+
+The Organising Committee shall ensure:
+
+1. Proper financial accounting and documentation
+2. Transparency in financial transactions
+3. Compliance with Institute procurement and financial procedures
+4. Proper record maintenance
+
+All major financial decisions shall require approval from the Convener and Cultural Board authorities where required.
+
+### Article 30 – Institutional Authority and Oversight
+
+Alcheringa shall operate under the authority of the Cultural Board Secretary and Chairperson.
+
+The Organising Committee shall remain accountable to these authorities and shall comply with all applicable institutional policies, regulations, and constitutional provisions.
+
+Any major policy, financial, or organizational decision shall remain subject to approval by the Cultural Board Secretary and Chairperson.

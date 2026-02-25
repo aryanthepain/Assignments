@@ -1436,8 +1436,6 @@ The purpose of LitSoc shall be:
 7. To represent IIT Guwahati in literary competitions, including the Inter-IIT Cultural Meet and other inter-institutional events.
 8. To maintain official media presence through social media platforms and digital publications to showcase student literary work.
 
----
-
 #### Article II – Organizational Structure
 
 LitSoc shall consist of the following office bearers and members:
@@ -1455,8 +1453,6 @@ LitSoc shall consist of the following office bearers and members:
 
 All office bearers and members shall function under the authority of the Cultural Board Council and in accordance with this Constitution.
 
----
-
 #### Article III – Selection Procedure
 
 Selection procedures shall be as follows:
@@ -1466,8 +1462,6 @@ Selection procedures shall be as follows:
 1. Selection shall be conducted through interviews of prospective candidates.
 2. Final selection shall include an interview conducted with the Cultural Board Secretary or authorized Cultural Board representatives.
 3. Candidates shall submit a collection of agenda proposals outlining their vision, plans, and proposed initiatives for LitSoc.
-
----
 
 **2. Heads and Core Team**
 
@@ -1483,13 +1477,9 @@ The following positions shall be selected through interviews conducted by the cu
 
 Selection shall be based on merit, competence, leadership ability, and commitment to the club.
 
----
-
 **3. Club Members**
 
 Club Members shall be inducted based on participation, demonstrated interest, contribution, and performance in club activities.
-
----
 
 #### Article IV – Roles and Responsibilities
 
@@ -1503,8 +1493,6 @@ The Secretary shall:
 4. Lead and coordinate all club operations and initiatives.
 5. Ensure smooth functioning and fulfillment of the club’s objectives.
 
----
-
 **2. Aakhar Convenor**
 
 The Aakhar Convenor shall:
@@ -1514,8 +1502,6 @@ The Aakhar Convenor shall:
 3. Oversee branding, publicity, and event execution.
 4. Work with the Secretary to finalize budgets and logistics.
 
----
-
 **3. Content and Writing Head**
 
 The Content and Writing Head shall:
@@ -1523,8 +1509,6 @@ The Content and Writing Head shall:
 1. Ensure quality and relevance of literary content published by the club.
 2. Manage writing initiatives, literary publications, and creative content.
 3. Encourage writing culture within the club and student community.
-
----
 
 **4. Events Head**
 
@@ -1534,8 +1518,6 @@ The Events Head shall:
 2. Coordinate logistical and operational requirements.
 3. Ensure effective event execution.
 
----
-
 **5. Design Head**
 
 The Design Head shall:
@@ -1543,8 +1525,6 @@ The Design Head shall:
 1. Maintain the club’s visual identity and branding.
 2. Create promotional materials, posters, and visual content.
 3. Coordinate with the Cultural Board Design Coordinator.
-
----
 
 **6. Media Head**
 
@@ -1554,8 +1534,6 @@ The Media Head shall:
 2. Ensure proper coverage of club activities and events.
 3. Coordinate with the Cultural Board Media Head.
 
----
-
 **7. Word Games Heads**
 
 The Word Games Heads shall:
@@ -1563,8 +1541,6 @@ The Word Games Heads shall:
 1. Lead word games initiatives including Scrabble, Cryptic Crosswords, and other literary games.
 2. Organize practice sessions, competitions, and events.
 3. Promote word games participation within the student community.
-
----
 
 **8. Core Team Members**
 
@@ -1574,8 +1550,6 @@ Core Team Members shall:
 2. Support leadership and administrative functions.
 3. Contribute to club initiatives and development.
 
----
-
 **9. Inter-IIT Cup Mentor**
 
 The Inter-IIT Cup Mentor shall:
@@ -1584,8 +1558,6 @@ The Inter-IIT Cup Mentor shall:
 2. Provide mentorship, experience, and preparation guidance.
 3. Assist in preparing participants for competitions.
 4. Ensure continuity and performance standards in institutional representation.
-
----
 
 #### Article V – General Provisions
 
@@ -1610,8 +1582,6 @@ The purpose of Lumiere shall be:
 5. To organize film-related events, competitions, and festivals.
 6. To represent IIT Guwahati in filmmaking competitions, including the Inter-IIT Cultural Meet and other institutional and inter-institutional events.
 
----
-
 #### Article II – Organizational Structure
 
 Lumiere shall consist of the following official roles:
@@ -1628,8 +1598,6 @@ Lumiere shall consist of the following official roles:
 
 All office bearers and members shall function under the authority and supervision of the Cultural Board Council and in accordance with this Constitution.
 
----
-
 #### Article III – Selection Procedure
 
 Selection procedures shall be as follows:
@@ -1639,15 +1607,11 @@ Selection procedures shall be as follows:
 1. Membership shall be open to all students interested in club activities.
 2. Membership in the Inter-IIT Film Crew shall require interviews and performance evaluations based on technical ability, creativity, and commitment.
 
----
-
 **2. Secretary, Heads, and Core Team**
 
 1. Selection shall involve submission of detailed application forms, agendas, and proposals.
 2. Candidates shall undergo personal interviews to evaluate leadership ability, commitment, technical competence, and alignment with the club’s vision.
 3. Final selection shall be conducted by the existing leadership in coordination with Cultural Board authorities.
-
----
 
 #### Article IV – Eligibility
 
@@ -1662,8 +1626,6 @@ The Secretary must satisfy the following eligibility criteria:
    - Hostel Management Council, or
    - Other clubs or institutional bodies.
 
----
-
 **2. Core Team Members**
 
 Core Team Members must:
@@ -1671,13 +1633,9 @@ Core Team Members must:
 1. Be existing club members.
 2. Demonstrate active participation in club activities, filmmaking projects, or competitions.
 
----
-
 **3. Club Members**
 
 Club membership shall be open to all students without specific eligibility requirements.
-
----
 
 #### Article V – Roles and Responsibilities
 
@@ -1692,8 +1650,6 @@ The Secretary shall:
 5. Ensure coordination among club heads and members.
 6. Provide leadership and resources necessary for club functioning.
 
----
-
 **2. Overall Coordinator**
 
 The Overall Coordinator shall:
@@ -1702,8 +1658,6 @@ The Overall Coordinator shall:
 2. Coordinate with club heads and ensure adherence to timelines.
 3. Organize fresher interaction and routine club activities.
 4. Maintain accountability, teamwork, transparency, and quality standards.
-
----
 
 **3. Inter-IIT Cup Mentor**
 
@@ -1716,8 +1670,6 @@ The Inter-IIT Cup Mentor shall:
 5. Assist in proposing judges, drafting rulebooks, and managing competition logistics.
 6. Ensure effective representation of IIT Guwahati in the Filmmaking Arts Cup.
 
----
-
 **4. Events Head**
 
 The Events Head shall:
@@ -1727,8 +1679,6 @@ The Events Head shall:
 3. Maintain event documentation and conduct post-event evaluations.
 4. Contribute to future planning based on event outcomes and feedback.
 
----
-
 **5. Media Head**
 
 The Media Head shall:
@@ -1737,8 +1687,6 @@ The Media Head shall:
 2. Document club activities through photography and videography.
 3. Maintain social media presence and promotional outreach.
 4. Ensure consistent branding and effective communication.
-
----
 
 **6. Design Head**
 
@@ -1750,8 +1698,6 @@ The Design Head shall:
 4. Oversee merchandise design and visual assets.
 5. Guide and supervise club design team members.
 
----
-
 **7. Convener, Chalchitra**
 
 The Convener, Chalchitra shall:
@@ -1760,8 +1706,6 @@ The Convener, Chalchitra shall:
 2. Form and manage the event organizing team.
 3. Coordinate with the Secretary and Overall Coordinator.
 4. Ensure smooth execution and successful completion of the event.
-
----
 
 #### Article VI – General Provisions
 
@@ -1772,3 +1716,904 @@ The Convener, Chalchitra shall:
 5. Unresolved disputes shall be escalated to the Cultural Board Council.
 
 Lumiere shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### Anchorenza and RadioG – Anchoring, Comedy, and Content Creation Club
+
+#### Article I – Club Purpose
+
+Anchorenza and RadioG is the official Anchoring, Comedy, and Content Creation Club of IIT Guwahati and shall function under the authority and guidance of the Cultural Board.
+
+The purpose of Anchorenza and RadioG shall be:
+
+1. To provide a platform for students to develop skills in public speaking, anchoring, comedy, and content creation.
+2. To organize anchoring sessions, open mics, improv battles, stand-up performances, and creative showcases.
+3. To promote improv comedy and stand-up culture through workshops and performances.
+4. To enable students to create and produce original content including skits, podcasts, music videos, and digital media.
+5. To organize major institutional events including Freshers’ Intro and Mr. and Ms. Fresher.
+6. To represent IIT Guwahati in anchoring, comedy, and performance-based competitions including the Inter-IIT Cultural Meet.
+7. To foster creativity, confidence, communication skills, and collaborative artistic expression.
+
+#### Article II – Organizational Structure
+
+Anchorenza and RadioG shall consist of the following official roles:
+
+1. Anchorenza Secretary
+2. RadioG Secretary
+3. Media Head
+4. Design Head
+5. Inter-IIT Cup Mentor
+6. Core Team Members
+7. Club Members
+
+Both Secretaries shall serve as joint executive heads of the club.
+
+All office bearers and members shall operate under the authority of the Cultural Board Council and in accordance with this Constitution.
+
+#### Article III – Selection Procedure
+
+**1. Secretaries**
+
+Selection shall be conducted through the following procedure:
+
+1. Candidates shall submit a formal agenda outlining their vision, plans, and proposed initiatives for the club.
+2. Candidates shall undergo an interview conducted by a selection panel consisting of:
+   - Current Secretaries
+   - Current Core Team Members
+   - Immediate predecessors of the Secretaries and Core Team
+3. Final selection shall be based on leadership ability, competence, commitment, and alignment with club objectives.
+
+Eligibility requirements include:
+
+1. No academic backlog.
+2. Minimum CPI of 7.0.
+3. No concurrent Positions of Responsibility within:
+   - Students’ Gymkhana Council
+   - Hostel Management Council
+   - Other clubs or institutional bodies.
+
+**2. Inter-IIT Cup Mentor**
+
+Selection of the Inter-IIT Cup Mentor shall follow the same procedure and eligibility criteria as the Secretary.
+
+Selection shall include:
+
+1. Submission of a formal agenda outlining vision and plans for Inter-IIT preparation and representation.
+2. Interview conducted by a selection panel consisting of:
+   - Current Secretaries
+   - Current Core Team Members
+   - Immediate predecessors of the Secretaries and Core Team
+3. Evaluation based on leadership ability, prior performance, competence, and institutional commitment.
+
+Eligibility requirements shall include:
+
+1. No academic backlog.
+2. Minimum CPI of 7.0.
+3. No concurrent Positions of Responsibility within institutional governance bodies or clubs.
+
+**3. Media Head**
+
+1. Selected through interviews conducted by newly selected Secretaries.
+2. Only existing club members shall be eligible.
+
+**4. Design Head**
+
+1. Selected through interviews conducted by newly selected Secretaries.
+2. Only existing club members shall be eligible.
+
+**5. Core Team Members**
+
+1. Active members from the previous tenure shall be promoted to Core Team based on participation, performance, and contribution.
+
+**6. Club Members**
+
+1. Open calls shall be conducted throughout the year.
+2. Candidates shall be evaluated based on performances, participation, and creative ability.
+3. Selected individuals shall be inducted into club verticals including anchoring, stand-up, RadioG, media, design, and content creation teams.
+
+#### Article IV – Roles and Responsibilities
+
+**1. Secretaries**
+
+The Secretaries shall:
+
+1. Oversee overall functioning of Anchorenza and RadioG.
+2. Plan, coordinate, and supervise events, workshops, and performances.
+3. Coordinate communication among club teams.
+4. Represent the club in Cultural Board, Institute, and external events.
+5. Ensure smooth functioning and institutional compliance.
+
+**2. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Guide and train members preparing for Inter-IIT Cultural Meet.
+2. Assist in preparation, mentoring, and performance development.
+3. Maintain performance standards and institutional representation continuity.
+4. Coordinate with Cultural Board and Inter-IIT Contingent Leader.
+5. Ensure effective preparation and representation of IIT Guwahati.
+
+**3. Media Head**
+
+The Media Head shall:
+
+1. Manage club social media platforms and publicity.
+2. Develop content strategies and promotional campaigns.
+3. Coordinate event photography, videography, and digital documentation.
+4. Maintain digital archive and media records.
+5. Ensure visual consistency and branding.
+
+**4. Design Head**
+
+The Design Head shall:
+
+1. Develop and maintain the club’s visual identity.
+2. Design posters, banners, and promotional content.
+3. Support media and publicity initiatives.
+4. Maintain design standards and branding consistency.
+
+**5. Core Team Members**
+
+Core Team Members shall:
+
+1. Support planning and execution of club events and initiatives.
+2. Coordinate logistics, creative work, and event operations.
+3. Mentor new members.
+4. Ensure continuity of institutional knowledge and club operations.
+
+**6. Club Members**
+
+Club Members shall:
+
+1. Participate actively in club activities, performances, and events.
+2. Contribute creative content, ideas, and execution support.
+3. Assist in organizing events and productions.
+4. Uphold the club’s standards of creativity, collaboration, and professionalism.
+
+#### Article V – General Provisions
+
+1. Anchorenza and RadioG shall operate under the authority of the Cultural Board.
+2. All official communication shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. Internal disputes shall be resolved by Secretaries and Core Team.
+5. Unresolved disputes shall be escalated to the Cultural Board Council.
+
+Anchorenza and RadioG shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### Palates – The Culinary Club
+
+#### Article I – Club Purpose
+
+Palates is the official Culinary Club of IIT Guwahati and shall function under the authority and guidance of the Cultural Board.
+
+The purpose of Palates shall be:
+
+1. To promote the art and science of cooking across diverse culinary traditions, including Indian and global cuisines.
+2. To provide a platform for students to explore culinary creativity, food science, and cultural diversity through hands-on experiences.
+3. To organize workshops, cooking demonstrations, food festivals, and culinary competitions.
+4. To foster a culture of sustainable cooking, nutrition awareness, and gastronomic innovation.
+5. To encourage collaboration, learning, and culinary skill development among students.
+6. To promote community engagement through food initiatives and outreach programs.
+7. To represent IIT Guwahati in culinary competitions, including the Inter-IIT Cultural Meet and other inter-institutional events.
+
+Palates shall aim to create an inclusive environment where students of all skill levels can participate, learn, and contribute.
+
+#### Article II – Organizational Structure
+
+Palates shall consist of the following official roles:
+
+1. Secretary
+2. Overall Coordinator
+3. Event Heads (Workshops and Food Festival)
+4. Community Outreach Head
+5. Media Head
+6. Design Head
+7. Inter-IIT Cup Mentor
+8. Core Team Members
+9. Associates
+
+All office bearers and members shall function under the authority of the Cultural Board Council and in accordance with this Constitution.
+
+#### Article III – Selection Procedure
+
+**1. Secretary**
+
+1. Selected through interviews of eligible candidates.
+2. Final appointment shall require approval from the Cultural Board Secretary and the Vice President of the Students’ Gymkhana Council.
+3. Selection shall be based on leadership ability, administrative competence, and commitment to club objectives.
+
+**2. Heads and Coordinators**
+
+The following positions shall be selected through interviews conducted by the current Secretary and previous year’s leadership:
+
+1. Overall Coordinator
+2. Event Heads
+3. Community Outreach Head
+4. Media Head
+5. Design Head
+6. Core Team Members
+
+Selection shall be based on experience, competence, leadership, and contribution to the club.
+
+**3. Associates**
+
+1. Recruited through interest forms followed by interviews or culinary demonstrations.
+2. Recruitment may be conducted twice per academic year, once in each semester.
+3. Selection shall be based on interest, participation, and culinary ability.
+
+**4. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall be selected through the same procedure and eligibility criteria as the Secretary.
+
+Selection shall include:
+
+1. Submission of agenda outlining plans for Inter-IIT preparation.
+2. Interview conducted by current leadership and authorized Cultural Board representatives.
+3. Evaluation based on competence, leadership, and prior performance.
+
+#### Article IV – Eligibility Criteria
+
+**1. Secretary**
+
+The Secretary must:
+
+1. Satisfy eligibility criteria defined by the Students’ Gymkhana Council.
+2. Meet all eligibility requirements applicable to leadership positions.
+
+**2. Heads and Core Team**
+
+Candidates must:
+
+1. Have completed at least:
+   - Four semesters (or be in fourth semester) for undergraduate programs, or
+   - Two semesters for postgraduate programs.
+2. Have no active academic backlog or disciplinary action.
+3. Be active members of the club.
+
+**3. Associates**
+
+Associates must be registered students of IIT Guwahati.
+
+#### Article V – Roles and Responsibilities
+
+**1. Secretary**
+
+The Secretary shall:
+
+1. Manage administrative and financial matters of the club.
+2. Coordinate with the Cultural Board, Students’ Gymkhana Council, and Student Affairs.
+3. Represent the club at institutional and external levels.
+4. Obtain approvals and manage event budgets and settlements.
+5. Coordinate leadership and ensure effective functioning.
+
+**2. Overall Coordinator**
+
+The Overall Coordinator shall:
+
+1. Assist the Secretary in managing club operations.
+2. Coordinate logistics and execution of club events.
+3. Ensure timely execution of club activities.
+4. Facilitate coordination among event teams.
+
+**3. Event Heads**
+
+Event Heads shall:
+
+1. Organize cooking workshops and demonstrations.
+2. Plan and execute food festivals.
+3. Manage themes, stalls, demonstrations, and event execution.
+
+**4. Community Outreach Head**
+
+The Community Outreach Head shall:
+
+1. Lead outreach initiatives including “Cook for a Cause”.
+2. Organize sustainable cooking awareness programs.
+3. Coordinate food distribution and outreach activities.
+
+**5. Media Head**
+
+The Media Head shall:
+
+1. Manage social media and publicity of the club.
+2. Document club activities and events.
+3. Maintain digital records and promotional content.
+
+**6. Design Head**
+
+The Design Head shall:
+
+1. Create posters, banners, and promotional materials.
+2. Maintain club branding and visual identity.
+3. Support publicity and media initiatives.
+
+**7. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Guide and mentor members preparing for Inter-IIT competitions.
+2. Assist in preparation and performance development.
+3. Ensure continuity and representation standards.
+
+**8. Core Team Members**
+
+Core Team Members shall:
+
+1. Assist in planning and executing club activities.
+2. Manage logistics, inventory, and event coordination.
+3. Support Associates and ensure continuity of club operations.
+
+**9. Associates**
+
+Associates shall:
+
+1. Participate in workshops, festivals, and outreach programs.
+2. Assist in event execution and demonstrations.
+3. Contribute creative ideas and culinary initiatives.
+
+#### Article VI – Club Events
+
+Palates shall organize the following major activities:
+
+1. Workshops and Cooking Demonstrations
+2. Food Festivals
+3. Community Outreach Programs including “Cook for a Cause”
+
+#### Article VII – Vision
+
+The vision of Palates shall be:
+
+To establish Palates as a creative and inclusive culinary platform that integrates taste, tradition, and innovation, making culinary arts an integral part of IIT Guwahati’s Cultural identity.
+
+#### Article VIII – General Provisions
+
+1. Palates shall operate under the authority of the Cultural Board.
+2. All official communication shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. Disputes shall be resolved internally or escalated to the Cultural Board Council.
+
+Palates shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### Debating Society (DebSoc)
+
+#### Article I – Purpose
+
+The Debating Society (DebSoc) is the official debating club of IIT Guwahati and shall function under the authority and guidance of the Cultural Board.
+
+The purpose of DebSoc shall be:
+
+1. To foster a strong culture of critical thinking, structured argumentation, and public speaking on campus.
+2. To cultivate logical reasoning, persuasive communication, and intellectual curiosity among students.
+3. To represent IIT Guwahati at the Inter-IIT Cultural Meet and other external debating tournaments at national and international levels.
+4. To organize debate-related events, workshops, and competitions on campus.
+5. To develop a collaborative and intellectually vibrant debating community.
+
+#### Article II – Organizational Structure
+
+DebSoc shall consist of the following official roles:
+
+1. Secretary
+2. Competitive Debating Head
+3. Events Head
+4. PR and Outreach Head
+5. JAM Head
+6. Media Head
+7. Design Head
+8. Inter-IIT Cup Mentor
+9. Core Team Members
+10. Associates
+
+All office bearers and members shall function under the authority of the Cultural Board Council and in accordance with this Constitution.
+
+#### Article III – Eligibility
+
+Eligibility criteria shall include:
+
+1. Membership shall be open to all full-time students of IIT Guwahati.
+2. A student may hold only one official leadership position at a time.
+3. Students under disciplinary probation or with serious academic backlog may not be considered for leadership positions.
+4. Alumni may participate in mentorship and judging but shall not hold official Positions of Responsibility.
+
+#### Article IV – Selection Procedure
+
+**1. Secretary**
+
+1. Selected through interviews conducted jointly by current Secretaries, former Secretaries, and Core Team members.
+2. Selection shall be based on leadership ability, debating experience, administrative competence, and institutional commitment.
+
+**2. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall be selected through the same procedure and criteria as the Secretary.
+
+Selection shall include:
+
+1. Interview conducted jointly by current Secretaries, former Secretaries, and Core Team members.
+2. Evaluation based on debating experience, leadership ability, and Inter-IIT competence.
+
+**3. Other Heads**
+
+The following positions shall be selected through interviews conducted jointly by Secretaries, former Secretaries, and Core Team:
+
+1. Competitive Debating Head
+2. Events Head
+3. PR and Outreach Head
+4. JAM Head
+5. Media Head
+6. Design Head
+
+Selection shall be based on merit, competence, and contribution.
+
+**4. Core Team Members**
+
+Core Team Members shall be selected based on:
+
+1. Debating performance
+2. Contribution to club activities
+3. Interviews conducted by Secretaries and Heads
+
+**5. Associates**
+
+Associates shall be selected through:
+
+1. Auditions
+2. Trials
+3. Open participation rounds
+
+Selection shall be based on debating potential and participation.
+
+#### Article V – Roles and Responsibilities
+
+**1. Secretary**
+
+The Secretary shall:
+
+1. Lead and manage club operations.
+2. Coordinate with Cultural Board and Institute authorities.
+3. Plan and execute club events and competitions.
+4. Maintain club records, finances, and documentation.
+5. Represent DebSoc institutionally and externally.
+
+**2. Competitive Debating Head**
+
+The Competitive Debating Head shall:
+
+1. Lead competitive debating activities.
+2. Train and mentor competitive teams.
+3. Conduct practice debates and workshops.
+4. Manage Inter-IIT and external tournament participation.
+5. Maintain competitive standards and performance.
+
+**3. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Guide and train members preparing for Inter-IIT Cultural Meet.
+2. Provide mentorship and strategic preparation guidance.
+3. Maintain continuity and institutional debating standards.
+4. Assist in Inter-IIT team preparation.
+
+**4. Events Head**
+
+The Events Head shall:
+
+1. Organize campus debates and workshops.
+2. Manage logistics, scheduling, and event execution.
+3. Coordinate debate competitions and events.
+
+**5. PR and Outreach Head**
+
+The PR and Outreach Head shall:
+
+1. Manage external communication and collaborations.
+2. Handle institutional partnerships and outreach.
+3. Promote DebSoc initiatives and activities.
+
+**6. Media Head**
+
+The Media Head shall:
+
+1. Manage social media presence and publicity.
+2. Document events and competitions.
+3. Maintain media archives and digital presence.
+
+**7. JAM Head**
+
+The JAM Head shall:
+
+1. Organize JAM and extempore sessions.
+2. Train members in spontaneous speaking.
+3. Coordinate participation in JAM competitions.
+
+**8. Design Head**
+
+The Design Head shall:
+
+1. Create promotional materials and branding content.
+2. Maintain visual identity of DebSoc.
+3. Support publicity and event design.
+
+**9. Core Team Members**
+
+Core Team Members shall:
+
+1. Represent IIT Guwahati in competitions.
+2. Assist in mentorship and event organization.
+3. Support club operations and development.
+
+**10. Associates**
+
+Associates shall:
+
+1. Participate actively in debates and workshops.
+2. Contribute to club activities and development.
+3. Represent IIT Guwahati when selected.
+
+#### Article VI – General Provisions
+
+1. DebSoc shall operate under the authority of the Cultural Board.
+2. All official communication shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. Internal disputes shall be resolved by Secretaries and Core Team.
+5. Unresolved disputes shall be escalated to the Cultural Board Council.
+
+DebSoc shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### Finesse – Fine Arts and Fashion Club
+
+#### Article I – Club Purpose
+
+Finesse is the official Fine Arts and Fashion Club of IIT Guwahati and shall function under the authority and guidance of the Cultural Board.
+
+The purpose of Finesse shall be:
+
+1. To foster artistic expression through various mediums including painting, sculpting, crocheting, stitching, fashion design, and modeling.
+2. To promote creativity, artistic innovation, and cultural expression within the student community.
+3. To organize art exhibitions, workshops, and craft-related events.
+4. To provide a platform for students to develop artistic and fashion-related skills.
+5. To represent IIT Guwahati in fine arts and fashion competitions, including the Inter-IIT Cultural Meet and other external competitions.
+6. To promote artistic collaboration and creative excellence within the Institute.
+
+#### Article II – Organizational Structure
+
+Finesse shall consist of the following official roles:
+
+1. Secretary (Fine Arts)
+2. Secretary (Fashion)
+3. Overall Coordinator (Fine Arts)
+4. Overall Coordinator (Fashion)
+5. Media Head
+6. Design Head
+7. Inter-IIT Cup Mentor
+8. Core Team Members
+9. Club Members
+
+The Secretaries shall serve as executive heads of their respective domains.
+
+All office bearers and members shall function under the authority of the Cultural Board Council and in accordance with this Constitution.
+
+#### Article III – Selection Procedure
+
+**1. Secretaries and Overall Coordinators**
+
+Selection shall include:
+
+1. Submission of detailed application forms and agenda proposals.
+2. Multiple rounds of interviews conducted by current leadership and authorized Cultural Board representatives.
+3. Evaluation based on leadership ability, artistic competence, administrative capability, and institutional commitment.
+
+**2. Media Head and Design Head**
+
+Selection shall include:
+
+1. Application submission.
+2. Interview conducted by Secretaries and leadership.
+3. Evaluation based on competence, creativity, and contribution.
+
+**3. Inter-IIT Cup Mentor**
+
+Selection shall follow the same procedure and eligibility criteria as Secretaries.
+
+Selection shall include:
+
+1. Submission of agenda outlining plans for Inter-IIT preparation.
+2. Interview conducted by Secretaries and leadership.
+3. Evaluation based on artistic competence, experience, and leadership ability.
+
+**4. Core Team Members**
+
+Core Team Members must:
+
+1. Be existing club members.
+2. Demonstrate active involvement in club activities.
+3. Be selected based on contribution and interviews.
+
+**5. Club Members**
+
+Club Members shall be selected through:
+
+1. Application submission.
+2. Interview conducted by leadership.
+
+Membership shall be open to students demonstrating interest and commitment.
+
+#### Article IV – Eligibility
+
+**1. Core Team**
+
+Core Team Members must:
+
+1. Be active members of the club.
+2. Demonstrate consistent participation and contribution.
+
+**2. Club Members**
+
+Club membership shall be open to all students of IIT Guwahati.
+
+No specific prerequisites shall apply, except demonstrated interest and participation.
+
+#### Article V – Roles and Responsibilities
+
+**1. Secretaries**
+
+The Secretaries shall:
+
+1. Manage club finances and administrative functions.
+2. Organize and oversee workshops and events.
+3. Encourage participation and collaboration.
+4. Guide club leadership and members.
+5. Manage official communication and institutional coordination.
+6. Ensure successful execution of club initiatives.
+
+**2. Overall Coordinators**
+
+The Overall Coordinators shall:
+
+1. Lead execution of club events.
+2. Coordinate event logistics and operations.
+3. Assist Secretaries in administrative and operational functions.
+4. Ensure effective event management and execution.
+
+**3. Media Head**
+
+The Media Head shall:
+
+1. Manage club social media platforms.
+2. Maintain publicity and media presence.
+3. Document club activities and events.
+4. Promote club activities through media outreach.
+
+**4. Design Head**
+
+The Design Head shall:
+
+1. Maintain visual identity of the club.
+2. Create promotional materials and branding content.
+3. Design club merchandise and creative assets.
+4. Support publicity and visual communication.
+
+**5. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Guide and train members preparing for Inter-IIT Cultural Meet.
+2. Provide mentorship and performance guidance.
+3. Maintain artistic standards and representation continuity.
+4. Assist in preparation and institutional representation.
+
+**6. Core Team Members**
+
+Core Team Members shall:
+
+1. Assist in planning and execution of club activities.
+2. Fulfill assigned responsibilities.
+3. Support leadership and operational functions.
+
+**7. Club Members**
+
+Club Members shall:
+
+1. Participate actively in club activities.
+2. Contribute creative work and artistic initiatives.
+3. Support club events and projects.
+
+#### Article VI – General Provisions
+
+1. Finesse shall operate under the authority of the Cultural Board.
+2. All official communication shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. Internal disputes shall be resolved by Secretaries and leadership.
+5. Unresolved disputes shall be escalated to the Cultural Board Council.
+
+Finesse shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### Octaves – Music Club
+
+#### Article I – Club Purpose
+
+Octaves is the official Music Club of IIT Guwahati and shall function under the authority and guidance of the Cultural Board.
+
+The purpose of Octaves shall be:
+
+1. To promote musical expression and artistic creativity among students.
+2. To provide a platform for vocalists, instrumentalists, producers, and composers to collaborate and perform.
+3. To explore diverse musical genres including Indian classical, rock, jazz, metal, and contemporary music.
+4. To organize rehearsals, performances, and musical events throughout the academic year.
+5. To represent IIT Guwahati in musical competitions, including the Inter-IIT Cultural Meet and other external events.
+6. To foster a culture of teamwork, creativity, and musical excellence.
+7. To contribute to the cultural life and artistic identity of IIT Guwahati through music.
+
+#### Article II – Organizational Structure
+
+Octaves shall consist of the following official roles:
+
+1. Secretaries
+2. Inter-IIT Cup Mentor
+3. Media Head
+4. Design Head
+5. Core Team Members
+6. Club Members
+
+All office bearers and members shall function under the authority of the Cultural Board Council and in accordance with this Constitution.
+
+#### Article III – Selection Procedure
+
+**1. Secretaries**
+
+Selection shall be conducted through the following procedure:
+
+1. Candidates shall undergo interviews conducted by current Secretaries and Core Team members.
+2. Shortlisted candidates shall undergo final interviews with the Cultural Board Secretary or authorized Cultural Board representatives.
+3. Selection shall be based on leadership ability, musical competence, experience, and institutional commitment.
+
+**2. Inter-IIT Cup Mentor**
+
+Selection shall follow the same procedure and eligibility criteria as Secretaries.
+
+Selection shall include:
+
+1. Interviews conducted by current Secretaries and Core Team members.
+2. Final evaluation by Cultural Board leadership.
+3. Selection based on experience, competence, and ability to lead Inter-IIT preparation.
+
+**3. Core Team Members**
+
+Core Team Members shall be selected through:
+
+1. Auditions conducted by existing club members.
+2. Evaluation based on musical skill, participation, and performance ability.
+
+**4. Club Members**
+
+Club Members shall be selected through:
+
+1. Auditions conducted annually after the Institute interaction ban period.
+2. Selection based on musical skill, ability, and commitment.
+
+**5. Media Head and Design Head**
+
+Selection shall be conducted through:
+
+1. Interviews conducted by Secretaries and leadership.
+2. Evaluation based on competence, creativity, and contribution to club activities.
+
+#### Article IV – Roles and Responsibilities
+
+**1. Secretaries**
+
+The Secretaries shall:
+
+1. Oversee overall operations and administration of the club.
+2. Ensure smooth execution of club events and performances.
+3. Manage club equipment, resources, and finances.
+4. Coordinate club activities and rehearsals.
+5. Form and manage the Institute contingent for Inter-IIT competitions.
+6. Represent the club institutionally.
+
+**2. Inter-IIT Cup Mentor**
+
+The Inter-IIT Cup Mentor shall:
+
+1. Coordinate Inter-IIT preparation and participation.
+2. Assist in formation and preparation of the Institute contingent.
+3. Coordinate competition logistics, rulebooks, and proposals.
+4. Support performance preparation and representation.
+
+**3. Media Head**
+
+The Media Head shall:
+
+1. Manage social media presence and publicity.
+2. Document performances, rehearsals, and events.
+3. Maintain media archives and digital content.
+
+**4. Design Head**
+
+The Design Head shall:
+
+1. Maintain visual identity and branding of the club.
+2. Design posters, banners, and promotional material.
+3. Support publicity and visual communication initiatives.
+
+**5. Core Team Members**
+
+Core Team Members shall:
+
+1. Assist in club activities, rehearsals, and performances.
+2. Support leadership in operational and creative functions.
+3. Mentor junior members.
+4. Maintain continuity and musical standards.
+
+**6. Club Members**
+
+Club Members shall:
+
+1. Participate in rehearsals, performances, and competitions.
+2. Contribute to musical productions and collaborations.
+3. Support club initiatives and cultural activities.
+
+#### Article V – General Provisions
+
+1. Octaves shall operate under the authority of the Cultural Board.
+2. All official communication shall be routed through the Cultural Board.
+3. The tenure of office bearers shall be one academic year.
+4. Internal disputes shall be resolved by Secretaries and Core Team.
+5. Unresolved disputes shall be escalated to the Cultural Board Council.
+
+Octaves shall remain subject to this Constitution and Cultural Board governance at all times.
+
+### Section III – Resignation Procedure
+
+#### Article I – Resignation of Cultural Board Council Members
+
+Any holder of a Position of Responsibility (PoR) within the Cultural Board Council may resign from their position by submitting a formal written resignation to the Cultural Board Secretary.
+
+The resignation shall include:
+
+1. A written statement indicating the intent to resign.
+2. The reasons for resignation.
+3. Transfer of access to official institutional accounts, including email, drives, and other official communication platforms, in accordance with Institute and Cultural Board policies.
+
+Upon receipt of resignation, the Cultural Board Secretary shall:
+
+1. Review the resignation.
+2. Consult with the Chairperson of the Cultural Board where necessary.
+3. Approve or defer the resignation in the interest of institutional continuity.
+
+Core members of the Cultural Board Council shall submit resignation to the Cultural Board Secretary through the Overall Coordinator, who shall forward the resignation with relevant recommendations.
+
+Resignation shall take effect only upon formal acceptance by the Cultural Board Secretary.
+
+#### Article II – Post-Resignation Transition and Succession
+
+In the event of resignation, removal, or vacancy of any Position of Responsibility, a successor shall be appointed in accordance with this Constitution.
+
+The appointment shall be made upon recommendation of the Cultural Board Secretary and, where applicable, approval by the Chairperson of the Cultural Board.
+
+The outgoing office bearer shall be obligated to:
+
+1. Complete a full and proper handover of responsibilities.
+2. Transfer all institutional records, documents, and operational information.
+3. Transfer access to official institutional accounts, including email, drives, and media platforms.
+4. Provide guidance and clarification to the successor during a reasonable transition period.
+5. Ensure continuity of Cultural Board operations.
+
+Failure to comply with handover obligations may result in review and appropriate action under this Constitution and Institute regulations.
+
+#### Article III – Continuity and Institutional Integrity
+
+All resignations, transitions, and appointments shall be conducted in a manner that ensures continuity, institutional stability, and preservation of Cultural Board governance integrity.
+
+The Cultural Board Council shall ensure that no essential Cultural Board function is disrupted due to resignation or transition.
+
+#### Article IV – Mandatory Handover Obligation
+
+No resignation, whether voluntary or otherwise, shall exempt an office bearer from fulfilling their handover obligations.
+
+The outgoing office bearer shall remain responsible for ensuring the complete transfer of:
+
+1. All official records, documents, and operational materials,
+2. Access to institutional email accounts, drives, social media platforms, and other digital assets, and
+3. All institutional knowledge necessary for the effective continuation of the role,
+
+to their designated successor or to the Cultural Board Council, as directed.
+
+Failure to comply with handover obligations shall constitute a violation of this Constitution and may result in appropriate administrative action in accordance with Institute regulations.

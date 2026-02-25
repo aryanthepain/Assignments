@@ -3198,3 +3198,165 @@ Kartavya is the social responsibility module of Alcheringa, IIT Guwahati, dedica
 
 - Aikyam aims to sensitise people about communal violence and hatred in India.
 - It promotes the idea of unity in diversity through performances, panel discussions, and fundraisers.
+
+## SECTION II – SPIC MACAY
+
+### Article I – Purpose
+
+The SPIC MACAY (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) IIT Guwahati Chapter, under the Cultural Board, aims to promote India’s rich cultural heritage among the youth through classical music, dance, and art experiences.
+
+The chapter organizes Virasat, the largest cultural festival of Northeast India, showcasing diverse art forms and traditions. Through such initiatives, SPIC MACAY IIT Guwahati strives to inspire awareness, appreciation, and continuity of India’s timeless cultural values within the campus and beyond.
+
+### Article II – Composition of the Organising Committee and Their Responsibilities
+
+The organisational structure of the SPIC MACAY IIT Guwahati Chapter comprises several key roles, each with distinct responsibilities.
+
+#### Convenor
+
+- Oversees all administrative permissions, event planning, and related matters.
+- Holds ultimate authority alongside the Overall Coordinator (OC) in decision-making.
+- Ensures that all activities align with SPIC MACAY’s objectives and institutional guidelines.
+
+#### Overall Coordinator (OC)
+
+- Collaborates with the Convenor in decision-making and event management.
+- Holds significant authority in planning and executing chapter initiatives.
+- Ensures smooth coordination among all teams and maintains overall supervision of activities.
+
+#### Heads
+
+- Responsible for the overall functioning of their respective domains, including but not limited to Events, Creatives, Marketing, Hospitality, Media, Finance, Workshops, and Branding.
+- Oversee the planning and execution of events within their respective domains.
+- Report directly to the Convenor and Overall Coordinator regarding progress and requirements.
+
+#### Core Team
+
+- Assist Heads in managing specific aspects of their respective domains.
+- Coordinate tasks, communicate with Organisers, and ensure smooth workflow across events.
+- Play a key role in on-ground execution and inter-departmental coordination.
+
+#### Organisers
+
+- Execute tasks assigned by Core Team members and Heads during the festival.
+- Contribute actively to the smooth functioning of workshops, concerts, and outreach programmes.
+
+### Article III – Flagship Event: Virasat
+
+Virasat is the flagship cultural festival of the SPIC MACAY IIT Guwahati Chapter and serves as a concentrated celebration of Indian classical and folk arts through workshops, student performances, and evening concerts and recitals.
+
+#### Overview
+
+- Virasat is organized as a multi-day cultural festival showcasing diverse Indian classical and folk traditions.
+- The festival includes workshops, performances, lecture-demonstrations, and student showcases.
+- It serves both educational and performance-oriented purposes, promoting deeper engagement with Indian cultural heritage.
+
+#### Pre-Virasat Workshops
+
+- Intensive workshops are organised in the weeks immediately preceding the festival.
+- These workshops are conducted by visiting gurus and artists.
+- Workshops focus on practice-oriented learning, including:
+  - Dance intensives
+  - Instrumental and vocal training sessions
+  - Folk art and craft sessions
+
+#### Festival Format
+
+- The main Virasat festival is conducted over four days.
+- Each day typically includes multiple cultural activities and performances.
+- Events organised during the festival may include:
+  - Evening concerts by invited artists and maestros
+  - Student showcase performances featuring workshop participants
+  - Folk performances and ensemble presentations
+  - Lecture-demonstrations by invited artists
+
+#### Typical Flow of Virasat
+
+1. Workshop and rehearsal sessions conducted prior to the main festival.
+2. Student and special showcase performances presented during the festival.
+3. Main performances or lecture-demonstrations by invited artists or ensembles conducted each day during the festival.
+
+### Article IV – Other Signature Events
+
+#### Heritage Night
+
+- Heritage Night is an evening cultural festival celebrating regional and pan-Indian heritage.
+- It features classical and folk music and dance performances, heritage talks, and collaborative campus performances.
+- The event serves as a platform to bring students and the local community together for immersive cultural engagement and reflection.
+
+#### Kalakriti Workshop
+
+- Kalakriti is a hands-on visual arts workshop series focused on traditional art forms.
+- Activities may include painting, traditional crafts, block-printing, Lippan art, and other folk-art demonstrations.
+- The workshop aims to teach traditional artistic techniques and encourage student participation in exhibitions and cultural practice.
+
+#### Orientation (Freshers’ / Chapter Orientation)
+
+- A dedicated orientation session is conducted for new students.
+- The orientation introduces:
+  - SPIC MACAY’s philosophy and objectives
+  - The chapter’s annual calendar
+  - Volunteering opportunities
+  - Introductory workshops or demonstration performances
+- The session also serves as a platform for volunteer recruitment and awareness.
+
+#### Pre-Virasat Events
+
+- Pre-Virasat events include smaller programmes conducted in preparation for the main festival.
+- These may include:
+  - Lectures and baithaks
+  - Film screenings and lecture screenings
+  - Artist talks and themed recitals
+- These events help build awareness, promote workshop registrations, and prepare participants for Virasat performances.
+
+#### Lihaaz
+
+- Lihaaz is a collaborative concert or performance series organised in association with partner organisations.
+- It provides a platform for young artists, student performers, and community participants.
+- The event promotes cultural outreach and encourages participation in Indian classical and folk arts.
+
+### Article V – Recruitment Procedure
+
+The recruitment procedure for the SPIC MACAY IIT Guwahati Chapter follows a structured process to ensure active participation and smooth functioning throughout the academic year.
+
+#### Recruitment of Convenor
+
+- A recruitment form shall be released in March to select the Convenor of SPIC MACAY IIT Guwahati.
+- Interested candidates shall submit the form and undergo multiple rounds of interviews.
+- The interviews shall evaluate leadership qualities, experience, and vision for SPIC MACAY activities.
+
+#### Recruitment of Overall Coordinator and Heads
+
+- Recruitment forms for Overall Coordinator and Head positions shall be released in July.
+- These positions shall be open to members of the general body.
+- The selection process shall include multiple interviews to assess:
+  - Dedication
+  - Managerial abilities
+  - Vision and ideas for promoting Indian culture through SPIC MACAY
+
+#### Recruitment of Core Team (Phase I)
+
+- The first phase of Core Team recruitment shall be conducted in September.
+- This phase shall be open to all students except first-year students.
+- Candidates shall be shortlisted based on form responses and interviewed.
+- Evaluation shall include:
+  - Enthusiasm
+  - Past experience
+  - Willingness to contribute actively to SPIC MACAY activities
+
+#### Recruitment of Core Team (Phase II)
+
+- The second phase of Core Team recruitment shall be conducted in October.
+- This phase shall be open specifically to first-year students.
+- Candidates shall be evaluated through form responses and interviews.
+- Evaluation shall focus on:
+  - Interest in Indian heritage
+  - Motivation to contribute to SPIC MACAY initiatives
+
+#### Recruitment of Virasat Organisers
+
+- A recruitment form shall be released in January to select the Virasat Organising Team.
+- Selection shall be based on form responses.
+- Evaluation criteria shall include:
+  - Creativity
+  - Teamwork
+  - Organisational capability

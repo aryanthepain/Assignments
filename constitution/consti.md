@@ -3360,3 +3360,87 @@ The recruitment procedure for the SPIC MACAY IIT Guwahati Chapter follows a stru
   - Creativity
   - Teamwork
   - Organisational capability
+
+# CHAPTER VII – MEETINGS
+
+## SECTION I – GENERAL BODY MEET
+
+### Article I – Purpose of General Body Meet
+
+The General Body Meeting (GBM/GBHM) serves as a formal gathering convened by the General Secretary to bring together members of the Cultural Board. During this meeting, participants engage in structured discussions to review ongoing conditions, address pertinent matters, and collectively strategize for the Board's current tenure.
+
+### Article II – Frequency of General Body Meet
+
+The General Body Heads Meeting (GBHM) shall be convened twice during a tenure, with the first session typically held around October–November and the second session around February.
+
+The General Body Meeting (GBM) shall be conducted once per tenure, typically occurring around March–April.
+
+### Article III – Agenda of General Body Meet
+
+The agenda for each General Body Meeting (GBM/GBHM) shall facilitate discussions and deliberations concerning the operations and functioning of the Cultural Board within the current semester.
+
+During these meetings, members shall:
+
+- Discuss progress updates and challenges.
+- Engage in strategic planning for ongoing initiatives.
+- Acknowledge notable achievements and recognitions within the Cultural Board community.
+- Receive detailed insights into the scope, progress, and anticipated impact of ongoing projects.
+
+These meetings shall promote transparency, alignment, and collaboration across the Cultural Board.
+
+### Article IV – Attendance in General Body Meet
+
+The General Body Meeting (GBM) shall be attended by all members of the Cultural Board holding various positions across all Cultural Clubs.
+
+The General Body Heads Meeting (GBHM) shall be attended by:
+
+- All Heads of Cultural Clubs
+- Secretaries of Cultural Clubs
+- Overall Coordinators of Cultural Clubs
+
+### Article V – Documentation of General Body Meet
+
+The documentation of discussions, decisions, and outcomes during the General Body Meeting (GBM) or General Body Heads Meeting (GBHM) shall be the responsibility of the individual designated by the General Secretary (GS) of the Cultural Board.
+
+Such documentation shall be maintained for reference, transparency, and institutional record.
+
+## SECTION II – MONTHLY MEET
+
+### Article VI – Purpose of Monthly Meet
+
+The Cultural Board shall organize and conduct Monthly Meetings, herein referred to as "Monthly Cultural Board Meetings," with the primary purpose of providing a platform for Cultural Clubs to showcase their excellence, discuss ongoing projects, share achievements, and foster collaboration within the Cultural Board community.
+
+### Article VII – Frequency of Monthly Meet
+
+Monthly Cultural Board Meetings shall be held every two months, providing a regular forum for clubs to present updates, discuss progress, and engage in constructive dialogue.
+
+### Article VIII – Agenda of Monthly Meet
+
+The agenda for each Monthly Cultural Board Meeting shall include, but not be limited to, the following:
+
+- Presentation of growth and development by each Cultural Club
+- Highlights of notable achievements, awards, or recognitions
+- Overview of ongoing projects, including their scope, progress, and impact
+- Recognition and appreciation of excellence within the Cultural Board community
+- Discussion of upcoming projects, competitions, or workshops
+
+### Article IX – Selection of Best Club and Best Secretary
+
+Monthly Cultural Board Meetings shall serve as a platform for the selection of the Best Club and Best Secretary, recognizing outstanding contributions and accomplishments over the specified two-month period.
+
+### Article X – Attendance in Monthly Meet
+
+The following individuals shall be in attendance at each Monthly Cultural Board Meeting:
+
+- Secretaries of each Cultural Club
+- Council Members of the Cultural Board
+
+### Article XI – Delegation in Unforeseen Circumstances
+
+If a Club Secretary is unable to attend a Monthly Cultural Board Meeting due to unforeseen circumstances, the respective Club Secretary shall ensure representation from their Club Core Team during the meeting.
+
+### Article XII – Documentation of Monthly Meet
+
+The documentation of discussions, decisions, and outcomes during Monthly Cultural Board Meetings shall be the responsibility of the individual designated by the General Secretary (GS) of the Cultural Board.
+
+Such documentation shall be maintained for reference, transparency, and institutional record.

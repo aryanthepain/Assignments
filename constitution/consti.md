@@ -3698,3 +3698,39 @@ Clubs, Secretaries, and Office Bearers shall be accountable for:
 - Maintenance of accurate financial records
 
 Financial activities shall remain subject to review, audit, and oversight by the Cultural Board and Institute authorities.
+
+# CHAPTER IX – AMENDMENTS
+
+### Article I – Initiating the Amendment Process
+
+Amendments to the Cultural Board Constitution may be proposed only by the Cultural Board Council.
+
+To be considered for approval:
+
+- The proposed amendment shall be presented at a Cultural Board Council meeting.
+- The proposed amendment shall be circulated via email to all members of the Cultural Board Council and members of the Cultural Community.
+- The circulation of the proposed amendment shall occur at least one week prior to the Cultural Board Council meeting at which the amendment is to be considered.
+
+### Article II – The Amendment Process
+
+The Cultural Board Council shall establish an Ad-Hoc Committee to evaluate the necessity and constitutionality of the proposed amendment.
+
+The Ad-Hoc Committee shall:
+
+- Assess the proposed amendment
+- Prepare a report detailing its findings and recommendations
+- Submit the report to the Chairperson of the Cultural Board Council
+
+The report, along with the proposed amendment, shall be presented to the Cultural Board Council at least one week prior to the final decision.
+
+### Article III – Editorial Changes
+
+Editorial changes, including grammar corrections, formatting adjustments, and non-substantive rewording, may be proposed by any member of the Cultural Board Council during an official Cultural Board Council meeting.
+
+Such editorial changes may be approved by a simple majority vote of the Cultural Board Council members present and voting.
+
+### Article IV – Record of Amendments
+
+A record of all amendments to the Cultural Board Constitution shall be maintained by the Chairperson of the Cultural Board Council.
+
+This record shall be preserved as an appendix to the Constitution for reference and institutional continuity.

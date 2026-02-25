@@ -3444,3 +3444,257 @@ If a Club Secretary is unable to attend a Monthly Cultural Board Meeting due to 
 The documentation of discussions, decisions, and outcomes during Monthly Cultural Board Meetings shall be the responsibility of the individual designated by the General Secretary (GS) of the Cultural Board.
 
 Such documentation shall be maintained for reference, transparency, and institutional record.
+
+# CHAPTER VIII – FINANCE
+
+## SECTION I – SOURCES OF FINANCE
+
+### Article I – Sources of Finance
+
+All financial activities of the clubs and cultural teams under the purview of the Cultural Board at IIT Guwahati shall be financed through one or more of the following sources:
+
+- Sponsorship arrangements
+- Alumni donations
+- Cultural Board Corpus Fund
+- Funds designated by the Institute for the student body through the Cultural Board
+
+### Article II – Sponsorship
+
+Clubs and events affiliated with the Cultural Board shall be eligible to secure funding through sponsorship agreements, in addition to receiving allocations from the Cultural Board Corpus Fund.
+
+All sponsorship agreements shall adhere to ethical standards.
+
+A formal Memorandum of Understanding (MoU) shall be executed for sponsorship agreements. The MoU shall be considered valid only after it has been signed by:
+
+- The General Secretary of the Cultural Board
+- The Chairperson of the Cultural Board
+- The respective Club Secretary
+
+### Article III – Alumni Donations
+
+Donations from alumni shall contribute to the financial support of activities within the Cultural Board. Such contributions shall promote continuity, institutional engagement, and support for student-led initiatives.
+
+### Article IV – SSO and BPS Portals
+
+Financial transactions, including the raising of Purchase Orders (POs) for procurement of components, shall be conducted through the Single Sign-On (SSO) and Business Process Services (BPS) portals.
+
+These portals shall be used to ensure efficient financial management and administrative compliance.
+
+### Article V – GFR Rules and Stock Entry
+
+All stock entries and financial transactions shall comply with the General Financial Rules (GFR) and applicable Institute financial guidelines.
+
+This shall ensure transparency, accountability, and proper management of financial resources.
+
+### Article VI – Special Fund Requirements
+
+Any special fund requirements shall be fulfilled through designated funds allocated by the Institute, ensuring that all financial needs of the Cultural Board and its affiliated clubs are adequately addressed.
+
+## SECTION II – BUDGET
+
+### Article I – Preparation of the Budget
+
+Clubs and events under the Cultural Board shall be required to prepare a budget and submit it to the General Secretary of the Cultural Board for review, depending on their operational status and requirements.
+
+The Cultural Board Council shall consolidate all submitted budget proposals and collaborate with the corresponding Budget Committee to formulate the final consolidated budget.
+
+### Article II – Purchase Committee
+
+For purchases falling within the range of ₹25,000 to ₹2,50,000, a declaration shall be signed by three members of the Purchase Committee to ensure proper oversight and authorization of expenditure.
+
+For purchases below ₹25,000, purchase certification shall be compulsory.
+
+In cases where tent services or similar logistical arrangements are required, vendors shall be contacted in advance to estimate costs and obtain permission from the concerned authorities prior to procurement.
+
+### Article III – Reimbursement
+
+Reimbursement procedures shall ensure accurate and transparent financial transactions for expenses incurred during events.
+
+#### A. Format for Reimbursement
+
+- Submission of copies of bills along with an approval copy shall be mandatory.
+- This process shall ensure transparency and accountability in financial transactions.
+
+#### B. Reimbursement of Travel Expenses
+
+- For air travel reimbursement, submission of the boarding pass shall be compulsory.
+- For train travel reimbursement, submission of the travel ticket shall be compulsory.
+
+#### C. Reimbursement of Food and Travel Expenses
+
+- Expenses related to food and travel incurred during events shall be eligible for reimbursement upon submission of valid bills.
+
+### Article IV – Approval of the Budget by Student Legislative Council
+
+The Student Legislative Council may approve the budget proposed by the Executive Council or may make modifications as deemed necessary.
+
+Approval of the budget shall require a two-thirds majority vote of the members present and voting.
+
+### Article V – Statement of Expenditure
+
+Clubs shall present a financial statement detailing the expenditure of the approved budget at least once per semester to the Cultural Board Council.
+
+Additionally, a financial statement report shall be submitted to the corresponding Standing Committee once every two months.
+
+Failure to comply with these requirements may result in contempt proceedings against the responsible secretary or body and may lead to further action by the Cultural Board Council.
+
+## SECTION III – FINANCIAL PROCEDURES
+
+### Article I – Budget Sanction and Access to Funds
+
+Once an event approval and budget estimate have been verified and signed by the competent authorities, a sanction order number shall be generated by the Student Affairs Section.
+
+This sanction order number shall serve as the official reference for accessing the allocated budget for the event or activity under the Cultural Board Budget Head.
+
+The sanctioned budget may be utilized through advance withdrawal, reimbursement, or direct vendor payment, in accordance with Institute financial procedures.
+
+### Article II – Advance and Settlement Procedure
+
+Clubs may withdraw an advance amount from the sanctioned budget to meet event-related expenditures.
+
+- The advance amount shall be subject to limits prescribed by the Institute.
+- To obtain an advance, the Gymkhana Advance Form shall be completed and signed by:
+  - General Secretary of the Cultural Board
+  - Vice President
+  - Chairperson of the Cultural Board
+
+- The signed form shall be submitted to the Student Affairs Section for processing.
+
+After completion of the event:
+
+- A Gymkhana Settlement Form shall be submitted.
+- The settlement form shall include:
+  - Exact details of expenditures
+  - Supporting bills and receipts
+
+Settlement shall be completed within the timeframe prescribed by the Institute. Failure to complete settlement within the prescribed period may result in administrative action.
+
+### Article III – Reimbursement Procedure
+
+Clubs may incur expenses through approved expenditure and subsequently claim reimbursement.
+
+To obtain reimbursement:
+
+- A Gymkhana Reimbursement Form shall be completed.
+- The form shall include:
+  - Details of expenditure
+  - Supporting bills and receipts
+  - Purpose of expenditure
+
+The reimbursement form shall be signed by:
+
+- General Secretary of the Cultural Board
+- Vice President
+- Chairperson of the Cultural Board
+
+The signed form shall be submitted to the Student Affairs Section for reimbursement processing.
+
+### Article IV – Vendor Payment Procedure
+
+In cases where payment is made directly to vendors, prior approval shall be obtained from the competent authorities.
+
+The appropriate vendor payment or disbursement form shall be completed and submitted along with relevant documentation.
+
+Vendor payments shall be processed in accordance with Institute procurement and financial guidelines.
+
+### Article V – Sponsorship and MoU Financial Processing
+
+For sponsorship agreements involving external organizations:
+
+- Sponsorship details shall be submitted to the Cultural Board for verification.
+- A Sponsorship Application Form shall be completed and signed by the General Secretary and Vice President.
+- A Memorandum of Understanding (MoU) shall be drafted in the prescribed format.
+
+The MoU and sponsorship documentation shall be reviewed and approved by the Chairperson of the Cultural Board and submitted to the Student Affairs Section for processing.
+
+Funds shall be formally recognized and processed only after completion of the prescribed approval and documentation procedures.
+
+### Article VI – Financial Documentation and Bill Submission
+
+All financial transactions shall be supported by valid documentation.
+
+- Physical copies of bills and receipts shall be maintained.
+- Bills shall be submitted along with settlement or reimbursement forms.
+- Failure to provide valid documentation may result in denial of reimbursement or financial liability being borne by the individual concerned.
+
+### Article VII – Funds Utilization and Financial Reporting
+
+After completion of events, clubs shall review financial expenditures and submit the required financial documentation in the prescribed format.
+
+Financial records shall be maintained to ensure transparency, accountability, and audit compliance.
+
+All funds shall be utilized strictly for approved purposes and in accordance with Institute financial policies.
+
+## SECTION IV – PROCUREMENT, COMPLIANCE, AND FINANCIAL GOVERNANCE
+
+### Article I – Modes of Financial Processing
+
+Financial transactions under the Cultural Board shall be conducted through approved Institute channels.
+
+Depending on the amount involved, financial processing may be conducted through:
+
+- Institute ERP systems
+- Single Sign-On (SSO) and Business Process Services (BPS) portals
+- Offline financial processing through Student Affairs
+
+Transactions exceeding the threshold prescribed by the Institute shall require offline processing and submission of physical documentation.
+
+### Article II – Mandatory Bill and Documentation Requirements
+
+All expenditures shall be supported by valid and verifiable bills or invoices.
+
+- Physical hardcopies of bills shall be mandatory for financial settlement and reimbursement.
+- Bills shall clearly indicate:
+  - Vendor name
+  - Amount
+  - Date of transaction
+  - Description of goods or services
+
+Failure to provide valid bills may result in rejection of reimbursement claims and financial liability being assigned to the individual responsible for the expenditure.
+
+### Article III – Vendor Engagement and Procurement Compliance
+
+Procurement of goods and services shall follow Institute procurement procedures.
+
+- Vendors shall be contacted in advance to obtain quotations and cost estimates where applicable.
+- Vendor payments shall require proper documentation, approval, and authorization.
+- All procurement shall comply with Institute financial policies and General Financial Rules (GFR).
+
+Unauthorized procurement or financial commitments shall not be recognized by the Cultural Board.
+
+### Article IV – Sponsorship Compliance and MoU Requirements
+
+All sponsorship agreements shall be documented through formal Memoranda of Understanding (MoUs).
+
+MoUs shall:
+
+- Be prepared in the prescribed Institute format
+- Contain complete and accurate event and organizational details
+- Be reviewed and approved by the Cultural Board and Institute authorities
+
+Only sponsorship agreements processed through the approved procedures shall be considered valid.
+
+### Article V – Financial Settlement Deadlines and Compliance
+
+All financial settlements, reimbursements, and financial documentation shall be completed within the timelines prescribed by the Institute.
+
+Clubs shall ensure timely submission of:
+
+- Settlement forms
+- Reimbursement forms
+- Bills and receipts
+- Financial utilization documentation
+
+Failure to comply with financial procedures and deadlines may result in administrative action, including restriction of future financial approvals.
+
+### Article VI – Financial Accountability and Oversight
+
+All office bearers handling financial matters shall ensure responsible and transparent use of funds.
+
+Clubs, Secretaries, and Office Bearers shall be accountable for:
+
+- Proper utilization of allocated funds
+- Compliance with Institute financial procedures
+- Maintenance of accurate financial records
+
+Financial activities shall remain subject to review, audit, and oversight by the Cultural Board and Institute authorities.

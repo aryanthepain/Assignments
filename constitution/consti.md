@@ -2617,3 +2617,497 @@ The outgoing office bearer shall remain responsible for ensuring the complete tr
 to their designated successor or to the Cultural Board Council, as directed.
 
 Failure to comply with handover obligations shall constitute a violation of this Constitution and may result in appropriate administrative action in accordance with Institute regulations.
+
+## CHAPTER V – EVENTS
+
+### SECTION I – INTRODUCTION
+
+#### Article I – Cultural Board Events
+
+The Cultural Board of IIT Guwahati shall oversee and organize major institutional cultural events during its tenure. These events shall serve to foster artistic expression, creative excellence, leadership, and collaboration within the Cultural Community.
+
+The principal Cultural Board events shall include:
+
+1. QALA (Performing Arts Festival)
+2. Manthan (Inter-Hostel Cultural Competition)
+3. Clubs Showcase
+
+These events shall be conducted in accordance with this Constitution, Cultural Board policies, and Institute regulations.
+
+#### Article II – QALA (Performing Arts Festival)
+
+QALA shall serve as the annual performing arts festival of IIT Guwahati and the Cultural Board.
+
+The purpose of QALA shall be:
+
+1. To provide a platform for graduating students to perform and showcase their artistic contributions.
+2. To celebrate the artistic journey and achievements of Cultural Board members and Cultural Clubs.
+3. To promote collaboration between Cultural Clubs and performers.
+4. To provide a formal cultural closure to the academic year.
+
+QALA shall be conducted under the supervision of the Cultural Board Council, with operational responsibility delegated to designated event leadership.
+
+#### Article III – Manthan
+
+Manthan shall be the official inter-hostel cultural competition of IIT Guwahati, organized under the authority of the Cultural Board.
+
+The purpose of Manthan shall be:
+
+1. To promote excellence in performing arts, visual arts, literary arts, cinematic arts, content creation, and oratory.
+2. To provide a structured platform for hostels to showcase talent.
+3. To foster leadership, teamwork, and cultural engagement among students.
+4. To promote healthy competition and cultural exchange within the Institute.
+
+Manthan shall be governed by the Cultural Board Constitution and the officially published Manthan Rulebook.
+
+#### Article IV – Clubs Showcase
+
+The Clubs Showcase shall serve as an official Cultural Board event to showcase the artistic capabilities of Cultural Clubs.
+
+The purpose of Clubs Showcase shall be:
+
+1. To provide Cultural Clubs a platform to present their artistic work.
+2. To promote inter-club collaboration and artistic exposure.
+3. To highlight the diversity of cultural expression within IIT Guwahati.
+
+The event may include performances and showcases in:
+
+1. Music
+2. Dance
+3. Dramatics
+4. Film
+5. Literary Arts
+6. Comedy and Stand-up
+7. Fashion and Fine Arts
+8. Photography and Content Creation
+
+#### Article V – Authority of the Events Head
+
+The Events Head of the Cultural Board shall serve as the primary executive authority responsible for event coordination and execution.
+
+The Events Head shall:
+
+1. Coordinate planning and execution of Cultural Board events.
+2. Manage venue booking, scheduling, and logistics.
+3. Serve as the official point of contact for event-related coordination.
+4. Ensure compliance with Cultural Board policies and Institute regulations.
+5. Coordinate with Cultural Clubs, organizers, and stakeholders.
+
+All Cultural Clubs and organizers shall cooperate with the Events Head to ensure proper execution of Cultural Board events.
+
+#### Article VI – Event Budget and Financial Governance
+
+The Cultural Board Secretary, Finance and Marketing Head, and relevant Cultural Club Secretaries shall jointly prepare budgets for Cultural Board events.
+
+Budget preparation shall include:
+
+1. Estimation of expenses and resource requirements.
+2. Submission for approval prior to event execution.
+3. Compliance with Institute financial regulations.
+
+All financial activities shall maintain transparency, accountability, and proper documentation.
+
+#### Article VII – Memorandum of Understanding (MoU)
+
+Any engagement involving external parties and financial transactions, including sponsorships, honorariums, or workshop fees, shall require a formal Memorandum of Understanding (MoU).
+
+The MoU shall:
+
+1. Define terms and conditions of engagement.
+2. Be signed by the Cultural Board Secretary and the Chairperson of the Cultural Board.
+3. Be approved in accordance with Institute policies.
+
+No external financial engagement shall be considered valid without an approved MoU.
+
+#### Article VIII – Financial Documentation and Payments
+
+All financial transactions related to Cultural Board events shall comply with Institute procedures.
+
+The following shall apply:
+
+1. Bills must be submitted within thirty (30) days of event completion.
+2. Advance payment requests must be submitted at least thirty (30) days prior to the event.
+3. Utilization certificates shall be submitted in the prescribed format.
+
+Failure to comply may result in financial review or administrative action.
+
+#### Article IX – Media and External Communication
+
+All external communication relating to Cultural Board events shall comply with Institute media policies.
+
+The following shall apply:
+
+1. All external media content shall be reviewed where required by Institute authorities.
+2. Official communication shall be reported to the Cultural Board Secretary and Chairperson.
+3. No defamatory or harmful content shall be published.
+4. Institutional integrity and reputation shall be preserved at all times.
+
+#### Article X – Event Expenditure Compliance
+
+All event expenditures shall comply with Cultural Board financial regulations and Institute expenditure procedures.
+
+Expenditure shall:
+
+1. Be within approved budgets.
+2. Be properly documented.
+3. Comply with financial accountability standards.
+
+Improper financial conduct shall be subject to review and disciplinary procedures.
+
+### SECTION II – EVENT ORGANIZATION
+
+#### Article XI – QALA (Performing Arts Festival)
+
+##### Purpose
+
+QALA shall serve as the official annual performing arts showcase of IIT Guwahati.
+
+The event shall:
+
+1. Provide Cultural Clubs a platform to present performances developed throughout the academic year.
+2. Promote artistic collaboration and institutional cultural excellence.
+3. Celebrate the artistic contributions of Cultural Board members.
+
+##### Event Structure
+
+QALA shall be conducted as a Cultural Board-supervised performing arts event and may include:
+
+1. Cultural performances by official Cultural Clubs.
+2. Showcase of original artistic productions.
+3. Performances by graduating members.
+4. Guest performances, where applicable.
+
+Event structure shall be determined by the Cultural Board Council.
+
+#### Article XII – Manthan (Inter-Hostel Cultural Competition)
+
+##### Governance and Authority
+
+Manthan shall be governed by the Cultural Board Council.
+
+The Events Head shall serve as Convener of Manthan.
+
+The Convener shall:
+
+1. Oversee planning and execution.
+2. Ensure fairness, transparency, and compliance.
+3. Coordinate with Hostel Cultural Secretaries.
+
+##### Organizing Committee
+
+The Organizing Committee shall consist of:
+
+1. Events Head (Convener)
+2. Cultural Club Secretaries serving as Module Conveners
+3. Cultural Board members and appointed student organizers
+4. Judges and adjudicators
+
+Committee members shall maintain impartiality and comply with the Constitution.
+
+##### Module Structure
+
+Manthan shall consist of modules including:
+
+1. Dance Module
+2. Music Module
+3. Content Creation Module
+4. Photography Module
+5. Literary Module
+6. Dramatics Module
+7. Film Module
+8. Fine Arts Module
+9. Debating Module
+10. Culinary Module
+
+Each module shall:
+
+1. Have designated Module Conveners.
+2. Follow standardized judging procedures.
+3. Contribute to overall hostel scores.
+
+##### Adjudication and Scoring
+
+Judging shall:
+
+1. Be conducted by qualified adjudicators.
+2. Follow predefined evaluation criteria.
+3. Use standardized scorecards.
+
+Penalty procedures and appeal procedures shall be defined in the Manthan Rulebook.
+
+##### Institutional Integrity and Fairness
+
+Organizing Committee members shall not:
+
+1. Provide unfair advantage to any hostel.
+2. Participate in events they organize.
+3. Violate impartiality requirements.
+
+Violations may result in removal and disciplinary review.
+
+##### Closure and Reporting
+
+Upon completion of Manthan:
+
+1. Results shall be officially published.
+2. Scorecards shall be documented.
+3. Feedback shall be collected.
+
+Records shall be maintained by the Cultural Board.
+
+## CHAPTER V – EVENTS
+
+### SECTION I – INTRODUCTION
+
+#### Article I – Cultural Board Events
+
+The Cultural Board of IIT Guwahati shall oversee and organize major institutional cultural events during its tenure. These events shall serve to foster artistic expression, creative excellence, leadership, and collaboration within the Cultural Community.
+
+The principal Cultural Board events shall include:
+
+1. QALA (Performing Arts Festival)
+2. Manthan (Inter-Hostel Cultural Competition)
+3. Clubs Showcase
+
+These events shall be conducted in accordance with this Constitution, Cultural Board policies, and Institute regulations.
+
+#### Article II – QALA (Performing Arts Festival)
+
+QALA shall serve as the annual performing arts festival of IIT Guwahati and the Cultural Board.
+
+The purpose of QALA shall be:
+
+1. To provide a platform for graduating students to perform and showcase their artistic contributions.
+2. To celebrate the artistic journey and achievements of Cultural Board members and Cultural Clubs.
+3. To promote collaboration between Cultural Clubs and performers.
+4. To provide a formal cultural closure to the academic year.
+
+QALA shall be conducted under the supervision of the Cultural Board Council, with operational responsibility delegated to designated event leadership.
+
+#### Article III – Manthan
+
+Manthan shall be the official inter-hostel cultural competition of IIT Guwahati, organized under the authority of the Cultural Board.
+
+The purpose of Manthan shall be:
+
+1. To promote excellence in performing arts, visual arts, literary arts, cinematic arts, content creation, and oratory.
+2. To provide a structured platform for hostels to showcase talent.
+3. To foster leadership, teamwork, and cultural engagement among students.
+4. To promote healthy competition and cultural exchange within the Institute.
+
+Manthan shall be governed by the Cultural Board Constitution and the officially published Manthan Rulebook.
+
+#### Article IV – Clubs Showcase
+
+The Clubs Showcase shall serve as an official Cultural Board event to showcase the artistic capabilities of Cultural Clubs.
+
+The purpose of Clubs Showcase shall be:
+
+1. To provide Cultural Clubs a platform to present their artistic work.
+2. To promote inter-club collaboration and artistic exposure.
+3. To highlight the diversity of cultural expression within IIT Guwahati.
+
+The event may include performances and showcases in:
+
+1. Music
+2. Dance
+3. Dramatics
+4. Film
+5. Literary Arts
+6. Comedy and Stand-up
+7. Fashion and Fine Arts
+8. Photography and Content Creation
+
+#### Article V – Authority of the Events Head
+
+The Events Head of the Cultural Board shall serve as the primary executive authority responsible for event coordination and execution.
+
+The Events Head shall:
+
+1. Coordinate planning and execution of Cultural Board events.
+2. Manage venue booking, scheduling, and logistics.
+3. Serve as the official point of contact for event-related coordination.
+4. Ensure compliance with Cultural Board policies and Institute regulations.
+5. Coordinate with Cultural Clubs, organizers, and stakeholders.
+
+All Cultural Clubs and organizers shall cooperate with the Events Head to ensure proper execution of Cultural Board events.
+
+#### Article VI – Event Budget and Financial Governance
+
+The Cultural Board Secretary, Finance and Marketing Head, and relevant Cultural Club Secretaries shall jointly prepare budgets for Cultural Board events.
+
+Budget preparation shall include:
+
+1. Estimation of expenses and resource requirements.
+2. Submission for approval prior to event execution.
+3. Compliance with Institute financial regulations.
+
+All financial activities shall maintain transparency, accountability, and proper documentation.
+
+#### Article VII – Memorandum of Understanding (MoU)
+
+Any engagement involving external parties and financial transactions, including sponsorships, honorariums, or workshop fees, shall require a formal Memorandum of Understanding (MoU).
+
+The MoU shall:
+
+1. Define terms and conditions of engagement.
+2. Be signed by the Cultural Board Secretary and the Chairperson of the Cultural Board.
+3. Be approved in accordance with Institute policies.
+
+No external financial engagement shall be considered valid without an approved MoU.
+
+#### Article VIII – Financial Documentation and Payments
+
+All financial transactions related to Cultural Board events shall comply with Institute procedures.
+
+The following shall apply:
+
+1. Bills must be submitted within thirty (30) days of event completion.
+2. Advance payment requests must be submitted at least thirty (30) days prior to the event.
+3. Utilization certificates shall be submitted in the prescribed format.
+
+Failure to comply may result in financial review or administrative action.
+
+#### Article IX – Media and External Communication
+
+All external communication relating to Cultural Board events shall comply with Institute media policies.
+
+The following shall apply:
+
+1. All external media content shall be reviewed where required by Institute authorities.
+2. Official communication shall be reported to the Cultural Board Secretary and Chairperson.
+3. No defamatory or harmful content shall be published.
+4. Institutional integrity and reputation shall be preserved at all times.
+
+#### Article X – Event Expenditure Compliance
+
+All event expenditures shall comply with Cultural Board financial regulations and Institute expenditure procedures.
+
+Expenditure shall:
+
+1. Be within approved budgets.
+2. Be properly documented.
+3. Comply with financial accountability standards.
+
+Improper financial conduct shall be subject to review and disciplinary procedures.
+
+### SECTION II – EVENT ORGANIZATION
+
+#### Article XI – QALA (Performing Arts Festival)
+
+##### Purpose
+
+QALA shall serve as the official annual performing arts showcase of IIT Guwahati.
+
+The event shall:
+
+1. Provide Cultural Clubs a platform to present performances developed throughout the academic year.
+2. Promote artistic collaboration and institutional cultural excellence.
+3. Celebrate the artistic contributions of Cultural Board members.
+
+##### Event Structure
+
+QALA shall be conducted as a Cultural Board-supervised performing arts event and may include:
+
+1. Cultural performances by official Cultural Clubs.
+2. Showcase of original artistic productions.
+3. Performances by graduating members.
+4. Guest performances, where applicable.
+
+Event structure shall be determined by the Cultural Board Council.
+
+#### Article XII – Manthan (Inter-Hostel Cultural Competition)
+
+##### Governance and Authority
+
+Manthan shall be governed by the Cultural Board Council.
+
+The Events Head shall serve as Convener of Manthan.
+
+The Convener shall:
+
+1. Oversee planning and execution.
+2. Ensure fairness, transparency, and compliance.
+3. Coordinate with Hostel Cultural Secretaries.
+
+##### Organizing Committee
+
+The Organizing Committee shall consist of:
+
+1. Events Head (Convener)
+2. Cultural Club Secretaries serving as Module Conveners
+3. Cultural Board members and appointed student organizers
+4. Judges and adjudicators
+
+Committee members shall maintain impartiality and comply with the Constitution.
+
+##### Module Structure
+
+Manthan shall consist of modules including:
+
+1. Dance Module
+2. Music Module
+3. Content Creation Module
+4. Photography Module
+5. Literary Module
+6. Dramatics Module
+7. Film Module
+8. Fine Arts Module
+9. Debating Module
+10. Culinary Module
+
+Each module shall:
+
+1. Have designated Module Conveners.
+2. Follow standardized judging procedures.
+3. Contribute to overall hostel scores.
+
+##### Adjudication and Scoring
+
+Judging shall:
+
+1. Be conducted by qualified adjudicators.
+2. Follow predefined evaluation criteria.
+3. Use standardized scorecards.
+
+Penalty procedures and appeal procedures shall be defined in the Manthan Rulebook.
+
+##### Institutional Integrity and Fairness
+
+Organizing Committee members shall not:
+
+1. Provide unfair advantage to any hostel.
+2. Participate in events they organize.
+3. Violate impartiality requirements.
+
+Violations may result in removal and disciplinary review.
+
+##### Closure and Reporting
+
+Upon completion of Manthan:
+
+1. Results shall be officially published.
+2. Scorecards shall be documented.
+3. Feedback shall be collected.
+
+Records shall be maintained by the Cultural Board.
+
+#### Article XIII – Clubs Showcase
+
+The Clubs Showcase shall be conducted as an official Cultural Board event.
+
+The event shall:
+
+1. Provide Cultural Clubs a platform to present their artistic work.
+2. Promote collaboration among Cultural Clubs.
+3. Showcase the diversity of cultural talent at IIT Guwahati.
+
+The Cultural Board Council shall determine event structure, schedule, and execution.
+
+##### Mandatory Participation Requirement
+
+Participation in the Clubs Showcase shall be mandatory for all officially recognized Cultural Clubs under the Cultural Board.
+
+Failure of a Cultural Club to participate, without prior written approval or valid justification accepted by the Cultural Board Council, shall constitute a breach of institutional responsibility.
+
+Such failure may be subject to formal review by the Cultural Board Council, and appropriate administrative action may be taken in accordance with this Constitution and Institute regulations.

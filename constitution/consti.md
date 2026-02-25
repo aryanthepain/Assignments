@@ -2879,358 +2879,322 @@ Such failure may be subject to formal review by the Cultural Board Council, and 
 
 ## SECTION I – ALCHERINGA
 
-### Article 1 – Purpose and Institutional Status
+### Article I – Purpose
 
-Alcheringa is the annual cultural festival of IIT Guwahati and serves as the Institute’s flagship cultural extravaganza. It represents a celebration of youth, creativity, artistic excellence, and cultural diversity, and stands as the largest cultural festival in Northeast India.
+Alcheringa is the annual cultural extravaganza of IIT Guwahati, a vibrant celebration of youth, creativity, and diversity. As North East India's largest cultural festival, Alcheringa offers a unique platform for students to showcase their talents and explore a world of artistic expression.
 
-Alcheringa provides a national and international platform for students to showcase their artistic talents, participate in competitions, engage with renowned artists, and contribute to a vibrant cultural ecosystem. The festival fosters creativity, collaboration, leadership development, and institutional pride.
+The festival features three days and four nights of electrifying performances, thrilling competitions, and unforgettable moments. Alcheringa invites participants and attendees to unlock a world of artistic expression and cultural exploration.
 
-The festival is typically conducted annually during the month of January and spans multiple days of performances, competitions, exhibitions, workshops, and outreach initiatives.
+Alcheringa is generally held in the end month of January each year.
 
-Alcheringa shall function under the authority of the Cultural Board, IIT Guwahati, and shall operate in accordance with this Constitution and Institute regulations.
+### Article II – Composition of the Organising Committee and their Responsibilities
 
-### Article 2 – Authority and Governance
+The Organising Committee of Alcheringa shall comprise the following Positions of Responsibility (PORs), each with clearly defined duties and reporting hierarchy.
 
-Alcheringa shall function under the authority, supervision, and administrative control of:
+#### Convener
 
-1. The Chairperson, Cultural Board, IIT Guwahati
-2. The Cultural Board Secretary, IIT Guwahati
+- Overall responsibility for managing the entire festival.
+- Leadership, strategic decision-making, and final sign-off on budgets and major actions.
+- Administrative liaison between organising teams and Institute administration.
+- Coordinates across teams and resolves inter-team escalations.
 
-The Cultural Board Council shall not exercise direct executive, administrative, or financial authority over Alcheringa, unless explicitly delegated by the Chairperson or Cultural Board Secretary.
+#### Finance Head
 
-The Organising Committee of Alcheringa shall be accountable to the Cultural Board Secretary and Chairperson and shall operate in accordance with this Constitution and Institute regulations.
+- Handles all finance-related tasks, including budget preparation, cashflow planning, payments, and reimbursements.
+- Manages vendors, invoice approvals, and financial record maintenance.
+- Works closely with Public Relations and participant management teams on reimbursements and with the Convener on budget decisions.
 
-All major decisions, including financial approvals, appointments to senior Positions of Responsibility, external partnerships, and institutional commitments, shall require approval from the Cultural Board Secretary and, where applicable, the Chairperson.
+#### Corporate Relations & Marketing (CRM) Heads
 
-## The Organising Committee shall be responsible for the planning, execution, coordination, and operational management of the festival, subject to oversight by the Chairperson and Cultural Board Secretary.
+The CRM vertical may include multiple Heads with specialised responsibilities, including but not limited to:
 
-### Article 3 – Composition of the Organising Committee
+- **CRM Head – PSU Relations**
+- **CRM Head – Pronites Sponsorships**
+- **CRM Head – Operations & Executive Coordination**
 
-The Organising Committee of Alcheringa shall consist of the following office bearers:
+Responsibilities include:
 
-1. Convener
-2. Finance Head
-3. Corporate Relations and Marketing (CRM) Heads
-4. Public Relations Head
-5. Media and Outreach Head
-6. Events Head
-7. Pronites Head
-8. Campaigns Head
-9. Director-General (MUN)
-10. Secretary-General (MUN)
-11. Creatives Head
-12. Digital Media Head
-13. Web Design Head
-14. Web Operations Head
-15. App Development / App Operations Head
-16. Executives
-17. Associates
+- Bringing in sponsorships from corporates, Public Sector Undertakings (PSUs), ministries, and banks.
+- Negotiating and closing sponsor deals, and ensuring recovery and fulfilment of sponsor commitments.
+- Mentoring the Executive Team (primarily second-year student members) who support sponsor outreach.
+- Coordinating sponsor handover between current and future organising teams.
+- The CRM Head (Operations & Executive Coordination) shall additionally oversee executive logistics and inter-team coordination.
 
-Additional Positions of Responsibility may be created, modified, merged, or removed as required, subject to approval by the Cultural Board.
+#### Public Relations (PR) Head
 
-### Article 4 – Convener
+- Contacts schools, colleges, and institutions to ensure broad participation.
+- Manages participant communication and campus ambassador networks.
+- Coordinates participant reimbursements and liaises with the Finance Head.
 
-The Convener shall serve as the chief executive authority of Alcheringa and shall be responsible for:
+#### Media & Outreach (M&O) Head
 
-1. Providing overall leadership, direction, and governance of the festival.
-2. Making strategic decisions and approving major operational and financial actions.
-3. Coordinating between organizing teams, Cultural Board authorities, and Institute administration.
-4. Ensuring compliance with Institute policies, financial regulations, and this Constitution.
-5. Resolving disputes, conflicts, or escalations arising within organizing teams.
+- Contacts media houses, manages press relations, and oversees publicity outreach.
+- Organises city-level elimination rounds and external publicity events.
 
-The Convener shall be accountable to the Cultural Board General Secretary and Chairperson.
+#### Events Head
 
-### Article 5 – Finance Head
+- Plans and executes competitions, events, and pro-shows.
+- Manages judges, including selection, itineraries, travel arrangements, and bookings.
+- Oversees event logistics and on-site event management.
 
-The Finance Head shall be responsible for the financial management of Alcheringa and shall:
+#### Pronites Head
 
-1. Prepare and maintain the festival budget.
-2. Monitor cash flow, expenditures, reimbursements, and financial planning.
-3. Maintain financial records, invoices, and documentation.
-4. Coordinate with vendors, sponsors, and Institute authorities for financial transactions.
-5. Ensure financial transparency, accountability, and compliance with Institute regulations.
+- Sources and negotiates with artist management agencies for pro-shows.
+- Finalises artist contracts, riders, and logistical arrangements for headline performances.
 
-All financial decisions shall remain subject to approval by the Convener and Cultural Board authorities where required.
+#### Campaigns Head
 
-### Article 6 – Corporate Relations and Marketing (CRM) Heads
+- Plans, promotes, and executes social initiatives and outreach campaigns under the festival brand.
+- Coordinates with Public Relations, Creatives, and Digital Media teams for campaign rollout.
 
-The Corporate Relations and Marketing (CRM) Heads shall be responsible for sponsor outreach, partner relations, and revenue generation for Alcheringa. Their duties shall include:
+#### Director-General (Model United Nations – MUN)
 
-1. Securing sponsorships and partnerships from corporates, public sector undertakings, government bodies, and other organizations.
-2. Negotiating sponsorship agreements and ensuring fulfilment of contractual obligations.
-3. Maintaining proper documentation of sponsor agreements, communications, and financial commitments.
-4. Coordinating sponsor onboarding, branding integration, and fulfilment of sponsorship deliverables.
-5. Ensuring continuity of sponsor relationships across successive tenures.
-6. Coordinating with the Finance Head and Convener to ensure proper financial accounting and compliance.
+- Leads the organisation and execution of the Model United Nations (MUN) vertical.
+- Sets agenda decisions and oversees committee structures.
 
-### Article 7 – Public Relations Head
+#### Secretary-General (Model United Nations – MUN)
 
-The Public Relations Head shall be responsible for managing participant outreach and institutional relations. Duties shall include:
+- Convenes all MUN committees and ensures smooth operation.
+- Coordinates delegates, chairs, and MUN logistics.
 
-1. Contacting schools, colleges, and institutions to encourage participation.
-2. Managing participant registration, communication, and engagement.
-3. Coordinating campus ambassador programs and outreach campaigns.
-4. Assisting in participant logistics, reimbursements, and coordination.
-5. Ensuring professional communication and maintaining institutional reputation.
+#### Creatives Head
 
-### Article 8 – Media and Outreach Head
+- Creates and manages all visual and written content released by Alcheringa.
+- Responsible for stage décor, installations, and overall ambience design.
+- Works closely with Digital Media and Events teams to ensure consistent festival branding.
 
-The Media and Outreach Head shall be responsible for external publicity and press coordination. Responsibilities shall include:
+#### Digital Media Head
 
-1. Managing relationships with media houses and press agencies.
-2. Issuing press releases and coordinating media coverage.
-3. Organizing publicity campaigns and external promotional events.
-4. Coordinating with Digital Media and Creatives teams for unified messaging.
-5. Ensuring accurate dissemination of official information.
+- Manages Alcheringa’s social media presence across platforms such as Facebook, X (formerly Twitter), Instagram, and other relevant channels.
+- Executes content schedules and engages with online communities.
+- Coordinates with the Creatives team for cohesive content creation.
 
-### Article 9 – Events Head
+#### Web-Design Head
 
-The Events Head shall oversee planning and execution of competitions, workshops, and performances. Responsibilities shall include:
+- Designs the front-end interface for the festival website and mobile application.
+- Delivers UI assets and collaborates with Web Operations and App Operations teams for implementation.
 
-1. Preparing event schedules, formats, and operational plans.
-2. Coordinating venue booking, logistics, and technical arrangements.
-3. Managing judges, adjudication procedures, and event compliance.
-4. Supervising event execution and ensuring smooth operations.
-5. Maintaining event documentation and operational records.
+#### Web Operations (Web-Ops) Head
 
-### Article 10 – Pronites Head
+- Maintains and operates the festival website, including backend infrastructure, updates, and uptime maintenance.
+- Implements new features and supports web analytics.
 
-The Pronites Head shall be responsible for headline performances and pro-show execution. Duties shall include:
+#### App Development / App Operations (App-Ops) Head
 
-1. Identifying and coordinating with artists and artist management agencies.
-2. Negotiating artist agreements and contractual obligations.
-3. Managing artist logistics, hospitality, and technical requirements.
-4. Coordinating production requirements including stage, sound, and lighting.
-5. Ensuring smooth execution of headline events.
+- Maintains and manages the festival mobile application, including functionality, releases, and bug fixes.
+- Coordinates with Web-Design for user interface implementation and Web Operations for backend integration.
 
-### Article 11 – Campaigns Head
+#### Executives
 
-The Campaigns Head shall be responsible for social initiatives and outreach campaigns. Responsibilities shall include:
+- Executives work directly under the respective Heads of each module.
+- They assist in planning, execution, and day-to-day management of module activities.
+- Executives act as the primary operational link between the Heads and Associates, ensuring timely execution of tasks.
+- They coordinate with Executives from other modules to maintain inter-departmental communication and smooth workflow.
 
-1. Planning and executing social awareness initiatives under the festival banner.
-2. Coordinating with PR, Creatives, and Media teams.
-3. Managing campaign timelines, outreach, and impact assessment.
-4. Ensuring alignment with institutional values and objectives.
+#### Associates
 
-### Article 12 – Director-General (Model United Nations)
+- Associates work under Executives and handle on-ground or task-level responsibilities.
+- Their roles include communication, documentation, design assistance, logistics support, and operational execution.
+- They ensure that tasks are completed as per the directions of Executives and Heads.
+- Associates are responsible for initial research, groundwork, and supporting festival operations during execution days.
 
-The Director-General shall oversee the Model United Nations vertical and shall be responsible for:
+### Article III – Recruitment Procedure of Team Alcheringa (Heads → Executives → Associates)
 
-1. Defining committee structures and agendas.
-2. Supervising academic and procedural integrity.
-3. Coordinating overall execution of MUN activities.
+#### Announcement & Release of Forms (Heads / PORs)
 
-### Article 13 – Secretary-General (Model United Nations)
+- Issue an official call-for-nominations on all channels, including email to students, social media, notice boards, and campus groups.
+- The announcement shall include:
+  - Role descriptions
+  - Eligibility criteria
+  - Timeline
+  - Submission checklist
+  - Contact person
 
-The Secretary-General shall assist the Director-General and shall be responsible for:
+- Application fields required from candidates shall include:
+  - Personal details and contact information
+  - Proposed agenda / vision for the module, including concise plan and deliverables
+  - Past fest experience, including roles, years, and measurable outcomes
 
-1. Managing administrative and logistical aspects of MUN.
-2. Coordinating delegates, chairs, and committee operations.
-3. Ensuring proper documentation and execution.
+#### Shortlisting for Panel Interviews
 
-### Article 14 – Creatives Head
+- Candidates shall be shortlisted based on:
+  - Agenda quality
+  - Relevant experience
+  - Clarity of skills
 
-The Creatives Head shall be responsible for the visual identity and creative direction of Alcheringa. Duties shall include:
+- Shortlisted candidates shall be notified with interview time-slot options and required documents.
 
-1. Designing promotional materials, installations, and visual assets.
-2. Managing stage aesthetics and festival branding.
-3. Coordinating with Digital Media and Web teams.
-4. Maintaining institutional design archives.
+- Panel composition shall include:
+  - Last year’s Heads relevant to the role
+  - Mentors assigned to the festival or alumni mentors
 
-### Article 15 – Digital Media Head
+#### Finalisation of Heads
 
-The Digital Media Head shall manage official digital platforms. Responsibilities shall include:
+- The Cultural Board General Secretary and Vice President shall review panel recommendations and evaluations.
+- They shall hold final decision authority to:
+  - Confirm candidates
+  - Reject candidates
+  - Request re-interviews for top candidates
 
-1. Managing social media accounts and content publication.
-2. Coordinating digital marketing and engagement strategies.
-3. Maintaining digital content archives and analytics.
+- Decisions shall be recorded and sign-offs shall be documented through official communication.
 
-### Article 16 – Web Design Head
+- Selected Heads shall be notified officially with an offer letter or appointment mail, including an acceptance deadline.
 
-The Web Design Head shall be responsible for design and user experience of digital platforms. Duties shall include:
+#### Heads Onboarding & Handover
 
-1. Designing user interfaces for website and mobile applications.
-2. Ensuring accessibility, usability, and branding consistency.
+- Heads shall submit a detailed 30/60/90-day plan after acceptance.
+- A handover meeting shall be conducted with last-year Heads and Mentors for knowledge transfer.
+- Heads shall receive access to shared drives, provisional budgets, and official communication channels.
 
-### Article 17 – Web Operations Head
+#### Recruitment of Executives
 
-The Web Operations Head shall be responsible for technical management of digital platforms. Responsibilities shall include:
+- Executive recruitment forms shall be released after Head nominations are finalised.
+- The application form shall capture:
+  - Personal details
+  - Relevant skills
+  - Prior experience
+  - Role preferences
+  - Short statement of intent
 
-1. Maintaining website functionality and uptime.
-2. Managing backend systems and technical integrations.
-3. Providing technical support and troubleshooting.
+- Heads shall prepare role-specific executive requirements, including:
+  - Number of executives required
+  - Skill sets required
+  - Key responsibilities
 
-### Article 18 – App Development and App Operations Head
+- Screening and shortlisting shall be performed by respective Heads.
 
-The App Operations Head shall manage the festival mobile application. Responsibilities shall include:
+- Executive interviews may include:
+  - The respective Head
+  - Last-year Executive (optional)
 
-1. Maintaining application functionality and updates.
-2. Coordinating development and technical improvements.
-3. Ensuring operational readiness of mobile platforms.
+- Selection criteria shall include:
+  - Role fit
+  - Domain skills
+  - Availability
+  - Teamwork potential
 
-### Article 19 – Executives
+- Selected Executives shall receive role descriptions, reporting hierarchy, and assigned tasks.
 
-Executives shall assist Heads in operational execution and shall be responsible for:
+#### Recruitment of Associates
 
-1. Supporting planning and execution of events and initiatives.
-2. Supervising Associates.
-3. Managing operational tasks and responsibilities.
+- Associate recruitment shall be conducted after Executive selection or concurrently if required.
 
-### Article 20 – Associates
+- Recruitment process may include:
+  - Open call for applications
+  - General interview or group assessment conducted by the respective Head or Executives
 
-Associates shall assist Executives and Heads and shall be responsible for:
+- Assessment shall evaluate:
+  - Responsiveness
+  - Basic skills
+  - Attitude
 
-1. Supporting event execution and operations.
-2. Performing assigned operational and logistical tasks.
-3. Assisting in planning, preparation, and execution activities.
+- Selected candidates shall be offered Associate positions.
 
-### Article 21 – Positions of Responsibility (PORs) — General Provision
+- Associates shall be informed of:
+  - Role expectations
+  - Reporting hierarchy (Associate → Executive → Head)
+  - Task allocation
 
-The Positions of Responsibility listed above are indicative. Based on organizational needs, roles may be added, modified, merged, or removed subject to approval by the Cultural Board Secretary and Chairperson.
+### Article IV – Major Events of Alcheringa
 
-All senior appointments shall require formal approval from the Cultural Board Secretary and Chairperson.
+The major events of Alcheringa shall include the following:
 
-### Article 22 – Ownership and Handover of Digital Assets
+#### Pronites — Four Electrifying Nights
 
-All digital assets created, maintained, or used for Alcheringa shall be the institutional property of IIT Guwahati.
+- Headline Night — major artists, full production
+- EDM Night — DJs, lights, and dancefloor
+- Closing Gala — collaborative finale
 
-Digital assets shall include, but shall not be limited to:
+#### Proshows — World-Class Spectacles
 
-1. Official email accounts and mailing lists
-2. Cloud storage drives and shared folders
-3. Social media accounts and credentials
-4. Websites, domains, and mobile applications
-5. Raw media, photographs, videos, design files, and audiovisual content
-6. Databases, records, and operational documents
+- International acts and stunts
+- Dance, theatre, and circus performances
+- Visual and projection experiences
 
-No office bearer shall claim personal ownership over any official digital asset.
+#### Creators Camp — Hands-On Learning
 
-Upon completion of tenure, resignation, or removal, all office bearers shall:
+- Masterclasses in film, music, and photography
+- Maker Lab and technology demonstrations
+- Showcase and mentorship programmes
 
-1. Transfer full administrative access and credentials to their successors or Cultural Board authorities.
-2. Provide complete documentation and access required for institutional continuity.
-3. Not retain or misuse institutional data.
+#### Critical Damage — Gaming & Esports
 
-Failure to comply shall constitute a violation of this Constitution and may result in disciplinary action and disqualification from future Positions of Responsibility.
+- Competitive tournaments and finals
+- LAN and VR zones and showmatches
+- Development jams, streaming workshops, and cosplay activities
 
-The Cultural Board Secretary and Chairperson shall retain ultimate authority over all official Alcheringa digital assets.
+#### Flickeringa — The Vibrant Fair
 
-### Article 23 – Recruitment Procedure
+- Food bazaar and artisan market
+- Rides, busking, and street performances
+- Family zone and quick workshops
 
-The recruitment process for Positions of Responsibility within the Alcheringa Organising Committee shall be conducted through a structured, transparent, and merit-based process under the supervision of the Cultural Board Secretary and Chairperson.
+### Article V – Major Competitions of Alcheringa
 
-The recruitment process shall include the following stages:
+The major competitions of Alcheringa shall include the following:
 
-1. Announcement of Positions  
-   Official announcements shall be made through Institute communication channels specifying roles, responsibilities, eligibility criteria, and timelines.
+#### Dance Competitions
 
-2. Submission of Applications  
-   Applicants shall submit required documentation, including personal details, prior experience, and agenda or vision for the role.
+- Electric Heels — Freestyle Dance Competition
+- Step Up — Street Dance Competition
+- Navras — Classical Dance Competition
+- So You Think You Can Dance — Non-Classical Dance Competition
+- Dancing Duo — Duet Dance Competition
 
-3. Shortlisting of Candidates  
-   Candidates shall be shortlisted based on merit, experience, leadership potential, and suitability for the role.
+#### Fashion & Design Competitions
 
-4. Interview and Evaluation  
-   Shortlisted candidates shall undergo interviews conducted by designated selection panels, including outgoing office bearers, mentors, and Cultural Board authorities where applicable.
+- Haute Couture — Fashion Designing Competition
+- States of Dress — Paper Dress Designing Competition
+- Glamour Nova — Online Fashion Design / Photoshoot Competition
 
-5. Final Approval  
-   Final appointments shall be made subject to approval by the Cultural Board Secretary and Chairperson.
+#### Music Competitions
 
-6. Handover and Onboarding  
-   Newly appointed office bearers shall undergo formal handover procedures and orientation.
+- Rap Battle — Rap Competition
+- BeatBash — Beat Boxing Competition
+- Rock-o-phonix — Rock Band Competition
+- Voice of Alcheringa — Singing Competition
+- Crossfade — DJ Competition
 
-### Article 24 – Recruitment of Executives
+#### Personality & Cosplay Competitions
 
-Executives shall be recruited after the appointment of Heads and senior office bearers.
+- Mr & Ms Alcheringa — Personality Contest
+- Alcher Con — Cosplay Competition
 
-The recruitment process shall include:
+### Article VI – Alcheringa Kartavya
 
-1. Release of application forms specifying required skill sets.
-2. Evaluation and interviews conducted by respective Heads.
-3. Selection based on merit, skill, commitment, and organizational requirements.
-4. Formal onboarding and assignment of responsibilities.
+Kartavya is the social responsibility module of Alcheringa, IIT Guwahati, dedicated to driving meaningful change beyond the celebrations. Through awareness campaigns, drives, and impactful initiatives, Kartavya embodies the spirit of giving back to society. Each year, it focuses on a cause that matters, inspiring individuals to take responsibility and contribute to a better world.
 
-### Article 25 – Recruitment of Associates
+#### Udaan — Empowering Underprivileged Students to Dream Big and Soar High
 
-Associates shall be recruited through open calls and shall serve as operational members of the Organising Committee.
+- Udaan, launched as "Bachpan" in 2011, aims at empowering underprivileged students through the joy of learning.
+- Through initiatives such as career counseling, workshops, and creative activities, Udaan inspires young minds to dream big and achieve their true potential.
 
-Selection shall be based on:
+#### SafHer
 
-1. Application evaluation
-2. Interviews or group assessments where required
-3. Operational requirements and candidate suitability
+- SafHer acknowledges the reality of violence against women and the lack of women's safety in India.
+- Through workshops and programmes, SafHer highlights the importance of raising one's voice against misconduct and enabling justice for perpetrators.
 
-Associates shall function under the supervision of Executives and Heads.
+#### Sanrakshan
 
-### Article 26 – Major Festival Events
+- Sanrakshan is a dual-purpose campaign addressing AIDS awareness and substance abuse.
+- It fosters a socially responsible community aware of safe practices while working to eliminate stigma surrounding these issues.
 
-Alcheringa shall consist of multiple flagship events and festival verticals designed to promote artistic expression and cultural excellence.
+#### Prithvi
 
-Major festival verticals shall include, but shall not be limited to:
+- Prithvi aims at taking active steps to address climate change and promote environmental protection.
+- It promotes environmental awareness and action at the grassroots level through various programmes and initiatives.
 
-1. Pronites  
-   Headline performances featuring professional artists and large-scale stage productions.
+#### Northeast Unveiled
 
-2. Proshows  
-   Professional performances and cultural showcases across multiple disciplines.
+- Northeast Unveiled is held annually to celebrate North East India's cultural diversity.
+- It showcases performances, regional art, and handicrafts while also addressing social issues and exploring solutions.
 
-3. Creators Camp  
-   Workshops, masterclasses, and skill development sessions.
+#### Manshakti
 
-4. Critical Damage  
-   Gaming, esports, and technology-based competitions and showcases.
+- Manshakti is Alcheringa's mental health awareness campaign.
+- It addresses mental health issues faced by individuals while reducing stigma and promoting a culture of care and understanding.
 
-5. Flickeringa  
-   Festival fair including food stalls, exhibitions, and experiential installations.
+#### Aikyam
 
-Additional festival verticals may be introduced subject to approval by the Cultural Board Secretary and Chairperson.
-
-### Article 27 – Competitions
-
-Alcheringa shall conduct competitions across various artistic and cultural disciplines including, but not limited to:
-
-1. Dance Competitions
-2. Music Competitions
-3. Fashion and Design Competitions
-4. Literary Competitions
-5. Film Competitions
-6. Personality and Cosplay Competitions
-7. Digital and Creative Competitions
-
-The Organising Committee shall define specific formats, rules, eligibility criteria, and judging procedures for each competition.
-
-### Article 28 – Kartavya: Social Responsibility Initiative
-
-Kartavya shall serve as the social responsibility and outreach initiative of Alcheringa.
-
-Kartavya shall conduct campaigns and initiatives focused on:
-
-1. Education and mentorship
-2. Social awareness
-3. Environmental sustainability
-4. Public health awareness
-5. Cultural preservation
-6. Community outreach
-
-Kartavya initiatives shall be conducted in coordination with the Organising Committee and Cultural Board authorities.
-
-### Article 29 – Financial and Administrative Compliance
-
-All financial and administrative activities of Alcheringa shall comply with Institute regulations and Cultural Board policies.
-
-The Organising Committee shall ensure:
-
-1. Proper financial accounting and documentation
-2. Transparency in financial transactions
-3. Compliance with Institute procurement and financial procedures
-4. Proper record maintenance
-
-All major financial decisions shall require approval from the Convener and Cultural Board authorities where required.
-
-### Article 30 – Institutional Authority and Oversight
-
-Alcheringa shall operate under the authority of the Cultural Board Secretary and Chairperson.
-
-The Organising Committee shall remain accountable to these authorities and shall comply with all applicable institutional policies, regulations, and constitutional provisions.
-
-Any major policy, financial, or organizational decision shall remain subject to approval by the Cultural Board Secretary and Chairperson.
+- Aikyam aims to sensitise people about communal violence and hatred in India.
+- It promotes the idea of unity in diversity through performances, panel discussions, and fundraisers.

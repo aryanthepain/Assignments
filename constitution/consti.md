@@ -1,6 +1,32 @@
-# CULTURAL BOARD CONSTITUTION
+# Cultural Board Constitution
 
-## Indian Institute of Technology Guwahati
+<br><br>
+
+## INDIAN INSTITUTE OF TECHNOLOGY, GUWAHATI
+
+<br><br>
+
+### Original Constitution Committee
+
+| | | |
+| | | - |
+| **DR RAVI K** | | |
+| Chairperson, Cultural Board | | |
+| **AYUSH SAHU** | **ARYAN GUPTA** | **PRANAV BULBULE** |
+| General Secretary | Events Head | Overall Coordinator |
+
+### Contributions by
+
+Diksha Poonia, Piyush Sen, Adyasa Mohapatra, Arpit Ranjan, Aman Kumar, Daivik Gupta,
+Ayush Wani, Shrawon Dey, Rudraksh B Nair, Divyansh Raj, Arshad, Raman Mishra,
+Vaibhav Sonowal, Anushka Nigul, Vasundhara Kornala, Arpana Tripty,
+Sourajit Chowdhary, Advaith Giridhar, Atul, Aryan Singh.
+
+<br>
+
+### Passed by
+
+**Cultural Board Council (2025–2026)**
 
 # PREAMBLE
 
@@ -3406,15 +3432,15 @@ Such documentation shall be maintained for reference, transparency, and institut
 
 ## SECTION II – MONTHLY MEET
 
-### Article VI – Purpose of Monthly Meet
+### Article I – Purpose of Monthly Meet
 
 The Cultural Board shall organize and conduct Monthly Meetings, herein referred to as "Monthly Cultural Board Meetings," with the primary purpose of providing a platform for Cultural Clubs to showcase their excellence, discuss ongoing projects, share achievements, and foster collaboration within the Cultural Board community.
 
-### Article VII – Frequency of Monthly Meet
+### Article II – Frequency of Monthly Meet
 
 Monthly Cultural Board Meetings shall be held every two months, providing a regular forum for clubs to present updates, discuss progress, and engage in constructive dialogue.
 
-### Article VIII – Agenda of Monthly Meet
+### Article III – Agenda of Monthly Meet
 
 The agenda for each Monthly Cultural Board Meeting shall include, but not be limited to, the following:
 
@@ -3424,22 +3450,22 @@ The agenda for each Monthly Cultural Board Meeting shall include, but not be lim
 - Recognition and appreciation of excellence within the Cultural Board community
 - Discussion of upcoming projects, competitions, or workshops
 
-### Article IX – Selection of Best Club and Best Secretary
+### Article IV – Selection of Best Club and Best Secretary
 
 Monthly Cultural Board Meetings shall serve as a platform for the selection of the Best Club and Best Secretary, recognizing outstanding contributions and accomplishments over the specified two-month period.
 
-### Article X – Attendance in Monthly Meet
+### Article V – Attendance in Monthly Meet
 
 The following individuals shall be in attendance at each Monthly Cultural Board Meeting:
 
 - Secretaries of each Cultural Club
 - Council Members of the Cultural Board
 
-### Article XI – Delegation in Unforeseen Circumstances
+### Article VI – Delegation in Unforeseen Circumstances
 
 If a Club Secretary is unable to attend a Monthly Cultural Board Meeting due to unforeseen circumstances, the respective Club Secretary shall ensure representation from their Club Core Team during the meeting.
 
-### Article XII – Documentation of Monthly Meet
+### Article VII – Documentation of Monthly Meet
 
 The documentation of discussions, decisions, and outcomes during Monthly Cultural Board Meetings shall be the responsibility of the individual designated by the General Secretary (GS) of the Cultural Board.
 
@@ -3734,3 +3760,134 @@ Such editorial changes may be approved by a simple majority vote of the Cultural
 A record of all amendments to the Cultural Board Constitution shall be maintained by the Chairperson of the Cultural Board Council.
 
 This record shall be preserved as an appendix to the Constitution for reference and institutional continuity.
+
+# CHAPTER X – ROZ-ROZ: THE CULTURAL BOARD MAGAZINE
+
+## SECTION I – PURPOSE AND OBJECTIVE
+
+### Article I – Purpose
+
+Roz-Roz shall be the official annual cultural magazine of the Cultural Board, IIT Guwahati.
+
+The purpose of Roz-Roz shall be to document and preserve the cultural activities of the Institute, including festivals, club events, performances, and major cultural milestones organized under the Cultural Board. The magazine shall serve as an archival and creative platform reflecting the artistic, literary, and cultural contributions of the student community during the academic year.
+
+Roz-Roz shall also promote creative expression among students and provide an institutional record of the Cultural Board’s activities.
+
+## SECTION II – ORGANISATIONAL STRUCTURE
+
+### Article I – Editorial Leadership
+
+The Roz-Roz Editorial Team shall be led by the following Positions of Responsibility:
+
+- Editor-in-Chief
+- Design Head
+- Content Head
+
+These office bearers shall be responsible for the overall planning, coordination, and execution of the magazine.
+
+### Article II – Editor-in-Chief
+
+The Editor-in-Chief shall serve as the head of the Roz-Roz Editorial Team and shall:
+
+- Oversee the overall vision, theme, and direction of the magazine.
+- Coordinate and supervise the Content Team and Design Team.
+- Ensure alignment between editorial content and visual presentation.
+- Ensure that the magazine maintains quality, coherence, and relevance.
+- Facilitate communication between team members and the Cultural Board.
+
+### Article III – Design Head
+
+The Design Head shall be responsible for the visual and graphical aspects of the magazine and shall:
+
+- Lead the Design Team.
+- Develop the visual identity and layout of the magazine.
+- Ensure consistency in typography, layout, and graphical presentation.
+- Coordinate with the Content Team to align design with editorial themes.
+- Ensure readiness of final print-ready and publication-ready files.
+
+### Article IV – Content Head
+
+The Content Head shall be responsible for the editorial and written content of the magazine and shall:
+
+- Lead the Content Team.
+- Oversee the collection, editing, and curation of written material.
+- Ensure quality, consistency, and relevance of published content.
+- Maintain alignment with the annual theme of the magazine.
+- Coordinate with the Design Team to integrate content with visual presentation.
+
+## SECTION III – SUPPORTING TEAMS
+
+### Article I – Content Team
+
+The Content Team shall assist the Content Head in the development of written material for the magazine.
+
+Responsibilities shall include:
+
+- Writing articles, reports, and creative pieces.
+- Editing and proofreading submissions.
+- Collecting and curating content related to Cultural Board activities.
+- Ensuring adherence to editorial standards and timelines.
+
+The Content Team shall work under the supervision of the Content Head.
+
+### Article II – Design Team
+
+The Design Team shall assist the Design Head in developing the visual and graphical elements of the magazine.
+
+Responsibilities shall include:
+
+- Designing page layouts and graphical elements.
+- Assisting in visual storytelling and presentation.
+- Ensuring visual consistency throughout the magazine.
+- Preparing publication-ready files.
+
+The Design Team shall work under the supervision of the Design Head.
+
+## SECTION IV – RECRUITMENT AND ELIGIBILITY
+
+### Article I – Recruitment of Heads
+
+Candidates applying for Head positions shall undergo a structured selection process, which shall include:
+
+- Submission of an agenda or vision document.
+- Interview conducted by the incumbent Editorial Leadership or designated selection panel.
+
+Eligibility requirements for Head positions shall include:
+
+- No active academic backlogs at the time of appointment.
+- A minimum CPI of 7.0.
+- The candidate shall not hold any other Position of Responsibility simultaneously.
+
+Additionally:
+
+- The Editor-in-Chief and Design Head shall preferably have prior experience as members of the Roz-Roz Editorial Team.
+
+### Article II – Recruitment of Team Members
+
+Team members shall be recruited through an open application process.
+
+For the Content Team:
+
+- Applicants shall submit an application form.
+- Applicants may be required to complete writing tasks as part of the evaluation.
+
+For the Design Team:
+
+- Applicants shall submit an application form.
+- Applicants shall submit design tasks or portfolio samples for evaluation.
+
+Selections shall be based on demonstrated skills, commitment, and suitability for the respective roles.
+
+## SECTION V – RESPONSIBILITIES AND PUBLICATION
+
+### Article I – Publication
+
+Roz-Roz shall be published annually under the supervision of the Cultural Board.
+
+The Editorial Team shall ensure timely completion, design, and release of the magazine.
+
+### Article II – Oversight
+
+Roz-Roz shall function under the authority and oversight of the Cultural Board.
+
+The Cultural Board Council may provide guidance and ensure continuity of the magazine across successive academic years.

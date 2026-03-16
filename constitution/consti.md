@@ -4002,20 +4002,42 @@ The amendment log shall include:
 
 This record shall be maintained by the Cultural Board and preserved as an official appendix.
 
-## SECTION III – POSITIONS OF RESPONSIBILITY STRUCTURE
+## SECTION III – POSITIONS OF RESPONSIBILITY RECORD
 
-### Article I – Organizational Structure Record
+### Article I – Annual Record of Position Holders
 
-The Cultural Board shall maintain an official record of Positions of Responsibility (PoRs), including:
+The Cultural Board shall maintain an official record of all Positions of Responsibility (PoRs) for each academic year.
+
+This record shall include, for each position:
+
+- Name of the office bearer
+- Position held
+- Academic year of tenure
+- Official Institute email address
+- Contact number (if permitted under Institute policy)
+
+The record shall include, but not be limited to, the following positions:
 
 - General Secretary
 - Overall Coordinators
 - Club Secretaries
-- Fest Office Bearers
-- Editorial Positions
-- Executives and Associates
+- Fest Conveners and Heads
+- Roz-Roz Editorial Leadership
+- Other officially recognized Positions of Responsibility under the Cultural Board
 
-This record shall define reporting hierarchy and continuity between successive tenures.
+### Article II – Annual Update Requirement
+
+This record shall be updated at the beginning of each academic year following the completion of selections and appointments.
+
+The responsibility for maintaining and updating this record shall lie with the General Secretary of the Cultural Board.
+
+Updating this appendix to reflect new office bearers shall be considered an administrative update and shall not require a formal constitutional amendment.
+
+### Article III – Official Contact Record
+
+The Positions of Responsibility record shall serve as the official reference for communication, administrative coordination, and institutional continuity.
+
+This record shall be maintained in digital format and preserved as part of the Cultural Board’s official archives.
 
 ## SECTION IV – ADMINISTRATIVE AND SOP REFERENCE
 

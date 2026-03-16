@@ -130,6 +130,82 @@ All powers shall be exercised strictly in accordance with the authority granted 
 Any student member of a Cultural Board body who possesses executive, administrative, or decision-making authority shall be considered to hold a Position of Responsibility (PoR).
 All Positions of Responsibility shall operate under the authority and provisions of this Constitution.
 
+# CHAPTER II – DEFINITIONS
+
+For the purposes of this Constitution, the following terms shall have the meanings assigned to them below:
+
+### Article I – Cultural Board
+
+The Cultural Board shall refer to the official student body under the Institute Gymkhana responsible for overseeing, promoting, and coordinating all cultural activities, clubs, fests, and cultural initiatives within IIT Guwahati.
+
+### Article II – Cultural Community
+
+The Cultural Community shall refer collectively to all members of the Cultural Board, Cultural Clubs, fest organizing teams, contingents, and the general student body participating in cultural activities under the Cultural Board.
+
+### Article III – Cultural Board Council
+
+The Cultural Board Council shall refer to the governing body of the Cultural Board consisting of designated office bearers, including the General Secretary, Overall Coordinators, Domain Heads of the Cultural Board and other members as defined by this Constitution.
+
+### Article IV – Cultural Club
+
+A Cultural Club shall refer to any officially recognized student organization operating under the Cultural Board, dedicated to promoting a specific cultural domain, art form, or creative discipline.
+
+### Article V – Fest
+
+A Fest shall refer to any large-scale cultural event organized under the Cultural Board, including but not limited to annual festivals, inter-college festivals, intra-college festivals, and Cultural Board initiatives.
+
+### Article VI – Event
+
+An Event shall refer to any cultural program, competition, workshop, performance, exhibition, or initiative conducted by the Cultural Board, Cultural Clubs, or affiliated teams.
+
+### Article VII – Position of Responsibility (PoR)
+
+A Position of Responsibility (PoR) shall refer to any officially designated leadership or operational role within the Cultural Board, its clubs, fests, or initiatives, including but not limited to General Secretary, Overall Coordinator, Secretary, Head, Executive, Associate, and Editorial roles.
+
+### Article VIII – General Secretary (GS)
+
+The General Secretary shall be the chief student representative and executive authority of the Cultural Board, responsible for overseeing its functioning, governance, and coordination with Institute authorities.
+
+### Article IX – Overall Coordinator (OC)
+
+The Overall Coordinator shall be an office bearer responsible for coordinating and supervising specific domains, clubs, fests, or initiatives under the Cultural Board.
+
+### Article X – Secretary
+
+A Secretary shall refer to the primary student representative and operational head of an individual Cultural Club, responsible for its administration, activities, and coordination with the Cultural Board.
+
+### Article XI – Chairperson
+
+The Chairperson shall refer to the faculty member appointed by the Institute to supervise and oversee the Cultural Board and ensure its functioning in accordance with Institute policies and regulations.
+
+### Article XII – Cultural Board Meeting
+
+A Cultural Board Meeting shall refer to any officially convened meeting of the Cultural Board Council, General Body, or designated committees for governance, coordination, and decision-making purposes.
+
+### Article XIII – General Body Meeting (GBM)
+
+The General Body Meeting shall refer to an official meeting attended by members of the Cultural Board for the purpose of discussion, review, and planning of Cultural Board activities.
+
+### Article XIV – General Body Heads Meeting (GBHM)
+
+The General Body Heads Meeting shall refer to an official meeting attended by Heads, Secretaries, Overall Coordinators, and designated office bearers of Cultural Board clubs and initiatives.
+
+### Article XV – Institute
+
+The Institute shall refer to the Indian Institute of Technology Guwahati (IIT Guwahati).
+
+### Article XVI – Institute Authorities
+
+Institute Authorities shall refer to the Chairperson, Dean of Student Affairs, Student Affairs Section, and other administrative or faculty authorities responsible for governance and oversight of student bodies.
+
+### Article XVII – Academic Year
+
+The Academic Year shall refer to the period defined by the Institute’s academic calendar, typically consisting of two semesters (or three if considering the summer term).
+
+### Article XVIII – Constitution
+
+The Constitution shall refer to this governing document of the Cultural Board, including all approved amendments and appendices.
+
 # CHAPTER II – RIGHTS AND RESPONSIBILITIES
 
 ## SECTION I – RIGHTS OF THE CULTURAL COMMUNITY

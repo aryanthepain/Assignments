@@ -1,32 +1,77 @@
+<!-- Title page: place at very top of the constitution file, before CHAPTER I -->
+
 # Cultural Board Constitution
-
-<br><br>
-
-## INDIAN INSTITUTE OF TECHNOLOGY, GUWAHATI
-
-<br><br>
-
-### Original Constitution Committee
-
-|                             |                 |                     |
-| --------------------------- | --------------- | ------------------- |
-| **DR RAVI K**               |                 |                     |
-| Chairperson, Cultural Board |                 |                     |
-| **AYUSH SAHU**              | **ARYAN GUPTA** | **PRANAV BULBULE**  |
-| General Secretary           | Events Head     | Overall Coordinator |
-
-### Contributions by
-
-Diksha Poonia, Piyush Sen, Adyasa Mohapatra, Arpit Ranjan, Aman Kumar, Daivik Gupta,
-Ayush Wani, Shrawon Dey, Rudraksh B Nair, Divyansh Raj, Arshad, Raman Mishra,
-Vaibhav Sonowal, Anushka Nigul, Vasundhara Kornala, Arpana Tripty,
-Sourajit Chowdhary, Advaith Giridhar, Atul, Aryan Singh.
 
 <br>
 
-### Passed by
+## INDIAN INSTITUTE OF TECHNOLOGY, GUWAHATI
 
-**Cultural Board Council (2025–2026)**
+<br>
+
+### Original Constitution Committee
+
+|                               |                 |                       |
+| ----------------------------: | :-------------: | :-------------------: |
+|                 **DR RAVI K** |                 |                       |
+| _Chairperson, Cultural Board_ |                 |                       |
+|                **AYUSH SAHU** | **ARYAN GUPTA** |  **PRANAV BULBULE**   |
+|           _General Secretary_ |  _Events Head_  | _Overall Coordinator_ |
+
+<br>
+
+**Contributions by:**  
+Diksha Poonia, Piyush Sen, Adyasa Mohapatra, Arpit Ranjan, Aman Kumar, Daivik Gupta, Ayush Wani, Shrawon Dey, Rudraksh B Nair, Divyansh Raj, Arshad, Raman Mishra, Vaibhav Sonowal, Anushka Nigul, Vasundhara Kornala, Arpana Tripty, Sourajit Chowdhary, Advaith Giridhar, Atul, Aryan Singh, Nirai Nilavu.
+
+<br>
+
+**Passed by:** Cultural Board Council (2025–2026)
+
+**Version:** 1.0  
+**Adopted on:** [insert date here]  
+**Archived at:** Cultural Board Shared Drive / Student Affairs Section
+
+## TABLE OF CONTENTS
+
+Title Page
+Table of Contents
+PREAMBLE
+CHAPTER I – GENERAL PROVISIONS
+CHAPTER II – DEFINITIONS
+CHAPTER III – RIGHTS AND RESPONSIBILITIES
+CHAPTER IV – CULTURAL BOARD COUNCIL
+CHAPTER V – CULTURAL CLUBS
+CHAPTER VI – EVENTS
+CHAPTER VII – FESTS
+CHAPTER VIII – MEETINGS
+CHAPTER IX – FINANCE
+CHAPTER X – AMENDMENTS
+CHAPTER XI – ROZ-ROZ
+CHAPTER XII – APPENDICES
+
+- [CHAPTER I – PREAMBLE](#preamble)
+- [CHAPTER II – DEFINITIONS](#chapter-ii--definitions)
+- [CHAPTER III – STRUCTURE OF THE CULTURAL BOARD](#chapter-iii--structure-of-the-cultural-board)
+- [CHAPTER IV – CLUBS](#chapter-iv--clubs)
+- [CHAPTER V – CONTINGENTS](#chapter-v--contingents)
+- [CHAPTER VI – FESTS](#chapter-vi--fests)
+  - [Section I – Alcheringa](#section-i--alcheringa)
+  - [Section II – SPIC MACAY](#section-ii--spic-macay)
+  - [Section III – Roz-Roz (Magazine)](#section-iii--roz-roz-the-cultural-board-magazine)
+- [CHAPTER VII – MEETINGS](#chapter-vii--meetings)
+  - [Section I – General Body Meet](#section-i--general-body-meet)
+  - [Section II – Monthly Meet](#section-ii--monthly-meet)
+- [CHAPTER VIII – FINANCE](#chapter-viii--finance)
+  - [Section I – Sources of Finance](#section-i--sources-of-finance)
+  - [Section II – Budget](#section-ii--budget)
+  - [Section III – Financial Procedures](#section-iii--financial-procedures)
+  - [Section IV – Procurement, Compliance, and Financial Governance](#section-iv--procurement-compliance-and-financial-governance)
+- [CHAPTER IX – AMENDMENTS](#chapter-ix--amendments)
+- [CHAPTER X – ROZ-ROZ (if not under CHAPTER VI)](#chapter-x--roz-roz)
+- [CHAPTER XI – APPENDICES](#chapter-xi--appendices)
+  - [Appendix A – Financial Forms & Templates](#appendix-a--financial-forms--templates)
+  - [Appendix B – Record of Amendments](#appendix-b--record-of-amendments)
+  - [Appendix C – Positions of Responsibility Record](#appendix-c--positions-of-responsibility-record)
+  - [Appendix D – SOP & Administrative References](#appendix-d--sop--administrative-references)
 
 # PREAMBLE
 

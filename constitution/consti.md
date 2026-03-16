@@ -3967,3 +3967,76 @@ The Editorial Team shall ensure timely completion, design, and release of the ma
 Roz-Roz shall function under the authority and oversight of the Cultural Board.
 
 The Cultural Board Council may provide guidance and ensure continuity of the magazine across successive academic years.
+
+# CHAPTER XI – APPENDICES
+
+## SECTION I – FINANCIAL FORMS AND TEMPLATES
+
+### Article I – Official Financial Forms
+
+The Cultural Board shall utilize officially prescribed financial and administrative forms for financial processing, including but not limited to:
+
+- Advance Form
+- Settlement Form
+- Reimbursement Form
+- Sponsorship Form
+- Memorandum of Understanding (MoU) Template
+- Vendor Payment Form
+- Funds Utilization Certificate
+
+These forms shall be maintained by the Cultural Board and updated in accordance with Institute guidelines.
+
+## SECTION II – RECORD OF AMENDMENTS
+
+### Article I – Amendment Log
+
+A permanent record of all amendments to this Constitution shall be maintained.
+
+The amendment log shall include:
+
+- Amendment number
+- Date of approval
+- Articles or Sections amended
+- Summary of amendment
+- Approval authority
+
+This record shall be maintained by the Cultural Board and preserved as an official appendix.
+
+## SECTION III – POSITIONS OF RESPONSIBILITY STRUCTURE
+
+### Article I – Organizational Structure Record
+
+The Cultural Board shall maintain an official record of Positions of Responsibility (PoRs), including:
+
+- General Secretary
+- Overall Coordinators
+- Club Secretaries
+- Fest Office Bearers
+- Editorial Positions
+- Executives and Associates
+
+This record shall define reporting hierarchy and continuity between successive tenures.
+
+## SECTION IV – ADMINISTRATIVE AND SOP REFERENCE
+
+### Article I – Standard Operating Procedures
+
+The Cultural Board shall follow administrative and financial procedures as prescribed by the Institute and Cultural Board Standard Operating Procedures (SOP).
+
+These procedures shall include:
+
+- Event approval procedures
+- Budget approval procedures
+- Financial settlement and reimbursement procedures
+- Sponsorship and MoU procedures
+- Procurement procedures
+
+These SOP documents shall serve as procedural references and shall not override the authority of this Constitution.
+
+## SECTION V – PUBLICATION AND ARCHIVAL RECORD
+
+### Article I – Cultural Board Publications
+
+The Cultural Board shall maintain archival records of official publications, including Roz-Roz, festival reports, and other official documentation.
+
+These archives shall serve as institutional records of Cultural Board activities.

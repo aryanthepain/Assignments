@@ -1,2 +1,5 @@
 # Ignore local WiFi secrets
 iot/secrets.py
+dbms/
+big_data/
+intro_to_ml/

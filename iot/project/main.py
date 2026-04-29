@@ -1,77 +1,27 @@
-# from controller import init_controller
-# from wifi_manager import connect_wifi
-# from web_server import start_server, serve_forever
+from controller import init_controller
+from wifi_manager import connect_wifi
+from web_server import start_server, serve_forever
+from audio_manager import init_sd, init_mic
+from config import HTTP_PORT
 
-# print("Booting smart irrigation controller...")
+print("Booting smart irrigation controller...")
 
-# init_controller()
-# ip = connect_wifi()
+init_sd()
+init_mic()
+init_controller()
 
-# print("Open this in your browser:")
-# print("http://{}/".format(ip))
+ip = connect_wifi()
 
-# server = start_server()
-# serve_forever(server)
+print("Open this in your browser:")
+print("http://{}:{}/".format(ip, HTTP_PORT))
 
-from machine import I2S, Pin, SDCard
-import os
-import time
-
-print("Root:", os.listdir("/"))
-print("Flash:", os.listdir("/flash"))
-
-# -----------------------
-# Mount SD Card
-# -----------------------
+server = None
 try:
-    sd = SDCard()
-    os.mount(sd, "/sd")
-    print("SD card mounted successfully")
-    print("SD contents:", os.listdir("/sd"))
-except Exception as e:
-    print("SD mount failed:", e)
-
-# -----------------------
-# I2S Mic Setup
-# -----------------------
-audio_in = I2S(
-    0,
-    sck=Pin(12),
-    ws=Pin(0),
-    sd=Pin(2),
-    mode=I2S.RX,
-    bits=16,
-    format=I2S.MONO,
-    rate=16000,
-    ibuf=4096
-)
-
-# -----------------------
-# Record Function
-# -----------------------
-def record(seconds=5):
-    buf = bytearray(1024)
-
-    # Unique filename (no overwrite)
-    filename = "/sd/pump_{}.raw".format(time.ticks_ms())
-
-    try:
-        with open(filename, "wb") as f:
-            print("Recording to SD card...")
-
-            for _ in range(int(16000 / 512 * seconds)):
-                num_bytes = audio_in.readinto(buf)
-
-                if num_bytes > 0:
-                    f.write(buf[:num_bytes])
-
-        print("Recording complete")
-        print("Saved file:", filename)
-
-    except Exception as e:
-        print("Recording error:", e)
-
-# -----------------------
-# Run
-# -----------------------
-record(5)
+    server = start_server()
+    serve_forever(server)
+finally:
+    if server is not None:
+        try:
+            server.close()
+        except:
+            pass

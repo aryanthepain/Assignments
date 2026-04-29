@@ -1,6 +1,7 @@
 import socket
 from controller import pump_on, pump_off, pump_toggle, run_for, status, update_controller
 from config import HTTP_PORT
+from audio_manager import record_audio
 
 def parse_path(request_text):
     try:
@@ -90,6 +91,9 @@ def html_page():
         <a class="btn run" href="/run?seconds=2">RUN 2s</a>
         <a class="btn run" href="/run?seconds=5">RUN 5s</a>
         <a class="btn run" href="/run?seconds=10">RUN 10s</a>
+        
+        <br><br>
+        <a class="btn run" style="background: #e65100;" href="/record">RECORD AUDIO</a>
 
         <div class="status">
             <b>Mode:</b> {mode}<br>
@@ -122,6 +126,9 @@ def handle_path(path):
         pump_off()
     elif path == "/toggle":
         pump_toggle()
+    elif path == "/record":
+        # Note: The web server will pause for 5 seconds while this records
+        record_audio()
     elif path.startswith("/run"):
         seconds = parse_run_seconds(path)
         run_for(seconds)

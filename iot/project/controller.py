@@ -60,7 +60,8 @@ def run_for(seconds=None):
     _until_ms = time.ticks_add(time.ticks_ms(), seconds * 1000)
     _last_action = "timed run {}s".format(seconds)
 
-from config import MONITOR_INTERVAL_SECONDS, LAPTOP_IP
+# Make sure to add RECORD_SECONDS to your config import at the top (or inside the function)
+from config import DEFAULT_RUN_SECONDS, MAX_RUN_SECONDS, MONITOR_INTERVAL_SECONDS, LAPTOP_IP, RECORD_SECONDS
 
 _last_monitor_ms = 0
 
@@ -76,7 +77,7 @@ def update_controller():
             _until_ms = None
             _last_action = "timed run complete"
             
-    # --- NEW: Automated ML Fault Monitoring ---
+    # --- Automated ML Fault Monitoring ---
     if _mode in ["ON", "TIMED"]:
         # Check if it's time to record a sample
         if time.ticks_diff(time.ticks_ms(), _last_monitor_ms) > (MONITOR_INTERVAL_SECONDS * 1000):
@@ -85,8 +86,10 @@ def update_controller():
             # Import here to prevent circular import issues
             from audio_manager import record_audio, send_for_analysis
             
-            print("Auto-Monitor triggered...")
-            filename = record_audio(2) # Record 2 seconds
+            print(f"Auto-Monitor triggered... Recording for {RECORD_SECONDS}s")
+            
+            # THE FIX: Use the config variable instead of the hardcoded '2'
+            filename = record_audio(RECORD_SECONDS) 
             
             if filename:
                 status = send_for_analysis(filename, LAPTOP_IP)

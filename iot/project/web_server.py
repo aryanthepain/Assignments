@@ -1,7 +1,7 @@
 import socket
 import os
 from controller import pump_on, pump_off, pump_toggle, run_for, status, update_controller
-from config import HTTP_PORT
+from config import HTTP_PORT, RECORD_SECONDS
 from audio_manager import record_audio
 
 def parse_path(request_text):

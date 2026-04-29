@@ -14,7 +14,7 @@ MAX_RUN_SECONDS = 15
 MIC_SCK_PIN = 0    # PDM mic needs the high-speed bit clock
 MIC_WS_PIN = 12    # Dummy pin (required by MicroPython, ignored by the mic)
 MIC_SD_PIN = 34    # PDM Data line
-RECORD_SECONDS = 2
+RECORD_SECONDS = 5
 
 # (Change this to your laptop's actual IP address!)
 LAPTOP_IP = "192.168.56.1" 

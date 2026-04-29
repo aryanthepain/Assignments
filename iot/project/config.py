@@ -9,3 +9,9 @@ HTTP_PORT = 8080
 
 DEFAULT_RUN_SECONDS = 3
 MAX_RUN_SECONDS = 15
+
+# Audio Settings (M5Stack Core2 Internal Mic)
+MIC_SCK_PIN = 0    # PDM mic needs the high-speed bit clock
+MIC_WS_PIN = 12    # Dummy pin (required by MicroPython, ignored by the mic)
+MIC_SD_PIN = 34    # PDM Data line
+RECORD_SECONDS = 2

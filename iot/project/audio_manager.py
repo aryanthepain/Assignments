@@ -63,3 +63,28 @@ def record_audio(record_seconds=2):
     except Exception as e:
         print("Recording error:", e)
         return None
+
+def send_for_analysis(filename, server_ip):
+    import requests 
+    url = "http://{}:5000/analyze".format(server_ip)
+    
+    try:
+        print("Sending to AI Server...")
+        with open(filename, "rb") as f:
+            audio_data = f.read()
+            
+        # Send raw bytes to the Flask server
+        response = requests.post(
+            url, 
+            data=audio_data, 
+            headers={"Content-Type": "application/octet-stream"}
+        )
+        
+        result = response.json()
+        response.close()
+        print("Server says:", result["status"])
+        return result["status"]
+        
+    except Exception as e:
+        print("Failed to reach server:", e)
+        return "error"

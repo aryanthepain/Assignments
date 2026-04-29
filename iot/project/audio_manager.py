@@ -6,11 +6,22 @@ from config import MIC_SCK_PIN, MIC_WS_PIN, MIC_SD_PIN, RECORD_SECONDS
 audio_in = None
 
 def init_sd():
+    print('initialising sd card')
     try:
-        sd = SDCard()
+        # Check if the system already mounted the SD card automatically
+        if "sd" in os.listdir("/"):
+            print("SD card is already mounted by the system.")
+            print("SD contents:", os.listdir("/sd"))
+            return
+
+        # If not, try mounting it manually (fallback)
+        from machine import SDCard, Pin
+        # CHANGED: slot=3 replaced with slot=2
+        sd = SDCard(slot=2, sck=Pin(18), mosi=Pin(23), miso=Pin(38), cs=Pin(4))
         os.mount(sd, "/sd")
-        print("SD card mounted successfully")
+        print("SD card mounted manually.")
         print("SD contents:", os.listdir("/sd"))
+
     except Exception as e:
         print("SD mount failed:", e)
 

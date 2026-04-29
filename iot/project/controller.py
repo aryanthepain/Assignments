@@ -60,15 +60,43 @@ def run_for(seconds=None):
     _until_ms = time.ticks_add(time.ticks_ms(), seconds * 1000)
     _last_action = "timed run {}s".format(seconds)
 
-def update_controller():
-    global _mode, _until_ms, _last_action
+from config import MONITOR_INTERVAL_SECONDS, LAPTOP_IP
 
+_last_monitor_ms = 0
+
+def update_controller():
+    global _mode, _until_ms, _last_action, _last_monitor_ms
+    import time
+
+    # Existing timed-run logic
     if _until_ms is not None:
         if time.ticks_diff(_until_ms, time.ticks_ms()) <= 0:
             relay_off()
             _mode = "OFF"
             _until_ms = None
             _last_action = "timed run complete"
+            
+    # --- NEW: Automated ML Fault Monitoring ---
+    if _mode in ["ON", "TIMED"]:
+        # Check if it's time to record a sample
+        if time.ticks_diff(time.ticks_ms(), _last_monitor_ms) > (MONITOR_INTERVAL_SECONDS * 1000):
+            _last_monitor_ms = time.ticks_ms()
+            
+            # Import here to prevent circular import issues
+            from audio_manager import record_audio, send_for_analysis
+            
+            print("Auto-Monitor triggered...")
+            filename = record_audio(2) # Record 2 seconds
+            
+            if filename:
+                status = send_for_analysis(filename, LAPTOP_IP)
+                
+                if status == "fault":
+                    print("⚠️ FAULT DETECTED! SHUTTING DOWN PUMP!")
+                    relay_off()
+                    _mode = "OFF"
+                    _until_ms = None
+                    _last_action = "AUTO-SHUTDOWN (FAULT)"
 
 def seconds_remaining():
     if _until_ms is None:

@@ -4,3 +4,5 @@ dbms/
 big_data/
 intro_to_ml/
 data_vis/
+dataset/
+*.zip
